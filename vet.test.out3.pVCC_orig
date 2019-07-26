@@ -1,0 +1,1537 @@
+["ACC", null, "NOM", null]	13649	2	pVCC
+["ACC", null, "NOM", null, "SUB", null]	5437	3	pVCC
+["ACC", "vég", "DAT", null, "NOM", null]	2632	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szem"]	1085	4	pVCC
+["ACC", "maga", "NOM", null]	964	3	pVCC
+["ACC", "pillantás", "NOM", null, "SUB", null]	839	4	pVCC
+["ACC", null, "NOM", null, "SUB", "papír"]	673	4	pVCC
+["ACC", "fény", "NOM", null, "SUB", null]	402	4	pVCC
+["ACC", "szám", "INS", null, "NOM", null]	371	4	pVCC
+["ACC", "gát", "DAT", null, "NOM", null]	362	4	pVCC
+["ACC", "maga", "NOM", null, "SUB", null]	345	4	pVCC
+["ACC", "maga", "ILL", null, "NOM", null]	339	4	pVCC
+["ACC", "az", "NOM", null, "SUB", "szem"]	302	5	pVCC
+["NOM", null, "SUB", "maga"]	297	3	pVCC
+["ACC", "szem", "NOM", null, "SUB", null]	285	4	pVCC
+["ACC", "kereszt", "NOM", null]	261	3	pVCC
+["ACC", "árnyék", "NOM", null, "SUB", null]	258	4	pVCC
+["ACC", null, "ILL", "lat", "NOM", null]	240	4	pVCC
+["ACC", null, "NOM", null, "SUB", "én"]	225	4	pVCC
+["ACC", null, "NOM", "aki"]	201	3	pVCC
+["ACC", "ügy", "NOM", null, "SUB", null]	198	4	pVCC
+["ACC", null, "NOM", null, "TEM", "az"]	187	4	pVCC
+["ACC", "maga", "INS", null, "NOM", null]	162	4	pVCC
+["ACC", null, "ILL", "börtön", "NOM", null]	122	4	pVCC
+["ACC", null, "NOM", "amely"]	113	3	pVCC
+["ACC", "ami", "NOM", null, "SUB", null]	101	4	pVCC
+["ACC", "tekintet", "NOM", null, "SUB", null]	98	4	pVCC
+["ACC", null, "NOM", null, "SUB", "az"]	95	4	pVCC
+["ACC", "szám", "INS", "az", "NOM", null]	95	5	pVCC
+["ACC", null, "NOM", "aki", "SUB", null]	89	4	pVCC
+["ACC", "ágy", "NOM", null]	85	3	pVCC
+["ACC", "befolyás", "ILL", "lat", "NOM", null]	85	5	pVCC
+["ACC", null, "NOM", null, "SUB", "ő"]	84	4	pVCC
+["ACC", null, "NOM", null, "felé", "felé|ő"]	83	4	pVCC
+["ACC", "kő", "NOM", null, "SUB", null]	80	4	pVCC
+["ACC", null, "DAT", "ő", "NOM", null]	79	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ők"]	76	4	pVCC
+["ACC", "hullám", "NOM", null]	73	3	pVCC
+["ACC", "maga", "INE", null, "NOM", null]	72	4	pVCC
+["ACC", null, "NOM", "ember"]	72	3	pVCC
+["ACC", "mi", "NOM", null]	71	3	pVCC
+["ACC", "búza", "NOM", null]	68	3	pVCC
+["ACC", "kereszt", "NOM", null, "SUB", null]	68	4	pVCC
+["ILL", null, "NOM", "hit"]	68	3	pVCC
+["ACC", "hát", "DAT", null, "NOM", null]	66	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mi"]	66	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TEM", "az"]	63	5	pVCC
+["ACC", null, "NOM", null, "közé", "közé|ő"]	60	4	pVCC
+["ACC", "bukfenc", "NOM", null]	59	3	pVCC
+["ACC", null, "NOM", "ez"]	56	3	pVCC
+["ACC", "gát", "DAT", null, "INS", null, "NOM", null]	53	5	pVCC
+["ACC", null, "NOM", null, "SUB", "föld"]	53	4	pVCC
+["ACC", "ők", "NOM", null]	53	3	pVCC
+["ACC", "szó", "NOM", null]	52	3	pVCC
+["ACC", null, "NOM", null, "SUB", "part"]	50	4	pVCC
+["ACC", null, "ILL", "nyak", "NOM", null]	46	4	pVCC
+["ACC", null, "NOM", "sors"]	46	3	pVCC
+["ACC", "amely", "NOM", null, "SUB", null]	45	4	pVCC
+["ACC", "horgony", "NOM", null]	44	3	pVCC
+["ACC", "mag", "NOM", null]	44	3	pVCC
+["ACC", "pillantás", "NOM", null, "felé", "felé|ő"]	43	5	pVCC
+["ACC", null, "NOM", "amely", "SUB", null]	41	4	pVCC
+["ACC", "szikra", "NOM", null]	41	3	pVCC
+["ACC", "ágy", "DAT", null, "NOM", null]	40	4	pVCC
+["ACC", null, "NOM", null, "SUP", "terület"]	40	4	pVCC
+["ACC", "bizalom", "ILL", null, "NOM", null]	39	4	pVCC
+["ACC", "láb", "NOM", null]	39	3	pVCC
+["ACC", null, "NOM", null, "ellen", "ő"]	39	4	pVCC
+["ACC", null, "NOM", null, "SUP", "hektár"]	39	4	pVCC
+["ACC", null, "NOM", "ami"]	38	3	pVCC
+["ACC", "pillantás", "ILL", null, "NOM", null]	38	4	pVCC
+["ACC", "vég", "DAT", null, "NOM", null, "TEM", "az"]	37	6	pVCC
+["ACC", null, "ILL", "harc", "NOM", null]	36	4	pVCC
+["ACC", null, "NOM", "elnök"]	36	3	pVCC
+["ACC", null, "NOM", null, "SUB", "tűz"]	36	4	pVCC
+["ACC", null, "NOM", null, "SUB", "váll"]	35	4	pVCC
+["ACC", null, "ILL", "tűz", "NOM", null]	34	4	pVCC
+["ACC", "befolyás", "ILL", "lat", "INE", "érdek", "NOM", null]	33	7	pVCC
+["ACC", "kukorica", "NOM", null]	33	3	pVCC
+["ACC", null, "ILL", null, "NOM", "aki"]	33	4	pVCC
+["ACC", "fej", "NOM", null]	32	3	pVCC
+["ACC", null, "ILL", "fogság", "NOM", null]	32	4	pVCC
+["ACC", null, "NOM", "ez", "SUB", null]	32	4	pVCC
+["ACC", null, "NOM", "ki"]	32	3	pVCC
+["ACC", "aki", "NOM", null]	31	3	pVCC
+["ACC", "kő", "NOM", null, "SUB", "ő"]	31	5	pVCC
+["ACC", "láng", "NOM", null]	31	3	pVCC
+["ACC", null, "NOM", "szem"]	30	3	pVCC
+["ACC", "pillantás", "NOM", null, "felé", "én"]	30	5	pVCC
+["ACC", "kő", "NOM", "az", "SUB", null]	29	5	pVCC
+["ACC", null, "NOM", "én"]	29	3	pVCC
+["ACC", null, "NOM", null, "alá", "vizsgálat"]	29	4	pVCC
+["ACC", "hit", "ILL", null, "NOM", null]	28	4	pVCC
+["ACC", "minden", "NOM", null]	28	3	pVCC
+["ACC", null, "NOM", "mely"]	28	3	pVCC
+["ACC", null, "NOM", null, "SUB", "maga"]	28	4	pVCC
+["ACC", "vég", "DAT", "élet", "INS", "önkéz", "NOM", null]	28	7	pVCC
+["ACC", "maga", "INE", null, "NOM", null, "SUB", null]	27	5	pVCC
+["ACC", null, "DAT", "folyamat", "NOM", null]	27	4	pVCC
+["ACC", null, "INE", "év", "NOM", null]	27	4	pVCC
+["ACC", null, "INS", null, "NOM", "aki"]	27	4	pVCC
+["ACC", null, "NOM", "ember", "SUB", null]	27	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ez"]	27	4	pVCC
+["ACC", null, "NOM", "úr"]	27	3	pVCC
+["ACC", "szél", "NOM", null]	27	3	pVCC
+["ACC", "vég", "DAT", null, "NOM", null, "SUB", "mindenkor"]	27	6	pVCC
+["NOM", null, "SUB", "maga", "TEM", "az"]	27	5	pVCC
+["ACC", "árny", "NOM", null, "SUB", null]	26	4	pVCC
+["ACC", "maga", "DAT", null, "NOM", null]	26	4	pVCC
+["ACC", null, "INS", "erő", "NOM", null]	26	4	pVCC
+["ACC", null, "NOM", "szemét", "SUB", null]	26	4	pVCC
+["ACC", "gáncs", "NOM", null]	25	3	pVCC
+["ACC", null, "INE", "idő", "NOM", null]	25	4	pVCC
+["ACC", "remény", "ILL", null, "NOM", null]	25	4	pVCC
+["ACC", null, "NOM", null, "SUB", "te"]	24	4	pVCC
+["ACC", null, "NOM", null, "SUP", "vég"]	24	4	pVCC
+["ACC", "szám", "DAT", null, "INS", null, "NOM", null]	24	5	pVCC
+["ACC", "mely", "NOM", null, "SUB", null]	23	4	pVCC
+["ACC", null, "ILL", "föld", "NOM", null]	23	4	pVCC
+["ACC", "búza", "NOM", null, "SUP", null]	22	4	pVCC
+["ACC", "maga", "NOM", null, "közé", "közé|ő"]	22	5	pVCC
+["ACC", null, "DAT", "ők", "NOM", null]	22	4	pVCC
+["ACC", "ők", "ILL", null, "NOM", null]	22	4	pVCC
+["ACC", "rész", "NOM", null]	22	3	pVCC
+["ACC", "szó", "DAT", null, "NOM", null]	22	4	pVCC
+["NOM", null, "SUP", "hely"]	22	3	pVCC
+["ACC", "ember", "NOM", null]	21	3	pVCC
+["ACC", null, "NOM", null, "SUB", "máglya"]	21	4	pVCC
+["ACC", "hát", "DAT", "fal", "NOM", null]	20	5	pVCC
+["ACC", "maga", "NOM", null, "elé", "vonat"]	20	5	pVCC
+["ACC", null, "NOM", "asszony"]	20	3	pVCC
+["ACC", null, "NOM", null, "elébe", "ő"]	20	4	pVCC
+["ACC", null, "NOM", null, "SUP", "alap"]	20	4	pVCC
+["ACC", null, "NOM", null, "TER", "ez"]	20	4	pVCC
+["ACC", null, "NOM", "vezető"]	20	3	pVCC
+["ACC", null, "NOM", "nap"]	19	3	pVCC
+["ACC", null, "NOM", null, "SUB", "felszín"]	19	4	pVCC
+["ACC", null, "NOM", null, "SUP", "eleje"]	19	4	pVCC
+["ACC", null, "NOM", "párt"]	19	3	pVCC
+["ACC", "ők", "NOM", null, "SUB", null]	19	4	pVCC
+["ACC", "árnyék", "NOM", null, "SUP", null]	18	4	pVCC
+["ACC", "hurok", "NOM", null]	18	3	pVCC
+["ACC", "mag", "ILL", null, "NOM", null]	18	4	pVCC
+["ACC", null, "DAT", "maga", "NOM", null]	18	4	pVCC
+["ACC", null, "INE", "eset", "NOM", null]	18	4	pVCC
+["ACC", null, "INE", null, "NOM", "aki"]	18	4	pVCC
+["ACC", null, "NOM", "év"]	18	3	pVCC
+["ACC", null, "NOM", null, "SUB", "hát"]	18	4	pVCC
+["ACC", null, "NOM", "tag"]	18	3	pVCC
+["NOM", "es"]	18	2	pVCC
+["ACC", "árnyék", "INE", null, "NOM", null, "SUB", null]	17	5	pVCC
+["ACC", "kocka", "NOM", null]	17	3	pVCC
+["ACC", null, "NOM", "anya"]	17	3	pVCC
+["ACC", null, "NOM", "férfi"]	17	3	pVCC
+["ACC", null, "NOM", "gazda"]	17	3	pVCC
+["ACC", null, "NOM", null, "TEM", "ugyanaz"]	17	4	pVCC
+["ACC", "oldalpillantás", "NOM", null, "SUB", null]	17	4	pVCC
+["ACC", "sors", "NOM", null]	17	3	pVCC
+["ILL", "erő", "NOM", null]	17	3	pVCC
+["NOM", "adat"]	17	2	pVCC
+["ACC", "betű", "NOM", null]	16	3	pVCC
+["ACC", null, "DAT", "én", "NOM", null]	16	4	pVCC
+["ACC", null, "ILL", "tömlöc", "NOM", null]	16	4	pVCC
+["ACC", null, "NOM", "apa"]	16	3	pVCC
+["ACC", null, "NOM", "élet"]	16	3	pVCC
+["ACC", null, "NOM", "jó"]	16	3	pVCC
+["ACC", null, "NOM", null, "SUP", "sor"]	16	4	pVCC
+["ACC", null, "NOM", "ő"]	16	3	pVCC
+["ACC", null, "NOM", "víz"]	16	3	pVCC
+["ACC", "ránc", "NOM", null]	16	3	pVCC
+["ACC", "valami", "NOM", null]	16	3	pVCC
+["ACC", "vers", "NOM", null]	16	3	pVCC
+["ILL", null, "NOM", "bizalom"]	16	3	pVCC
+["ACC", "horgony", "INE", null, "NOM", null]	15	4	pVCC
+["ACC", "hullám", "INE", null, "NOM", null]	15	4	pVCC
+["ACC", "kérdés", "NOM", null]	15	3	pVCC
+["ACC", "növény", "NOM", null]	15	3	pVCC
+["ACC", null, "ELA", "szempont", "NOM", null]	15	4	pVCC
+["ACC", null, "INE", "pillanat", "NOM", null]	15	4	pVCC
+["ACC", null, "INS", null, "NOM", "amely"]	15	4	pVCC
+["ACC", null, "NOM", "László"]	15	3	pVCC
+["ACC", null, "NOM", null, "SUB", "amely"]	15	4	pVCC
+["ACC", null, "NOM", null, "SUB", "asztal"]	15	4	pVCC
+["ACC", null, "NOM", null, "SUB", "egymás"]	15	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kocka"]	15	4	pVCC
+["ACC", null, "NOM", null, "SUB", "Párizs"]	15	4	pVCC
+["ACC", null, "NOM", null, "szerint", "ő"]	15	4	pVCC
+["ACC", null, "NOM", "úr", "SUB", null]	15	4	pVCC
+["ACC", "szem", "INE", null, "NOM", null, "SUB", null]	15	5	pVCC
+["ACC", "széna", "NOM", null]	15	3	pVCC
+["ACC", "vályog", "NOM", null]	15	3	pVCC
+["ACC", "aki", "ILL", null, "NOM", null]	14	4	pVCC
+["ACC", "gabona", "NOM", null]	14	3	pVCC
+["ACC", "gáncs", "DAT", null, "NOM", null]	14	4	pVCC
+["ACC", "kártya", "NOM", null]	14	3	pVCC
+["ACC", null, "DAT", "törekvés", "NOM", null]	14	4	pVCC
+["ACC", null, "ILL", "tenger", "NOM", null]	14	4	pVCC
+["ACC", null, "INS", "amely", "NOM", null]	14	4	pVCC
+["ACC", null, "NOM", "fiú"]	14	3	pVCC
+["ACC", null, "NOM", "lány"]	14	3	pVCC
+["ACC", null, "NOM", "magyar"]	14	3	pVCC
+["ACC", null, "NOM", "szem", "SUB", null]	14	4	pVCC
+["ACC", "ágy", "DAT", null, "INE", null, "NOM", null]	13	5	pVCC
+["ACC", "ami", "ILL", null, "NOM", null]	13	4	pVCC
+["ACC", "bukfenc", "INE", null, "NOM", null]	13	4	pVCC
+["ACC", "dolog", "NOM", null]	13	3	pVCC
+["ACC", "élet", "NOM", null, "SUB", null]	13	4	pVCC
+["ACC", "én", "NOM", null]	13	3	pVCC
+["ACC", "napraforgó", "NOM", null]	13	3	pVCC
+["ACC", null, "ILL", null, "NOM", "ember"]	13	4	pVCC
+["ACC", null, "INE", "év", "NOM", null, "SUB", null]	13	5	pVCC
+["ACC", null, "INS", "ez", "NOM", null, "SUB", null]	13	5	pVCC
+["ACC", null, "NOM", null, "elé", "mi"]	13	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "vég"]	13	5	pVCC
+["ACC", "súly", "NOM", null, "SUB", null]	13	4	pVCC
+["ACC", "szem", "INS", null, "NOM", null, "SUB", null]	13	5	pVCC
+["DAT", null, "NOM", null, "ellen", "ő"]	13	4	pVCC
+["NOM", "szelet"]	13	2	pVCC
+["ACC", "cigánykerék", "NOM", null]	12	3	pVCC
+["ACC", "csel", "NOM", null]	12	3	pVCC
+["ACC", "folt", "NOM", null, "SUB", null]	12	4	pVCC
+["ACC", "háló", "NOM", null]	12	3	pVCC
+["ACC", "kereszt", "INE", null, "NOM", null]	12	4	pVCC
+["ACC", "kéz", "NOM", null, "SUB", null]	12	4	pVCC
+["ACC", "maga", "NOM", null, "SUB", "térd", "előtt", null]	12	6	pVCC
+["ACC", null, "DAT", null, "INE", "idő", "NOM", null]	12	5	pVCC
+["ACC", null, "DAT", null, "INS", "eszköz", "NOM", null]	12	5	pVCC
+["ACC", null, "DAT", null, "NOM", null, "alá", "maga"]	12	5	pVCC
+["ACC", null, "INE", "nap", "NOM", null]	12	4	pVCC
+["ACC", null, "INS", "mozdulat", "NOM", null]	12	4	pVCC
+["ACC", null, "INS", "segítség", "NOM", null]	12	4	pVCC
+["ACC", null, "NOM", "aki", "SUP", null]	12	4	pVCC
+["ACC", null, "NOM", "fény"]	12	3	pVCC
+["ACC", null, "NOM", "hosszú"]	12	3	pVCC
+["ACC", null, "NOM", "hullám"]	12	3	pVCC
+["ACC", null, "NOM", "isten"]	12	3	pVCC
+["ACC", null, "NOM", null, "mögé", "ő"]	12	4	pVCC
+["ACC", null, "NOM", null, "SUB", "asszony"]	12	4	pVCC
+["ACC", null, "NOM", null, "SUB", "lány"]	12	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mérleg"]	12	4	pVCC
+["ACC", null, "NOM", null, "SUB", "nő"]	12	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "idő"]	12	5	pVCC
+["ACC", null, "NOM", null, "SUB", "úr"]	12	4	pVCC
+["ACC", null, "NOM", "olyan"]	12	3	pVCC
+["ACC", null, "NOM", "sors", "SUB", null]	12	4	pVCC
+["ACC", null, "NOM", "ügy", "SUB", null]	12	4	pVCC
+["NOM", "lobbot"]	12	2	pVCC
+["ACC", "búza", "NOM", null, "SUP", "hektár"]	11	5	pVCC
+["ACC", "fej", "NOM", null, "SUB", null]	11	4	pVCC
+["ACC", "figyelem", "NOM", null, "SUB", null]	11	4	pVCC
+["ACC", "füst", "NOM", null]	11	3	pVCC
+["ACC", "horgony", "NOM", null, "SUP", null]	11	4	pVCC
+["ACC", "kukorica", "NOM", null, "SUP", null]	11	4	pVCC
+["ACC", "mák", "NOM", null]	11	3	pVCC
+["ACC", null, "DAT", "kutya", "NOM", null]	11	4	pVCC
+["ACC", null, "DAT", null, "NOM", "ember"]	11	4	pVCC
+["ACC", null, "NOM", "hirtelen"]	11	3	pVCC
+["ACC", null, "NOM", "ki", "SUB", null]	11	4	pVCC
+["ACC", null, "NOM", "nap", "SUB", null]	11	4	pVCC
+["ACC", null, "NOM", null, "alá", "láb"]	11	4	pVCC
+["ACC", null, "NOM", null, "elé", "én"]	11	4	pVCC
+["ACC", null, "NOM", null, "mellé", "mellé|ő"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUB", "arc"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUB", "idő"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TER", "ez"]	11	5	pVCC
+["ACC", null, "NOM", null, "SUB", "párt"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUP", "föld"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUP", "hely"]	11	4	pVCC
+["ACC", null, "NOM", null, "SUP", "nyom"]	11	4	pVCC
+["ACC", null, "NOM", null, "TEM", "Ugyanaz"]	11	4	pVCC
+["ACC", null, "NOM", null, "után", "ő"]	11	4	pVCC
+["ACC", "világ", "NOM", null, "SUB", null]	11	4	pVCC
+["ILL", "mindenhatóság", "NOM", null]	11	3	pVCC
+["NOM", null, "elé", "mókus"]	11	3	pVCC
+["ACC", "aki", "NOM", null, "SUB", null]	10	4	pVCC
+["ACC", "az", "ILL", null, "NOM", null]	10	4	pVCC
+["ACC", "bukfenc", "NOM", null, "SUP", null]	10	4	pVCC
+["ACC", "láb", "ILL", "kereszt", "NOM", null]	10	5	pVCC
+["ACC", "maga", "NOM", null, "alá", "vonat"]	10	5	pVCC
+["ACC", null, "DAT", "ez", "INS", null, "NOM", null]	10	5	pVCC
+["ACC", null, "ILL", null, "NOM", "amely"]	10	4	pVCC
+["ACC", null, "INE", "élet", "NOM", null]	10	4	pVCC
+["ACC", null, "INE", "megye", "NOM", null]	10	4	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUP", "hektár"]	10	5	pVCC
+["ACC", null, "INE", "ország", "NOM", null]	10	4	pVCC
+["ACC", null, "INS", "tavasz", "NOM", null]	10	4	pVCC
+["ACC", null, "NOM", "adat"]	10	3	pVCC
+["ACC", null, "NOM", "álló"]	10	3	pVCC
+["ACC", null, "NOM", "dolog"]	10	3	pVCC
+["ACC", null, "NOM", "én", "SUB", null]	10	4	pVCC
+["ACC", null, "NOM", "nép"]	10	3	pVCC
+["ACC", null, "NOM", null, "elé", "ők"]	10	4	pVCC
+["ACC", null, "NOM", null, "SUB", "lat"]	10	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mély"]	10	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TEM", "ugyanaz"]	10	5	pVCC
+["ACC", null, "NOM", null, "SUP", "ez"]	10	4	pVCC
+["ACC", null, "NOM", null, "SUP", "nap"]	10	4	pVCC
+["ACC", null, "NOM", "olvasó"]	10	3	pVCC
+["ACC", null, "NOM", "ország"]	10	3	pVCC
+["ACC", null, "NOM", "szó"]	10	3	pVCC
+["ACC", "probléma", "NOM", null]	10	3	pVCC
+["ACC", "tűz", "NOM", null]	10	3	pVCC
+["ACC", "zab", "NOM", null]	10	3	pVCC
+["NOM", null, "SUB", "magatok"]	10	3	pVCC
+["ACC", "amely", "NOM", null, "SUB", null, "SUP", null]	9	5	pVCC
+["ACC", "búza", "INS", null, "NOM", null]	9	4	pVCC
+["ACC", "fajta", "NOM", null]	9	3	pVCC
+["ACC", "írás", "NOM", null, "SUB", null]	9	4	pVCC
+["ACC", "kereszt", "INS", null, "NOM", null]	9	4	pVCC
+["ACC", "kevés", "NOM", null]	9	3	pVCC
+["ACC", "ki", "NOM", null]	9	3	pVCC
+["ACC", "lob", "NOM", null]	9	3	pVCC
+["ACC", "lucerna", "NOM", null]	9	3	pVCC
+["ACC", "mi", "ILL", null, "NOM", null]	9	4	pVCC
+["ACC", "mi", "NOM", null, "SUP", null]	9	4	pVCC
+["ACC", null, "DAT", "korrupció", "NOM", null]	9	4	pVCC
+["ACC", null, "DAT", null, "INE", null, "INS", null, "NOM", null, "SUP", null]	9	6	pVCC
+["ACC", null, "DAT", null, "NOM", "törvény"]	9	4	pVCC
+["ACC", null, "ILL", "börtön", "INS", null, "NOM", null]	9	5	pVCC
+["ACC", null, "ILL", "irány", "NOM", null]	9	4	pVCC
+["ACC", null, "ILL", "nyilvántartás", "NOM", null]	9	4	pVCC
+["ACC", null, "INE", "amely", "NOM", null]	9	4	pVCC
+["ACC", null, "INE", "kör", "NOM", null]	9	4	pVCC
+["ACC", null, "INE", "maga", "NOM", null]	9	4	pVCC
+["ACC", null, "INE", null, "NOM", "amely"]	9	4	pVCC
+["ACC", null, "INE", null, "NOM", null, "alá", "vizsgálat"]	9	5	pVCC
+["ACC", null, "INE", "öröm", "NOM", null]	9	4	pVCC
+["ACC", null, "INS", "az", "NOM", null, "SUB", null]	9	5	pVCC
+["ACC", null, "INS", null, "NOM", "elnök"]	9	4	pVCC
+["ACC", null, "INS", "ők", "NOM", null]	9	4	pVCC
+["ACC", null, "NOM", "ember", "SUP", null]	9	4	pVCC
+["ACC", null, "NOM", "háború"]	9	3	pVCC
+["ACC", null, "NOM", "katona"]	9	3	pVCC
+["ACC", null, "NOM", "kéz"]	9	3	pVCC
+["ACC", null, "NOM", "mely", "SUB", null]	9	4	pVCC
+["ACC", null, "NOM", "mi"]	9	3	pVCC
+["ACC", null, "NOM", "miniszterelnök"]	9	3	pVCC
+["ACC", null, "NOM", "nagy", "SUB", null]	9	4	pVCC
+["ACC", null, "NOM", null, "felé", "mi"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", "gabonasortávolság"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ház"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", "munka"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "alap"]	9	5	pVCC
+["ACC", null, "NOM", null, "SUB", "oldal"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", "part", "SUP", null]	9	5	pVCC
+["ACC", null, "NOM", null, "SUB", "terület"]	9	4	pVCC
+["ACC", null, "NOM", null, "SUB", "város"]	9	4	pVCC
+["ACC", null, "NOM", null, "szerint", "én"]	9	4	pVCC
+["ACC", null, "NOM", null, "után", "ez"]	9	4	pVCC
+["ACC", null, "NOM", "szervezet"]	9	3	pVCC
+["ACC", null, "NOM", "tag", "SUB", null]	9	4	pVCC
+["ACC", null, "NOM", "új"]	9	3	pVCC
+["ACC", null, "NOM", "vagyon"]	9	3	pVCC
+["ACC", null, "NOM", "világ"]	9	3	pVCC
+["ACC", "pénz", "NOM", null]	9	3	pVCC
+["ACC", "valami", "DAT", null, "NOM", null]	9	4	pVCC
+["ACC", "világosság", "NOM", null, "SUB", null]	9	4	pVCC
+["ACC", "alap", "DAT", null, "NOM", null]	8	4	pVCC
+["ACC", "árnyék", "INS", null, "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", "bizodalom", "ILL", null, "NOM", null]	8	4	pVCC
+["ACC", "hab", "NOM", null]	8	3	pVCC
+["ACC", "horog", "ILL", null, "NOM", null]	8	4	pVCC
+["ACC", "krumpli", "NOM", null]	8	3	pVCC
+["ACC", "maga", "DEL", null, "ILL", "mély", "NOM", null]	8	6	pVCC
+["ACC", "más", "NOM", null]	8	3	pVCC
+["ACC", "minden", "NOM", null, "SUB", null]	8	4	pVCC
+["ACC", null, "DAT", "egymás", "NOM", null]	8	4	pVCC
+["ACC", null, "DAT", "ez", "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", null, "DAT", null, "NOM", null, "TEM", "ugyanaz"]	8	5	pVCC
+["ACC", null, "DEL", "oldal", "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", null, "ELA", "ez", "NOM", null]	8	4	pVCC
+["ACC", null, "ILL", "börtön", "INE", null, "NOM", null]	8	5	pVCC
+["ACC", null, "ILL", "ész", "NOM", null]	8	4	pVCC
+["ACC", null, "ILL", "ő", "NOM", null]	8	4	pVCC
+["ACC", null, "INE", "eset", "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", null, "INE", "ez", "NOM", null]	8	4	pVCC
+["ACC", null, "INE", "idő", "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", null, "INE", "pillanat", "NOM", null, "SUB", null]	8	5	pVCC
+["ACC", null, "INS", "hektár", "NOM", null]	8	4	pVCC
+["ACC", null, "INS", "kéz", "NOM", null]	8	4	pVCC
+["ACC", null, "INS", null, "NOM", "aki", "SUB", null]	8	5	pVCC
+["ACC", null, "INS", null, "NOM", "ember"]	8	4	pVCC
+["ACC", null, "INS", "szó", "NOM", null]	8	4	pVCC
+["ACC", null, "NOM", "Attila"]	8	3	pVCC
+["ACC", null, "NOM", "botrány"]	8	3	pVCC
+["ACC", null, "NOM", "es"]	8	3	pVCC
+["ACC", null, "NOM", "gyerek"]	8	3	pVCC
+["ACC", null, "NOM", "hát"]	8	3	pVCC
+["ACC", null, "NOM", "ház"]	8	3	pVCC
+["ACC", null, "NOM", "igaz"]	8	3	pVCC
+["ACC", null, "NOM", "nő"]	8	3	pVCC
+["ACC", null, "NOM", null, "alá", "ellenőrzés"]	8	4	pVCC
+["ACC", null, "NOM", null, "alá", "ő"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "aki"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "anya"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "élet"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ember"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "hely"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kapcsolat"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "közt", "ők"]	8	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TER", "az"]	8	5	pVCC
+["ACC", null, "NOM", null, "SUB", "papiros"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szemét"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szem", "között", "több"]	8	6	pVCC
+["ACC", null, "NOM", null, "SUB", "szó"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tevékenység"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "világ"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUB", "viszony"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUP", "nyár"]	8	4	pVCC
+["ACC", null, "NOM", null, "SUP", "tér"]	8	4	pVCC
+["ACC", null, "NOM", "rész"]	8	3	pVCC
+["ACC", null, "NOM", "rövid"]	8	3	pVCC
+["ACC", null, "NOM", "szemét", "SUB", "Párizs"]	8	5	pVCC
+["ACC", null, "NOM", "vita"]	8	3	pVCC
+["ACC", "ő", "ILL", null, "NOM", null]	8	4	pVCC
+["ACC", "rész", "NOM", null, "SUP", null]	8	4	pVCC
+["ACC", "sors", "NOM", null, "SUB", null]	8	4	pVCC
+["ACC", "szám", "INS", null, "NOM", null, "TEM", "az"]	8	6	pVCC
+["ACC", "tekintet", "ILL", null, "NOM", null]	8	4	pVCC
+["ACC", "valami", "NOM", null, "SUB", null]	8	4	pVCC
+["ACC", "vetőmag", "NOM", null]	8	3	pVCC
+["ILL", "isten", "NOM", null]	8	3	pVCC
+["ACC", "ágy", "NOM", null, "SUB", null]	7	4	pVCC
+["ACC", "ami", "INS", null, "NOM", null]	7	4	pVCC
+["ACC", "bog", "NOM", null]	7	3	pVCC
+["ACC", "búza", "INE", null, "NOM", null, "SUP", null]	7	5	pVCC
+["ACC", "cigánykerék", "INE", null, "NOM", null]	7	4	pVCC
+["ACC", "ember", "ILL", null, "NOM", null]	7	4	pVCC
+["ACC", "ember", "NOM", null, "SUB", null]	7	4	pVCC
+["ACC", "fék", "NOM", null]	7	3	pVCC
+["ACC", "gabona", "NOM", null, "SUP", null]	7	4	pVCC
+["ACC", "kalászos", "NOM", null]	7	3	pVCC
+["ACC", "kar", "NOM", null]	7	3	pVCC
+["ACC", "konc", "DAT", null, "NOM", null]	7	4	pVCC
+["ACC", "látlelet", "NOM", null]	7	3	pVCC
+["ACC", "maga", "NOM", null, "elébe", "ő"]	7	5	pVCC
+["ACC", null, "ADE", "mi", "NOM", null]	7	4	pVCC
+["ACC", null, "ALL", "az", "NOM", null]	7	4	pVCC
+["ACC", null, "DAT", "az", "INS", null, "NOM", null]	7	5	pVCC
+["ACC", null, "DAT", "mely", "NOM", null]	7	4	pVCC
+["ACC", null, "DAT", null, "INE", "eset", "NOM", null]	7	5	pVCC
+["ACC", null, "DAT", null, "NOM", "hatóság"]	7	4	pVCC
+["ACC", null, "DAT", null, "NOM", "jó"]	7	4	pVCC
+["ACC", null, "DAT", "te", "NOM", null]	7	4	pVCC
+["ACC", null, "ELA", "szempont", "NOM", null, "SUB", null]	7	5	pVCC
+["ACC", null, "ESS", "ráadás", "NOM", null, "SUB", null]	7	5	pVCC
+["ACC", null, "ILL", "arc", "NOM", null]	7	4	pVCC
+["ACC", null, "ILL", "kút", "NOM", null]	7	4	pVCC
+["ACC", null, "ILL", null, "NOM", "sors"]	7	4	pVCC
+["ACC", null, "ILL", "út", "NOM", null]	7	4	pVCC
+["ACC", null, "INE", "fény", "NOM", null]	7	4	pVCC
+["ACC", null, "INE", null, "NOM", "ember"]	7	4	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "az"]	7	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "föld"]	7	5	pVCC
+["ACC", null, "INE", "október", "NOM", null]	7	4	pVCC
+["ACC", null, "INS", "alkalom", "NOM", null, "SUB", null]	7	5	pVCC
+["ACC", null, "INS", "hét", "NOM", null]	7	4	pVCC
+["ACC", null, "INS", "szem", "NOM", null]	7	4	pVCC
+["ACC", null, "NOM", "apa", "SUB", null]	7	4	pVCC
+["ACC", null, "NOM", "árnyék"]	7	3	pVCC
+["ACC", null, "NOM", "barát"]	7	3	pVCC
+["ACC", null, "NOM", "csoport"]	7	3	pVCC
+["ACC", null, "NOM", "egész"]	7	3	pVCC
+["ACC", null, "NOM", "fiatal"]	7	3	pVCC
+["ACC", null, "NOM", "hosszú", "SUB", null]	7	4	pVCC
+["ACC", null, "NOM", "János"]	7	3	pVCC
+["ACC", null, "NOM", "nemzet"]	7	3	pVCC
+["ACC", null, "NOM", null, "alá", "elemzés"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "bal"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "beteg"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ég"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "fej"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kéz"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ló"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "más"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "másik"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "messzi"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "nap"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "eleje"]	7	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "sor"]	7	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szerint", "ő"]	7	5	pVCC
+["ACC", null, "NOM", null, "SUB", "óra"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szék"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szemétdomb"]	7	4	pVCC
+["ACC", null, "NOM", null, "SUB", "talaj"]	7	4	pVCC
+["ACC", null, "NOM", null, "után", "egymás"]	7	4	pVCC
+["ACC", null, "NOM", "ön"]	7	3	pVCC
+["ACC", null, "NOM", "pap"]	7	3	pVCC
+["ACC", null, "NOM", "Sándor", "SUB", null]	7	4	pVCC
+["ACC", null, "NOM", "semmi"]	7	3	pVCC
+["ACC", null, "NOM", "szemér"]	7	3	pVCC
+["ACC", null, "NOM", "társ", "SUB", null]	7	4	pVCC
+["ACC", null, "NOM", "tény"]	7	3	pVCC
+["ACC", null, "NOM", "termelő", "SUP", null]	7	4	pVCC
+["ACC", null, "NOM", "többi"]	7	3	pVCC
+["ACC", "pányva", "NOM", null]	7	3	pVCC
+["ACC", "szem", "ILL", null, "NOM", null]	7	4	pVCC
+["ACC", "te", "NOM", null]	7	3	pVCC
+["ACC", "több", "NOM", null]	7	3	pVCC
+["ACC", "tőr", "NOM", null]	7	3	pVCC
+["ACC", "ügy", "INE", null, "NOM", null, "SUB", null]	7	5	pVCC
+["ACC", "víz", "NOM", null]	7	3	pVCC
+["NOM", "MSZP"]	7	2	pVCC
+["ACC", "ágy", "ELA", null, "NOM", null]	6	4	pVCC
+["ACC", "ami", "DAT", null, "NOM", null]	6	4	pVCC
+["ACC", "árnyék", "DAT", null, "NOM", null, "SUB", null]	6	5	pVCC
+["ACC", "búcsúpillantás", "NOM", null, "SUB", null]	6	4	pVCC
+["ACC", "burgonya", "NOM", null]	6	3	pVCC
+["ACC", "élet", "NOM", null, "SUB", "mérleg", "SUP", "vég"]	6	7	pVCC
+["ACC", "fátyol", "NOM", null, "SUB", null]	6	4	pVCC
+["ACC", "fej", "DAT", null, "NOM", null]	6	4	pVCC
+["ACC", "garas", "NOM", null]	6	3	pVCC
+["ACC", "kabát", "NOM", null]	6	3	pVCC
+["ACC", "mag", "ILL", "föld", "NOM", null]	6	5	pVCC
+["ACC", "mag", "NOM", null, "SUB", null]	6	4	pVCC
+["ACC", "mag", "NOM", null, "SUP", null]	6	4	pVCC
+["ACC", null, "DAT", "az", "NOM", null, "SUB", null]	6	5	pVCC
+["ACC", null, "DAT", "ő", "INE", null, "NOM", null]	6	5	pVCC
+["ACC", null, "DAT", "ő", "INS", null, "NOM", null]	6	5	pVCC
+["ACC", null, "DAT", "ő", "NOM", null, "SUB", null]	6	5	pVCC
+["ACC", null, "DEL", "az", "NOM", null]	6	4	pVCC
+["ACC", null, "ELA", "ok", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", "harc", "NOM", null, "SUP", null]	6	5	pVCC
+["ACC", null, "ILL", "jövő", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", "levegő", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", "mélység", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "sor"]	6	5	pVCC
+["ACC", null, "ILL", "őrizet", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", "sut", "NOM", null]	6	4	pVCC
+["ACC", null, "ILL", "szem", "NOM", null]	6	4	pVCC
+["ACC", null, "INE", "december", "NOM", null]	6	4	pVCC
+["ACC", null, "INE", "ellentét", "INS", null, "NOM", null, "SUB", null]	6	6	pVCC
+["ACC", null, "INE", "kapcsolat", "INS", null, "NOM", null, "SUB", null]	6	6	pVCC
+["ACC", null, "INE", "nap", "NOM", null, "SUB", null]	6	5	pVCC
+["ACC", null, "INE", null, "NOM", "aki", "SUB", null]	6	5	pVCC
+["ACC", null, "INS", "nap", "NOM", null]	6	4	pVCC
+["ACC", null, "INS", null, "NOM", "több"]	6	4	pVCC
+["ACC", null, "NOM", "alelnök"]	6	3	pVCC
+["ACC", null, "NOM", "asszony", "SUB", null]	6	4	pVCC
+["ACC", null, "NOM", "föld"]	6	3	pVCC
+["ACC", null, "NOM", "helyzet"]	6	3	pVCC
+["ACC", null, "NOM", "kabát"]	6	3	pVCC
+["ACC", null, "NOM", "kevés"]	6	3	pVCC
+["ACC", null, "NOM", "kormány", "SUB", null]	6	4	pVCC
+["ACC", null, "NOM", "lehetőség"]	6	3	pVCC
+["ACC", null, "NOM", "lélek"]	6	3	pVCC
+["ACC", null, "NOM", "magyar", "SUB", null]	6	4	pVCC
+["ACC", null, "NOM", "maradék"]	6	3	pVCC
+["ACC", null, "NOM", "március"]	6	3	pVCC
+["ACC", null, "NOM", "minden", "SUB", null]	6	4	pVCC
+["ACC", null, "NOM", null, "elé", "disznó"]	6	4	pVCC
+["ACC", null, "NOM", null, "ellen", "én"]	6	4	pVCC
+["ACC", null, "NOM", null, "fölé", "ő"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "alak"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "cél"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "dívány"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "dolog"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "folyamat"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "helyzet"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "képernyő"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "könyv"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "közép"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "előtt", "ő"]	6	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TEM", "ez"]	6	5	pVCC
+["ACC", null, "NOM", null, "SUB", "pénz"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tető"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUB", "út"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUP", "hét"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUP", "kép"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUP", "közép"]	6	4	pVCC
+["ACC", null, "NOM", null, "SUP", "part"]	6	4	pVCC
+["ACC", null, "NOM", null, "szerint", "szó"]	6	4	pVCC
+["ACC", null, "NOM", null, "TER", "idő"]	6	4	pVCC
+["ACC", null, "NOM", "öreg"]	6	3	pVCC
+["ACC", null, "NOM", "Pál"]	6	3	pVCC
+["ACC", null, "NOM", "szándék"]	6	3	pVCC
+["ACC", null, "NOM", "szövetség"]	6	3	pVCC
+["ACC", null, "NOM", "tanár"]	6	3	pVCC
+["ACC", null, "NOM", "vasárnap"]	6	3	pVCC
+["ACC", "pillantás", "INE", null, "INS", null, "NOM", null]	6	5	pVCC
+["ACC", "szikra", "NOM", null, "SUP", null]	6	4	pVCC
+["ACC", "test", "NOM", null]	6	3	pVCC
+["ILL", null, "INE", null, "NOM", "hit"]	6	4	pVCC
+["INE", null, "NOM", null, "SUB", "maga"]	6	4	pVCC
+["NOM", null, "SUB", "senki"]	6	3	pVCC
+["NOM", "sorsom"]	6	2	pVCC
+["ABL", "az", "ACC", null, "NOM", null, "SUB", null]	5	5	pVCC
+["ACC", "adó", "NOM", null]	5	3	pVCC
+["ACC", "akadály", "NOM", null]	5	3	pVCC
+["ACC", "árpa", "NOM", null]	5	3	pVCC
+["ACC", "csel", "DAT", null, "NOM", null]	5	4	pVCC
+["ACC", "cukorrépa", "NOM", null, "SUP", null]	5	4	pVCC
+["ACC", "élet", "NOM", null, "SUB", "kocka"]	5	5	pVCC
+["ACC", "ellen", "NOM", null]	5	3	pVCC
+["ACC", "fodor", "NOM", null]	5	3	pVCC
+["ACC", "háló", "NOM", null, "SUB", null]	5	4	pVCC
+["ACC", "horgony", "INE", "öböl", "NOM", null]	5	5	pVCC
+["ACC", "hullám", "NOM", null, "SUP", null]	5	4	pVCC
+["ACC", "kérdés", "NOM", null, "SUB", null]	5	4	pVCC
+["ACC", "kereszt", "NOM", null, "SUB", null, "szerint", null]	5	5	pVCC
+["ACC", "kereszt", "NOM", null, "SUP", null]	5	4	pVCC
+["ACC", "láb", "DAT", null, "NOM", null]	5	4	pVCC
+["ACC", "maga", "DEL", "part", "ILL", "víz", "NOM", null]	5	7	pVCC
+["ACC", null, "CAU", "kedv", "NOM", null, "SUB", null]	5	5	pVCC
+["ACC", null, "DAT", "ég", "NOM", null]	5	4	pVCC
+["ACC", null, "DAT", null, "NOM", "amely", "SUB", null]	5	5	pVCC
+["ACC", null, "DAT", null, "NOM", "anya"]	5	4	pVCC
+["ACC", null, "DAT", null, "NOM", "politikai"]	5	4	pVCC
+["ACC", null, "DAT", null, "NOM", "saját"]	5	4	pVCC
+["ACC", null, "ILL", "az", "NOM", null]	5	4	pVCC
+["ACC", null, "ILL", "lélek", "NOM", null]	5	4	pVCC
+["ACC", null, "ILL", "verem", "NOM", null]	5	4	pVCC
+["ACC", null, "ILL", "zálog", "NOM", null]	5	4	pVCC
+["ACC", null, "INE", "én", "NOM", null]	5	4	pVCC
+["ACC", null, "INE", "haza", "NOM", null]	5	4	pVCC
+["ACC", null, "INE", "időszak", "NOM", null]	5	4	pVCC
+["ACC", null, "INE", "kérdés", "NOM", null, "SUB", null]	5	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUP", "eleje"]	5	5	pVCC
+["ACC", null, "INE", "Románia", "NOM", null]	5	4	pVCC
+["ACC", null, "INS", "hónap", "NOM", null, "SUB", null]	5	5	pVCC
+["ACC", null, "INS", null, "NOM", "kormány"]	5	4	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "az"]	5	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "én"]	5	5	pVCC
+["ACC", null, "NOM", "adat", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "aki", "SUB", null, "SUP", null]	5	5	pVCC
+["ACC", null, "NOM", "anya", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "árpát"]	5	3	pVCC
+["ACC", null, "NOM", "fej"]	5	3	pVCC
+["ACC", null, "NOM", "férfi", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "hirtelen", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "ilyen", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "József", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "lámpa", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "lány", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "ló"]	5	3	pVCC
+["ACC", null, "NOM", null, "alá", "anatéma"]	5	4	pVCC
+["ACC", null, "NOM", null, "alá", "próba"]	5	4	pVCC
+["ACC", null, "NOM", null, "múlva", "hónap"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "gyerek"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "hatalom"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "hír"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kar"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "képviselő"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kérdés"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "láb"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "lap"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "magas"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "minden"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "múlt"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "név"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "mód"]	5	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szerint", "én"]	5	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TEM", "Ugyanaz"]	5	5	pVCC
+["ACC", null, "NOM", null, "SUB", "papír", "TER", "ez"]	5	6	pVCC
+["ACC", null, "NOM", null, "SUB", "pergamen"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "rész"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "sortávolság"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "társaság"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUB", "utca"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUP", "eset"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUP", "oldal"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUP", "táj"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUP", "talaj"]	5	4	pVCC
+["ACC", null, "NOM", null, "SUP", "találkozó"]	5	4	pVCC
+["ACC", null, "NOM", null, "TER", "év"]	5	4	pVCC
+["ACC", null, "NOM", null, "TER", "hét"]	5	4	pVCC
+["ACC", null, "NOM", "nyugati"]	5	3	pVCC
+["ACC", null, "NOM", "partner"]	5	3	pVCC
+["ACC", null, "NOM", "sok", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "szeptember", "SUB", null]	5	4	pVCC
+["ACC", null, "NOM", "szokás"]	5	3	pVCC
+["ACC", null, "NOM", "társadalom"]	5	3	pVCC
+["ACC", null, "NOM", "újságíró"]	5	3	pVCC
+["ACC", null, "NOM", "vágy"]	5	3	pVCC
+["ACC", null, "NOM", "való"]	5	3	pVCC
+["ACC", null, "NOM", "város"]	5	3	pVCC
+["ACC", null, "NOM", "vezetés"]	5	3	pVCC
+["ACC", "pokróc", "NOM", null, "SUB", null]	5	4	pVCC
+["ACC", "reménység", "ILL", null, "NOM", null]	5	4	pVCC
+["ACC", "rész", "INE", null, "NOM", null]	5	4	pVCC
+["ACC", "szikra", "INE", null, "NOM", null]	5	4	pVCC
+["ACC", "szó", "INE", null, "NOM", null]	5	4	pVCC
+["ACC", "vég", "DAT", "erőszak", "NOM", null, "SUP", "terület"]	5	7	pVCC
+["ACC", "vég", "DAT", "felkelés", "NOM", "palesztin"]	5	6	pVCC
+["ACC", "vég", "DAT", null, "NOM", null, "által", "ő"]	5	6	pVCC
+["NOM", "ágy"]	5	2	pVCC
+["NOM", "rossz"]	5	2	pVCC
+["ABL", "én", "ACC", null, "NOM", null, "SUB", null]	4	5	pVCC
+["ABL", "ő", "ACC", null, "NOM", null]	4	4	pVCC
+["ACC", "ágy", "DAT", null, "INE", "szoba", "NOM", null]	4	6	pVCC
+["ACC", "ágy", "DAT", null, "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", "ágy", "DAT", null, "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", "ágy", "INS", null, "NOM", null]	4	4	pVCC
+["ACC", "amily", "NOM", null]	4	3	pVCC
+["ACC", "árnyék", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "az", "NOM", null, "SUB", "szem", "között", "több"]	4	7	pVCC
+["ACC", "bizalom", "ILL", null, "INE", null, "NOM", null]	4	5	pVCC
+["ACC", "bog", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "bomba", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "buborék", "NOM", null]	4	3	pVCC
+["ACC", "búza", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "búza", "INE", null, "INS", null, "NOM", null]	4	5	pVCC
+["ACC", "búza", "INE", null, "NOM", null, "SUP", "hektár"]	4	6	pVCC
+["ACC", "búza", "INS", null, "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", "búza", "NOM", null, "után", null]	4	4	pVCC
+["ACC", "csapda", "NOM", null]	4	3	pVCC
+["ACC", "diszkosz", "NOM", null]	4	3	pVCC
+["ACC", "ez", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "ez", "NOM", null, "SUB", null, "SUP", null]	4	5	pVCC
+["ACC", "fajta", "INE", null, "NOM", null]	4	4	pVCC
+["ACC", "fény", "ESS", null, "INS", null, "NOM", null, "SUB", null]	4	6	pVCC
+["ACC", "fény", "ESS", "ráadás", "NOM", null, "SUB", null]	4	6	pVCC
+["ACC", "fi|fiú", "NOM", null]	4	3	pVCC
+["ACC", "fű", "NOM", null]	4	3	pVCC
+["ACC", "hit", "DAT", null, "ILL", null, "NOM", null]	4	5	pVCC
+["ACC", "hit", "ILL", null, "INE", null, "NOM", null]	4	5	pVCC
+["ACC", "homály", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "horgony", "INE", "kikötő", "NOM", null]	4	5	pVCC
+["ACC", "hurok", "DAT", null, "NOM", null]	4	4	pVCC
+["ACC", "hurok", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "kalapács", "NOM", null]	4	3	pVCC
+["ACC", "katona", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "kender", "NOM", null]	4	3	pVCC
+["ACC", "kereszt", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "kereszt", "INE", null, "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", "kereszt", "INS", "mozdulat", "NOM", null]	4	5	pVCC
+["ACC", "ki", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "láng", "INE", null, "NOM", null]	4	4	pVCC
+["ACC", "láng", "NOM", null, "SUP", null]	4	4	pVCC
+["ACC", "lasszó", "NOM", null]	4	3	pVCC
+["ACC", "lucerna", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "maga", "ALL", "láb", "NOM", null]	4	5	pVCC
+["ACC", "maga", "DAT", "ez", "ILL", null, "NOM", null]	4	6	pVCC
+["ACC", "maga", "DEL", "emelet", "ILL", "mély", "NOM", null]	4	7	pVCC
+["ACC", "maga", "NOM", null, "SOC", "ruha"]	4	5	pVCC
+["ACC", "mag", "INS", null, "NOM", null]	4	4	pVCC
+["ACC", "más", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "mosoly", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "napraforgó", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", null, "ADE", "láb", "NOM", null]	4	4	pVCC
+["ACC", null, "ALL", "az", "ILL", "lat", "NOM", null]	4	6	pVCC
+["ACC", null, "DAT", "amely", "INS", null, "NOM", null]	4	5	pVCC
+["ACC", null, "DAT", "amely", "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", null, "DAT", "asszony", "NOM", null]	4	4	pVCC
+["ACC", null, "DAT", "az", "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", null, "DAT", "ember", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "DAT", "ki", "NOM", null]	4	4	pVCC
+["ACC", null, "DAT", "kísérlet", "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", null, "DAT", "magyar", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "DAT", null, "NOM", "aki", "SUP", null]	4	5	pVCC
+["ACC", null, "DAT", null, "NOM", "képes"]	4	4	pVCC
+["ACC", null, "DAT", null, "NOM", "néni"]	4	4	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUB", "mi"]	4	5	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUP", "sor"]	4	5	pVCC
+["ACC", null, "DAT", null, "NOM", "ő"]	4	4	pVCC
+["ACC", null, "DAT", "ők", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "DAT", "párt", "NOM", null]	4	4	pVCC
+["ACC", null, "DEL", "ő", "NOM", null]	4	4	pVCC
+["ACC", null, "DEL", "rész", "NOM", null]	4	4	pVCC
+["ACC", null, "ELA", null, "ILL", "másik", "NOM", null]	4	5	pVCC
+["ACC", null, "ELA", null, "NOM", null, "SUB", "mi"]	4	5	pVCC
+["ACC", null, "ELA", null, "NOM", "sors"]	4	4	pVCC
+["ACC", null, "ESS", "martalék", "NOM", null]	4	4	pVCC
+["ACC", null, "FOR", "vég", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "ágyás", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "erő", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "harc", "INE", null, "NOM", null]	4	5	pVCC
+["ACC", null, "ILL", "jövendő", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "kemence", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "kert", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "mérleg", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "mi", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", null, "INE", "idő", "NOM", null]	4	5	pVCC
+["ACC", null, "ILL", null, "NOM", "hit"]	4	4	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUB", "ez"]	4	5	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "alap"]	4	5	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "eleje"]	4	5	pVCC
+["ACC", null, "ILL", null, "NOM", "ő"]	4	4	pVCC
+["ACC", null, "ILL", null, "NOM", "úr"]	4	4	pVCC
+["ACC", null, "ILL", "oldal", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "rabság", "NOM", null]	4	4	pVCC
+["ACC", null, "ILL", "tömlöc", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "ILL", "torok", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "ágy", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "INE", "április", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "az", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "érdek", "NOM", null, "SUP", null]	4	5	pVCC
+["ACC", null, "INE", "Európa", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "év", "INS", null, "NOM", null]	4	5	pVCC
+["ACC", null, "INE", "idő", "INS", null, "NOM", null]	4	5	pVCC
+["ACC", null, "INE", "kíséret", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "megye", "INS", null, "NOM", null]	4	5	pVCC
+["ACC", null, "INE", "mérték", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "INE", null, "INS", null, "NOM", null, "SUP", "terület"]	4	6	pVCC
+["ACC", null, "INE", null, "INS", "ő", "NOM", null]	4	5	pVCC
+["ACC", null, "INE", null, "NOM", "Attila"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", "az"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", "ember", "SUB", null]	4	5	pVCC
+["ACC", null, "INE", null, "NOM", "ez", "SUB", null]	4	5	pVCC
+["ACC", null, "INE", null, "NOM", "férfi"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", "hektár"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", "mely"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "én"]	4	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", null, "SUP", "alap"]	4	6	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "part"]	4	5	pVCC
+["ACC", null, "INE", null, "NOM", "sors"]	4	4	pVCC
+["ACC", null, "INE", null, "NOM", "úr"]	4	4	pVCC
+["ACC", null, "INE", "század", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "tő", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "tudat", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "utca", "NOM", null]	4	4	pVCC
+["ACC", null, "INE", "vita", "NOM", null]	4	4	pVCC
+["ACC", null, "INS", "amely", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "INS", "betű", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "INS", "cím", "NOM", null]	4	4	pVCC
+["ACC", null, "INS", "jó", "NOM", null]	4	4	pVCC
+["ACC", null, "INS", null, "NOM", "év"]	4	4	pVCC
+["ACC", null, "INS", null, "NOM", "férfi"]	4	4	pVCC
+["ACC", null, "INS", null, "NOM", "író", "SUB", null]	4	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "lat"]	4	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUP", "alap"]	4	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUP", "vég"]	4	5	pVCC
+["ACC", null, "INS", null, "NOM", "úr"]	4	4	pVCC
+["ACC", null, "INS", "tekintet", "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", null, "NOM", "Alkotmánybíróság"]	4	3	pVCC
+["ACC", null, "NOM", "állapot"]	4	3	pVCC
+["ACC", null, "NOM", "állítás"]	4	3	pVCC
+["ACC", null, "NOM", "álló", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "ár", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "Attila", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "barát", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "biztos"]	4	3	pVCC
+["ACC", null, "NOM", "bosszú"]	4	3	pVCC
+["ACC", null, "NOM", "család"]	4	3	pVCC
+["ACC", null, "NOM", "délszláv"]	4	3	pVCC
+["ACC", null, "NOM", "diák"]	4	3	pVCC
+["ACC", null, "NOM", "Duna"]	4	3	pVCC
+["ACC", null, "NOM", "egész", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "ezer"]	4	3	pVCC
+["ACC", null, "NOM", "fa"]	4	3	pVCC
+["ACC", null, "NOM", "fal"]	4	3	pVCC
+["ACC", null, "NOM", "fény", "SUP", null]	4	4	pVCC
+["ACC", null, "NOM", "fontos"]	4	3	pVCC
+["ACC", null, "NOM", "gondolat"]	4	3	pVCC
+["ACC", null, "NOM", "gyermek"]	4	3	pVCC
+["ACC", null, "NOM", "hatalom"]	4	3	pVCC
+["ACC", null, "NOM", "ház", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "Imre", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "írás"]	4	3	pVCC
+["ACC", null, "NOM", "István"]	4	3	pVCC
+["ACC", null, "NOM", "játékos", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "június"]	4	3	pVCC
+["ACC", null, "NOM", "kérdés"]	4	3	pVCC
+["ACC", null, "NOM", "kutató", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "Lajos"]	4	3	pVCC
+["ACC", null, "NOM", "lévő"]	4	3	pVCC
+["ACC", null, "NOM", "másnap"]	4	3	pVCC
+["ACC", null, "NOM", "mátyás"]	4	3	pVCC
+["ACC", null, "NOM", "melyik"]	4	3	pVCC
+["ACC", null, "NOM", "mester", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "MSZP"]	4	3	pVCC
+["ACC", null, "NOM", "munkatárs"]	4	3	pVCC
+["ACC", null, "NOM", "nap", "SUP", null]	4	4	pVCC
+["ACC", null, "NOM", null, "alá", "kritika"]	4	4	pVCC
+["ACC", null, "NOM", null, "alatt", "nap"]	4	4	pVCC
+["ACC", null, "NOM", null, "által", "ők"]	4	4	pVCC
+["ACC", null, "NOM", null, "elé", "maga"]	4	4	pVCC
+["ACC", null, "NOM", null, "elé", "ő"]	4	4	pVCC
+["ACC", null, "NOM", null, "előtt", "választás"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "alakulás"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "állam"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ami"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "barát"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "emlék"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "falak"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "gazda"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "intézmény"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "isten"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "jobb"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kert"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ki"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "környék"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "külföld"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "látta"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "magatok"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "magyar"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mely"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mennyezet"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "ez"]	4	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "nyár"]	4	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szemben", "ez"]	4	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "után", "halál"]	4	5	pVCC
+["ACC", null, "NOM", null, "SUB", "nyugat"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "őr"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "pálya"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "politika"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "Pozsony"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "rabság"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "sor"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "sziget"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szobor"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "társadalom"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tenger"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tény"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "terv"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUB", "vezető"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "amely"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "Budapest"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "ősz"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "rész"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "százalék"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "szél"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "szombat"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "tető"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "utca"]	4	4	pVCC
+["ACC", null, "NOM", null, "SUP", "választás"]	4	4	pVCC
+["ACC", null, "NOM", null, "TEM", "némely"]	4	4	pVCC
+["ACC", null, "NOM", "ön", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "óra"]	4	3	pVCC
+["ACC", null, "NOM", "őrmester"]	4	3	pVCC
+["ACC", null, "NOM", "öröm"]	4	3	pVCC
+["ACC", null, "NOM", "otthon"]	4	3	pVCC
+["ACC", null, "NOM", "palesztin", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "Petőfi"]	4	3	pVCC
+["ACC", null, "NOM", "Rákosi"]	4	3	pVCC
+["ACC", null, "NOM", "sajtó"]	4	3	pVCC
+["ACC", null, "NOM", "sérülés"]	4	3	pVCC
+["ACC", null, "NOM", "sötétség"]	4	3	pVCC
+["ACC", null, "NOM", "spanyol", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "szakadék"]	4	3	pVCC
+["ACC", null, "NOM", "szél"]	4	3	pVCC
+["ACC", null, "NOM", "talaj"]	4	3	pVCC
+["ACC", null, "NOM", "tamás", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "tárgy"]	4	3	pVCC
+["ACC", null, "NOM", "te"]	4	3	pVCC
+["ACC", null, "NOM", "televízió"]	4	3	pVCC
+["ACC", null, "NOM", "test"]	4	3	pVCC
+["ACC", null, "NOM", "többi", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "többség"]	4	3	pVCC
+["ACC", null, "NOM", "új", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "út"]	4	3	pVCC
+["ACC", null, "NOM", "utas"]	4	3	pVCC
+["ACC", null, "NOM", "utolsó"]	4	3	pVCC
+["ACC", null, "NOM", "valaki", "SUB", null]	4	4	pVCC
+["ACC", null, "NOM", "véletlen"]	4	3	pVCC
+["ACC", null, "NOM", "vénasszony"]	4	3	pVCC
+["ACC", null, "NOM", "vezér"]	4	3	pVCC
+["ACC", null, "NOM", "víz", "SUP", null]	4	4	pVCC
+["ACC", "oldalpillantás", "NOM", null, "felé", null]	4	4	pVCC
+["ACC", "pénz", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "pillantás", "DEL", "oldal", "NOM", null, "SUB", null]	4	6	pVCC
+["ACC", "pillantás", "NOM", null, "mögé", "ő"]	4	5	pVCC
+["ACC", "pillantás", "NOM", null, "SUB", null, "mellett", "ő"]	4	6	pVCC
+["ACC", "ránc", "NOM", null, "SUP", null]	4	4	pVCC
+["ACC", "rizs", "NOM", null]	4	3	pVCC
+["ACC", "rügy", "NOM", null]	4	3	pVCC
+["ACC", "sárgarépa", "NOM", null]	4	3	pVCC
+["ACC", "személy", "ILL", null, "NOM", null]	4	4	pVCC
+["ACC", "szem", "NOM", null, "SUB", null, "szerint", "hír"]	4	6	pVCC
+["ACC", "tarisznya", "NOM", null]	4	3	pVCC
+["ACC", "tekintet", "INS", null, "NOM", null, "SUB", null]	4	5	pVCC
+["ACC", "tengeri", "NOM", null]	4	3	pVCC
+["ACC", "tűz", "NOM", null, "SUB", null]	4	4	pVCC
+["ACC", "ügy", "NOM", null, "SUB", null, "SUP", null]	4	5	pVCC
+["ACC", "virág", "NOM", null]	4	3	pVCC
+["ACC", "zab", "NOM", null, "SUB", null]	4	4	pVCC
+["DAT", null, "ILL", null, "NOM", "hit"]	4	4	pVCC
+["DAT", "társaság", "NOM", null]	4	3	pVCC
+["ELA", "búza", "NOM", null]	4	3	pVCC
+["ESS", "zsámoly", "NOM", null]	4	3	pVCC
+["ILL", "erő", "INE", null, "NOM", null]	4	4	pVCC
+["ILL", "láng", "NOM", null]	4	3	pVCC
+["ILL", null, "NOM", "hit", "SUB", null]	4	4	pVCC
+["ILL", "por", "NOM", null]	4	3	pVCC
+["ILL", "rendszer", "NOM", null]	4	3	pVCC
+["ILL", "vezetés", "NOM", null]	4	3	pVCC
+["NOM", "es", "TEM", null]	4	3	pVCC
+["NOM", "fi|fiú", "SUB", null]	4	3	pVCC
+["NOM", "kő"]	4	2	pVCC
+["NOM", null, "SUP", "szint"]	4	3	pVCC
+["NOM", "paraszt"]	4	2	pVCC
+["ABL", null, "ACC", null, "NOM", "ami"]	3	4	pVCC
+["ACC", "alak", "NOM", null]	3	3	pVCC
+["ACC", "amely", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "amely", "INS", null, "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", "annyi", "NOM", null]	3	3	pVCC
+["ACC", "betű", "INS", null, "NOM", null]	3	4	pVCC
+["ACC", "bukfenc", "INE", null, "NOM", null, "SUP", null]	3	5	pVCC
+["ACC", "bukfenc", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "bukfenc", "NOM", null, "TEM", null]	3	4	pVCC
+["ACC", "búza", "INS", "hektár", "NOM", null]	3	5	pVCC
+["ACC", "csíra", "NOM", null]	3	3	pVCC
+["ACC", "csont", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "csóva", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "előterjesztés", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "erő", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "fej", "NOM", null, "SUP", null]	3	4	pVCC
+["ACC", "fék", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "félelem", "NOM", null]	3	3	pVCC
+["ACC", "fény", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "gabona", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "gát", "DAT", null, "INE", null, "NOM", null, "SUP", null]	3	6	pVCC
+["ACC", "gond", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "gőz", "NOM", null]	3	3	pVCC
+["ACC", "hát", "DAT", null, "INE", null, "NOM", null]	3	5	pVCC
+["ACC", "holttest", "NOM", null, "SUB", "part", "SUP", null]	3	6	pVCC
+["ACC", "horgony", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "kabát", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "kártya", "NOM", null, "SUP", null]	3	4	pVCC
+["ACC", "kelepce", "NOM", null]	3	3	pVCC
+["ACC", "kereszt", "INS", null, "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", "kettő", "NOM", null]	3	3	pVCC
+["ACC", "ki", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "kijelentés", "NOM", null]	3	3	pVCC
+["ACC", "köpeny", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "kukorica", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "lánc", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "lélek", "NOM", null]	3	3	pVCC
+["ACC", "lencse", "NOM", null]	3	3	pVCC
+["ACC", "maga", "ELA", "torony", "ILL", null, "NOM", null]	3	6	pVCC
+["ACC", "maga", "NOM", null, "SUB", "én", "TEM", "az"]	3	7	pVCC
+["ACC", "mag", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "mag", "ILL", null, "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", "mák", "NOM", null, "SUP", null]	3	4	pVCC
+["ACC", "mely", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "mi", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "mi", "INS", null, "NOM", null]	3	4	pVCC
+["ACC", "mondat", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "mór", "NOM", null]	3	3	pVCC
+["ACC", "múlt", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "növény", "INE", null, "NOM", null]	3	4	pVCC
+["ACC", null, "ADE", "én", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "ADE", "mi", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "CAU", "ő", "NOM", null]	3	4	pVCC
+["ACC", null, "DAT", "az", "INE", null, "NOM", null]	3	5	pVCC
+["ACC", null, "DAT", "mely", "INS", null, "NOM", null]	3	5	pVCC
+["ACC", null, "DAT", "mindenki", "NOM", null]	3	4	pVCC
+["ACC", null, "DAT", null, "INE", "ház", "NOM", null]	3	5	pVCC
+["ACC", null, "DAT", null, "INE", "idő", "NOM", null, "SUB", null]	3	6	pVCC
+["ACC", null, "DAT", null, "INE", null, "NOM", null, "alá", "maga"]	3	6	pVCC
+["ACC", null, "DAT", null, "INE", null, "NOM", null, "SUP", "Magyarország"]	3	6	pVCC
+["ACC", null, "DAT", null, "NOM", "gyerek"]	3	4	pVCC
+["ACC", null, "DAT", null, "NOM", "nemzet"]	3	4	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUP", "föld"]	3	5	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUP", "nyár"]	3	5	pVCC
+["ACC", null, "DAT", null, "NOM", null, "TER", "az"]	3	5	pVCC
+["ACC", null, "DAT", "oldal", "NOM", null]	3	4	pVCC
+["ACC", null, "ELA", "cél", "NOM", null]	3	4	pVCC
+["ACC", null, "FOR", "másodnövény", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "amely", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "ami", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "börtön", "INS", "vád", "NOM", null]	3	6	pVCC
+["ACC", null, "ILL", "én", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "fogság", "INE", null, "NOM", null]	3	5	pVCC
+["ACC", null, "ILL", "harc", "NOM", null, "SUP", null, "ellen", null]	3	6	pVCC
+["ACC", null, "ILL", "jegyzőkönyv", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "kör", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "napló", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", null, "INE", "év", "NOM", null]	3	5	pVCC
+["ACC", null, "ILL", null, "INE", null, "NOM", null, "SUP", "sor"]	3	6	pVCC
+["ACC", null, "ILL", null, "INS", "év", "NOM", null]	3	5	pVCC
+["ACC", null, "ILL", null, "INS", "ő", "NOM", null]	3	5	pVCC
+["ACC", null, "ILL", null, "NOM", "jó"]	3	4	pVCC
+["ACC", null, "ILL", null, "NOM", "magyar"]	3	4	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "nap"]	3	5	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "nyom"]	3	5	pVCC
+["ACC", null, "ILL", null, "NOM", null, "SUP", "vég"]	3	5	pVCC
+["ACC", null, "ILL", "nyak", "INS", null, "NOM", null]	3	5	pVCC
+["ACC", null, "ILL", "serpenyő", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "sor", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "száj", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "talaj", "NOM", null]	3	4	pVCC
+["ACC", null, "ILL", "víz", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INE", "1996", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "érdek", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INE", "fél", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "gazdaság", "NOM", null, "SUP", null]	3	5	pVCC
+["ACC", null, "INE", "hónap", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "hó", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "irány", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "kert", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "kéz", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "maga", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INE", "megye", "NOM", null, "SUP", "hektár"]	3	6	pVCC
+["ACC", null, "INE", "mely", "INS", null, "NOM", null]	3	5	pVCC
+["ACC", null, "INE", null, "NOM", "amely", "SUB", null]	3	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "ez"]	3	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "ők"]	3	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "talaj"]	3	5	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "tűz"]	3	5	pVCC
+["ACC", null, "INE", "parlament", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "perc", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "sajtó", "NOM", null]	3	4	pVCC
+["ACC", null, "INE", "szem", "NOM", null]	3	4	pVCC
+["ACC", null, "INS", "esély", "NOM", null]	3	4	pVCC
+["ACC", null, "INS", "fej", "NOM", null]	3	4	pVCC
+["ACC", null, "INS", "hektár", "NOM", null, "SUP", "terület"]	3	6	pVCC
+["ACC", null, "INS", "mozdulat", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INS", null, "NOM", "idő"]	3	4	pVCC
+["ACC", null, "INS", null, "NOM", "nemzet"]	3	4	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "kocka"]	3	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "oldal"]	3	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", "váll"]	3	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUP", "idő"]	3	5	pVCC
+["ACC", null, "INS", null, "NOM", "több", "SUB", null]	3	5	pVCC
+["ACC", null, "INS", "száj", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INS", "szem", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INS", "tavasz", "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", null, "INS", "vetőgép", "NOM", null]	3	4	pVCC
+["ACC", null, "NOM", "alapítvány"]	3	3	pVCC
+["ACC", null, "NOM", "államfő"]	3	3	pVCC
+["ACC", null, "NOM", "amely", "SUP", null]	3	4	pVCC
+["ACC", null, "NOM", "árnyék", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "bácsi", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "barna"]	3	3	pVCC
+["ACC", null, "NOM", "egy"]	3	3	pVCC
+["ACC", null, "NOM", "egyetlen"]	3	3	pVCC
+["ACC", null, "NOM", "egyház"]	3	3	pVCC
+["ACC", null, "NOM", "egyik", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "élet", "SUP", null]	3	4	pVCC
+["ACC", null, "NOM", "elme"]	3	3	pVCC
+["ACC", null, "NOM", "elnökség"]	3	3	pVCC
+["ACC", null, "NOM", "előd"]	3	3	pVCC
+["ACC", null, "NOM", "emberi"]	3	3	pVCC
+["ACC", null, "NOM", "fény", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "föld", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "gonosz", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "gyűlölet"]	3	3	pVCC
+["ACC", null, "NOM", "háború", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "haj"]	3	3	pVCC
+["ACC", null, "NOM", "helyzet", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "hold"]	3	3	pVCC
+["ACC", null, "NOM", "hullám", "SUP", null]	3	4	pVCC
+["ACC", null, "NOM", "jóisten"]	3	3	pVCC
+["ACC", null, "NOM", "jó", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "Józsi"]	3	3	pVCC
+["ACC", null, "NOM", "katona", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "kép", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "két", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "kétszer"]	3	3	pVCC
+["ACC", null, "NOM", "kevés", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "kéz", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "kor"]	3	3	pVCC
+["ACC", null, "NOM", "kormánypárt"]	3	3	pVCC
+["ACC", null, "NOM", "kormányzat"]	3	3	pVCC
+["ACC", null, "NOM", "közti", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "legfeljebb", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "lehető"]	3	3	pVCC
+["ACC", null, "NOM", "mondat"]	3	3	pVCC
+["ACC", null, "NOM", "nehéz", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "német"]	3	3	pVCC
+["ACC", null, "NOM", "nép", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", null, "alá", "ítélet"]	3	4	pVCC
+["ACC", null, "NOM", null, "alatt", "leforgás"]	3	4	pVCC
+["ACC", null, "NOM", null, "elé", "te"]	3	4	pVCC
+["ACC", null, "NOM", null, "ellen", "egymás"]	3	4	pVCC
+["ACC", null, "NOM", null, "mögött", "hát"]	3	4	pVCC
+["ACC", null, "NOM", null, "múlva", "nap"]	3	4	pVCC
+["ACC", null, "NOM", null, "nélkül", "ok"]	3	4	pVCC
+["ACC", null, "NOM", null, "nélkül", "takarónövény"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "család"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "egész"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "fogság"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "gondolat"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "gyep"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "győzelem"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "haj"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "halál"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kisasszony"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "kontinens"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "mély", "SUP", null]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "által", "ő"]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "kedd"]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "SUP", "terület"]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szerint", "szokás"]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "után", "ő"]	3	5	pVCC
+["ACC", null, "NOM", null, "SUB", "nyelv"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "ok"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "otthon"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "pad"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "panyóka"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "partner"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "part", "SUP", "szakasz"]	3	6	pVCC
+["ACC", null, "NOM", null, "SUB", "plakát"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "sír"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "sors"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szolgaság"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "szőnyeg"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tábla"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "táj"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tartalom"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tér"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "titok"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "tömlöc"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "veszedelem"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUB", "vita"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUP", "asztal"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUP", "az"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUP", "hétfő"]	3	4	pVCC
+["ACC", null, "NOM", null, "SUP", "terület", "TEM", "az"]	3	6	pVCC
+["ACC", null, "NOM", null, "TEM", "az", "alá", "vizsgálat"]	3	6	pVCC
+["ACC", null, "NOM", "őr"]	3	3	pVCC
+["ACC", null, "NOM", "öreg", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "orvos", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "ő", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "pap", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "Párizs"]	3	3	pVCC
+["ACC", null, "NOM", "pont", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "püspök", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "selyem"]	3	3	pVCC
+["ACC", null, "NOM", "szakember", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "szakértő", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "szándék", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "szégyen"]	3	3	pVCC
+["ACC", null, "NOM", "szerv"]	3	3	pVCC
+["ACC", null, "NOM", "tanár", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "tapasztalat"]	3	3	pVCC
+["ACC", null, "NOM", "tekintet", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "templom"]	3	3	pVCC
+["ACC", null, "NOM", "terv"]	3	3	pVCC
+["ACC", null, "NOM", "tömeg"]	3	3	pVCC
+["ACC", null, "NOM", "további", "SUB", null]	3	4	pVCC
+["ACC", null, "NOM", "tudós"]	3	3	pVCC
+["ACC", null, "NOM", "vég"]	3	3	pVCC
+["ACC", null, "NOM", "vihar"]	3	3	pVCC
+["ACC", null, "NOM", "vizsgálat", "SUB", null]	3	4	pVCC
+["ACC", "ők", "NOM", null, "alá", null]	3	4	pVCC
+["ACC", "pillantás", "DAT", null, "INE", null, "NOM", null, "SUB", null]	3	6	pVCC
+["ACC", "pillantás", "ILL", null, "NOM", null, "SUP", null]	3	5	pVCC
+["ACC", "pillantás", "INE", null, "INS", null, "NOM", null, "SUB", null]	3	6	pVCC
+["ACC", "pillantás", "NOM", null, "SUB", null, "felé", "mi"]	3	6	pVCC
+["ACC", "pillantás", "NOM", null, "SUB", null, "közt", "ők"]	3	6	pVCC
+["ACC", "pillantás", "NOM", null, "SUB", null, "után", "ez"]	3	6	pVCC
+["ACC", "rend", "NOM", null]	3	3	pVCC
+["ACC", "rész", "NOM", null, "alá", null]	3	4	pVCC
+["ACC", "rozs", "NOM", null]	3	3	pVCC
+["ACC", "semmi", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "sok", "INE", null, "NOM", null]	3	4	pVCC
+["ACC", "sor", "INS", "év", "NOM", null, "SUB", "papír"]	3	7	pVCC
+["ACC", "sors", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "súly", "INS", null, "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", "sulyok", "NOM", null, "SUB", null]	3	4	pVCC
+["ACC", "szalma", "NOM", null]	3	3	pVCC
+["ACC", "szám", "DAT", null, "INE", null, "INS", null, "NOM", null]	3	6	pVCC
+["ACC", "szám", "DAT", null, "INS", null, "NOM", null, "SUB", null]	3	6	pVCC
+["ACC", "szám", "INS", "az", "NOM", null, "TEM", "Ugyanaz"]	3	7	pVCC
+["ACC", "szél", "INS", null, "NOM", null]	3	4	pVCC
+["ACC", "szem", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "szem", "INE", null, "INS", null, "NOM", null]	3	5	pVCC
+["ACC", "széna", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "széna", "ILL", "jászol", "NOM", null]	3	5	pVCC
+["ACC", "szó", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "szövetség", "NOM", null]	3	3	pVCC
+["ACC", "tag", "ILL", null, "NOM", null]	3	4	pVCC
+["ACC", "tajték", "NOM", null]	3	3	pVCC
+["ACC", "tégla", "NOM", null]	3	3	pVCC
+["ACC", "tekintet", "INE", null, "NOM", null, "SUB", null]	3	5	pVCC
+["ACC", "tekintet", "NOM", null, "SUB", null, "SUP", null]	3	5	pVCC
+["ACC", "több", "ELA", null, "INS", null, "NOM", null]	3	5	pVCC
+["ACC", "váll", "DAT", null, "NOM", null]	3	4	pVCC
+["ACC", "vályogtégla", "NOM", null]	3	3	pVCC
+["ACC", "vég", "DAT", "hadművelet", "NOM", "Oroszország", "belül", "hónap"]	3	8	pVCC
+["ACC", "vég", "DAT", null, "NOM", null, "nélkül", "vérontás"]	3	6	pVCC
+["ACC", "vég", "DAT", null, "NOM", null, "TER", "ez"]	3	6	pVCC
+["DAT", "az", "ILL", "torok", "NOM", null]	3	5	pVCC
+["DAT", null, "ILL", null, "NOM", "bizalom"]	3	4	pVCC
+["DAT", "senki", "NOM", null]	3	3	pVCC
+["ILL", "haladás", "NOM", null]	3	3	pVCC
+["ILL", "maga", "NOM", null]	3	3	pVCC
+["ILL", "mindenhatóság", "NOM", null, "SUB", null]	3	4	pVCC
+["ILL", null, "INS", "ez", "NOM", null]	3	4	pVCC
+["ILL", null, "INS", "hit", "NOM", null]	3	4	pVCC
+["ILL", null, "INS", "tavasz", "NOM", null]	3	4	pVCC
+["ILL", null, "NOM", "hit", "SUP", null]	3	4	pVCC
+["ILL", null, "NOM", "közösség"]	3	3	pVCC
+["ILL", null, "NOM", null, "SUB", "hit"]	3	4	pVCC
+["NOM", "betakarítás"]	3	2	pVCC
+["NOM", "egy-egy", "SUB", null]	3	3	pVCC
+["NOM", null, "miatt", "belvíz"]	3	3	pVCC
+["NOM", null, "SUB", "kárhozat"]	3	3	pVCC
+["NOM", "szükséges"]	3	2	pVCC
+["ABL", "nap", "ACC", null, "DAT", null, "NOM", null]	2	5	pVCC
+["ABL", null, "ACC", null, "INE", null, "NOM", null, "SUP", "szombat"]	2	6	pVCC
+["ACC", "ágy", "DAT", "én", "INE", "szoba", "NOM", null]	2	7	pVCC
+["ACC", "ágy", "DAT", "én", "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", "árnyék", "NOM", null, "SUB", null, "SUP", "híj"]	2	6	pVCC
+["ACC", "az", "DAT", null, "INE", null, "INS", null, "NOM", null, "SUB", "szem"]	2	8	pVCC
+["ACC", "bármi", "INE", "ügy", "NOM", null, "SUB", "szem"]	2	7	pVCC
+["ACC", "befolyás", "ADE", "Izrael", "ILL", "lat", "NOM", null, "SUP", "terület"]	2	9	pVCC
+["ACC", "bizalom", "ILL", null, "INE", null, "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", "búza", "INE", "megye", "NOM", null, "SUP", null]	2	6	pVCC
+["ACC", "búza", "INE", null, "INS", "ősz", "NOM", null]	2	6	pVCC
+["ACC", "búza", "INS", "ősz", "NOM", "hektár"]	2	6	pVCC
+["ACC", "búza", "INS", "ősz", "NOM", null, "SUP", null]	2	6	pVCC
+["ACC", "dolog", "NOM", null, "SUB", null, "SUP", null]	2	5	pVCC
+["ACC", "érv", "INE", null, "NOM", null]	2	4	pVCC
+["ACC", "fekhely", "DAT", "maga", "INE", null, "NOM", null, "SUP", null]	2	7	pVCC
+["ACC", "hangsúly", "NOM", null, "SUB", null]	2	4	pVCC
+["ACC", "három", "ELA", null, "NOM", null]	2	4	pVCC
+["ACC", "hát", "DAT", null, "NOM", null, "mögött", "ő"]	2	6	pVCC
+["ACC", "hektár", "ELA", null, "NOM", null]	2	4	pVCC
+["ACC", "holttest", "INE", "térség", "NOM", null, "SUB", "part"]	2	7	pVCC
+["ACC", "hús", "ILL", null, "NOM", null]	2	4	pVCC
+["ACC", "indulat", "NOM", null, "SUB", null]	2	4	pVCC
+["ACC", "kérdés", "NOM", null, "SUB", "napirend"]	2	5	pVCC
+["ACC", "kereszt", "DAT", null, "NOM", null, "előtt", null]	2	5	pVCC
+["ACC", "kudarc", "DAT", "forradalom", "NOM", null]	2	5	pVCC
+["ACC", "kukorica", "INS", null, "NOM", null, "SUP", "hektár"]	2	6	pVCC
+["ACC", "kukorica", "NOM", "termelő", "SUP", "hektár"]	2	6	pVCC
+["ACC", "láng", "NOM", "szikra", "SUP", null]	2	5	pVCC
+["ACC", "lány", "ILL", "őrizet", "NOM", "San", "előtt", null]	2	7	pVCC
+["ACC", "len", "NOM", null, "SUP", null]	2	4	pVCC
+["ACC", "lucerna", "NOM", null, "SUB", "búza"]	2	5	pVCC
+["ACC", "maga", "DAT", "akarat", "NOM", null, "alá", "ő"]	2	7	pVCC
+["ACC", "maga", "DAT", null, "DEL", "tető", "ILL", "mély", "NOM", null]	2	8	pVCC
+["ACC", "maga", "NOM", "férfi", "SUP", null, "elé", null]	2	6	pVCC
+["ACC", "mennyi", "ELA", "mi", "NOM", null]	2	5	pVCC
+["ACC", null, "ADE", "ez", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "ADE", null, "INE", null, "NOM", null, "SUP", "terület"]	2	6	pVCC
+["ACC", null, "ADE", null, "NOM", "termelő", "SUP", "terület"]	2	6	pVCC
+["ACC", null, "ADE", "tervezett", "INS", "hektár", "NOM", null]	2	6	pVCC
+["ACC", null, "ALL", "ez", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "DAT", "föld", "NOM", null]	2	4	pVCC
+["ACC", null, "DAT", "intézkedés", "NOM", "tagállam"]	2	5	pVCC
+["ACC", null, "DAT", "mi", "INE", null, "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", null, "DAT", null, "DEL", "idő", "NOM", null]	2	5	pVCC
+["ACC", null, "DAT", null, "FAC", "lehető", "NOM", null]	2	5	pVCC
+["ACC", null, "DAT", null, "ILL", "ész", "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", null, "DAT", null, "ILL", "figyelem", "NOM", null]	2	5	pVCC
+["ACC", null, "DAT", null, "INE", "megye", "INS", null, "NOM", null]	2	6	pVCC
+["ACC", null, "DAT", null, "INE", null, "NOM", null, "SUP", "ez"]	2	6	pVCC
+["ACC", null, "DAT", null, "INE", null, "NOM", null, "SUP", "hét"]	2	6	pVCC
+["ACC", null, "DAT", null, "INS", "gond", "NOM", null]	2	5	pVCC
+["ACC", null, "DAT", null, "INS", null, "NOM", "alkalmazott"]	2	5	pVCC
+["ACC", null, "DAT", null, "INS", null, "NOM", "lány"]	2	5	pVCC
+["ACC", null, "DAT", null, "INS", null, "NOM", null, "után", "halál"]	2	6	pVCC
+["ACC", null, "DAT", null, "NOM", "adat", "SUB", null]	2	5	pVCC
+["ACC", null, "DAT", null, "NOM", "bizottság"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "első", "SUB", null]	2	5	pVCC
+["ACC", null, "DAT", null, "NOM", "gazdaság", "SUP", null]	2	5	pVCC
+["ACC", null, "DAT", null, "NOM", "gondolkodó"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "jelenlét"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "kerület"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "kisgazda"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "kormány", "SUP", null]	2	5	pVCC
+["ACC", null, "DAT", null, "NOM", "munka"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "nagy"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUB", null, "közt", "ők"]	2	6	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUB", "szem", "után", "háború"]	2	7	pVCC
+["ACC", null, "DAT", null, "NOM", null, "SUP", null, "közé", "közé|ő"]	2	6	pVCC
+["ACC", null, "DAT", null, "NOM", "történet"]	2	4	pVCC
+["ACC", null, "DAT", null, "NOM", "Viktor", "SUB", null]	2	5	pVCC
+["ACC", null, "DAT", "ördög", "NOM", null]	2	4	pVCC
+["ACC", null, "DAT", "terv", "INS", null, "NOM", null]	2	5	pVCC
+["ACC", null, "DAT", "ti", "NOM", "dolog"]	2	5	pVCC
+["ACC", null, "DEL", "hajó", "NOM", null, "SUB", "part"]	2	6	pVCC
+["ACC", null, "DEL", "munka", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "ELA", "erő", "NOM", null]	2	4	pVCC
+["ACC", null, "ELA", "ez", "INE", null, "NOM", null, "SUP", "hektár"]	2	7	pVCC
+["ACC", null, "ELA", null, "ILL", null, "NOM", "amely"]	2	5	pVCC
+["ACC", null, "ELA", null, "NOM", null, "SUB", "pest"]	2	5	pVCC
+["ACC", null, "FOR", "vezető", "NOM", null, "SUP", null]	2	5	pVCC
+["ACC", null, "ILL", "áristom", "NOM", null, "miatt", null]	2	5	pVCC
+["ACC", null, "ILL", "börtön", "NOM", null, "SUB", "év"]	2	6	pVCC
+["ACC", null, "ILL", "börtön", "NOM", null, "SUB", "parancs"]	2	6	pVCC
+["ACC", null, "ILL", "ész", "NOM", null, "SUB", "papír"]	2	6	pVCC
+["ACC", null, "ILL", "föld", "INS", null, "NOM", null]	2	5	pVCC
+["ACC", null, "ILL", "intézmény", "NOM", null]	2	4	pVCC
+["ACC", null, "ILL", "kéz", "INE", null, "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", null, "ILL", "mely", "NOM", null]	2	4	pVCC
+["ACC", null, "ILL", null, "INE", null, "NOM", "állam"]	2	5	pVCC
+["ACC", null, "ILL", null, "INE", null, "NOM", null, "SUP", "terület"]	2	6	pVCC
+["ACC", null, "ILL", null, "NOM", "élet"]	2	4	pVCC
+["ACC", null, "ILL", null, "NOM", "nemzet"]	2	4	pVCC
+["ACC", null, "ILL", null, "NOM", "ördög"]	2	4	pVCC
+["ACC", null, "ILL", null, "NOM", "többség"]	2	4	pVCC
+["ACC", null, "ILL", null, "NOM", "véletlen"]	2	4	pVCC
+["ACC", null, "ILL", "pince", "NOM", null, "SUP", null]	2	5	pVCC
+["ACC", null, "ILL", "tűz", "INE", null, "NOM", null, "TEM", null]	2	6	pVCC
+["ACC", null, "ILL", "verem", "INS", "kullancs", "NOM", null]	2	6	pVCC
+["ACC", null, "INE", "állam", "NOM", null, "SUP", null]	2	5	pVCC
+["ACC", null, "INE", "csend", "INS", null, "NOM", null]	2	5	pVCC
+["ACC", null, "INE", "eset", "INS", null, "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", null, "INE", "esztendő", "NOM", null]	2	4	pVCC
+["ACC", null, "INE", "év", "INS", null, "NOM", null, "SUP", null]	2	6	pVCC
+["ACC", null, "INE", "hajnal", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INE", "Izrael", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INE", "kapcsolat", "INS", "ez", "NOM", null, "SUB", "szem"]	2	8	pVCC
+["ACC", null, "INE", "kezdet", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INE", "március", "NOM", null]	2	4	pVCC
+["ACC", null, "INE", "név", "NOM", null, "SUB", "máglya"]	2	6	pVCC
+["ACC", null, "INE", null, "INS", "hónap", "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", null, "INE", null, "INS", null, "NOM", null, "SUB", "lat"]	2	6	pVCC
+["ACC", null, "INE", null, "NOM", "az", "SUB", null]	2	5	pVCC
+["ACC", null, "INE", null, "NOM", "búza", "SUP", null]	2	5	pVCC
+["ACC", null, "INE", null, "NOM", "egész"]	2	4	pVCC
+["ACC", null, "INE", null, "NOM", "év", "SUB", null]	2	5	pVCC
+["ACC", null, "INE", null, "NOM", "hét"]	2	4	pVCC
+["ACC", null, "INE", null, "NOM", "HVG", "SUB", null]	2	5	pVCC
+["ACC", null, "INE", null, "NOM", "király"]	2	4	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUB", "szem", "SUP", "idő"]	2	7	pVCC
+["ACC", null, "INE", null, "NOM", null, "SUP", null, "után", "kukorica"]	2	6	pVCC
+["ACC", null, "INE", "ő", "NOM", null]	2	4	pVCC
+["ACC", null, "INE", "szoba", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INE", "vonatkozás", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INS", "eltelte", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INS", null, "NOM", "ajánlatos"]	2	4	pVCC
+["ACC", null, "INS", null, "NOM", "gazdálkodó", "SUP", null]	2	5	pVCC
+["ACC", null, "INS", null, "NOM", "hatalmas"]	2	4	pVCC
+["ACC", null, "INS", null, "NOM", "Imre", "SUB", null]	2	5	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", null, "SUP", "ez"]	2	6	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", null, "SUP", "sor"]	2	6	pVCC
+["ACC", null, "INS", null, "NOM", null, "SUB", null, "után", "halál"]	2	6	pVCC
+["ACC", null, "INS", "sok", "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", null, "INS", "százalék", "NOM", "gazda", "SUP", null]	2	6	pVCC
+["ACC", null, "INS", "ujj", "NOM", null]	2	4	pVCC
+["ACC", null, "NOM", "ábra", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "alap", "SUP", null]	2	4	pVCC
+["ACC", null, "NOM", "áldozat", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "amelyik"]	2	3	pVCC
+["ACC", null, "NOM", "április"]	2	3	pVCC
+["ACC", null, "NOM", "bíróság", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "bizalom", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "célszerű"]	2	3	pVCC
+["ACC", null, "NOM", "éles", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "erős", "SUP", null]	2	4	pVCC
+["ACC", null, "NOM", "fajta", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "gazdag"]	2	3	pVCC
+["ACC", null, "NOM", "gondolat", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "három"]	2	3	pVCC
+["ACC", null, "NOM", "házigazda", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "hivatalnok", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "hivatal", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "hív", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "igaz", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "illető", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "ilyen", "SUB", null, "SUP", null]	2	5	pVCC
+["ACC", null, "NOM", "ismert", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "iszlám", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "jelenség", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "kedves", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "kerék"]	2	3	pVCC
+["ACC", null, "NOM", "kutya", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "láb", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "mag"]	2	3	pVCC
+["ACC", null, "NOM", "másik", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "más", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "mátyás", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "mély", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "múlt"]	2	3	pVCC
+["ACC", null, "NOM", "néhány"]	2	3	pVCC
+["ACC", null, "NOM", "növény", "TEM", null]	2	4	pVCC
+["ACC", null, "NOM", null, "körülött", "ő"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUB", "Európa"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUB", "lélek"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUB", null, "ellenére", "ez"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "körött", "ő"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "mellett", "ők"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "mentén", "út"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "óta", "hét"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szerint", "megítélés"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "szerint", "ők"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", null, "TER", "vég"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUB", "papír", "előtt", "halál"]	2	6	pVCC
+["ACC", null, "NOM", null, "SUB", "papír", "nélkül", "segítség"]	2	6	pVCC
+["ACC", null, "NOM", null, "SUB", "szem", "TER", "ma"]	2	6	pVCC
+["ACC", null, "NOM", null, "SUB", "testvér"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUB", "vég"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUP", "hold"]	2	4	pVCC
+["ACC", null, "NOM", null, "SUP", "környék", "TER", null]	2	5	pVCC
+["ACC", null, "NOM", null, "SUP", null, "szerint", "szakértő"]	2	5	pVCC
+["ACC", null, "NOM", null, "SUP", "sziget"]	2	4	pVCC
+["ACC", null, "NOM", "orosz", "SUB", null, "SUP", null]	2	5	pVCC
+["ACC", null, "NOM", "pillantás"]	2	3	pVCC
+["ACC", null, "NOM", "ram"]	2	3	pVCC
+["ACC", null, "NOM", "régi", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "szabad"]	2	3	pVCC
+["ACC", null, "NOM", "százalék", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "száz", "SUP", null]	2	4	pVCC
+["ACC", null, "NOM", "szerződés", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "szlovákiai", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "szokásos"]	2	3	pVCC
+["ACC", null, "NOM", "társaság", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "tervezett", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "tiszta", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "uralkodó", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "USA"]	2	3	pVCC
+["ACC", null, "NOM", "vallás"]	2	3	pVCC
+["ACC", null, "NOM", "végzet"]	2	3	pVCC
+["ACC", null, "NOM", "vevő", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "vitéz", "SUB", null]	2	4	pVCC
+["ACC", null, "NOM", "Zoltán", "SUB", null, "SUP", null]	2	5	pVCC
+["ACC", "nyilatkozat", "NOM", null, "SUB", "papír", "alatt", "hatás"]	2	7	pVCC
+["ACC", "ők", "ILL", null, "NOM", null, "SUP", null]	2	5	pVCC
+["ACC", "ország", "ILL", null, "NOM", null]	2	4	pVCC
+["ACC", "összeköttetés", "INS", null, "NOM", null]	2	4	pVCC
+["ACC", "piaszter", "ILL", null, "NOM", null]	2	4	pVCC
+["ACC", "pillantás", "CAU", "kedv", "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", "pillantás", "ELA", "sark|sarok", "NOM", "szem"]	2	6	pVCC
+["ACC", "pillantás", "INE", null, "NOM", null, "SUP", "sor"]	2	6	pVCC
+["ACC", "program", "NOM", null, "SUB", null]	2	4	pVCC
+["ACC", "ránc", "NOM", null, "SUP", "mell"]	2	5	pVCC
+["ACC", "sugár", "NOM", null, "SUB", null]	2	4	pVCC
+["ACC", "szám", "DEL", "munkásság", "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", "szikra", "NOM", null, "SUP", "kő"]	2	5	pVCC
+["ACC", "terv", "INE", null, "NOM", null, "SUB", null]	2	5	pVCC
+["ACC", "tőr", "NOM", null, "SUP", "aszfalt"]	2	5	pVCC
+["ACC", "valami", "DAT", null, "INE", null, "NOM", null, "SUB", null]	2	6	pVCC
+["ACC", "vég", "ADE", "tárca", "DAT", "pazarlás", "INE", "helyzet", "NOM", null]	2	9	pVCC
+["ACC", "vég", "DAT", "agresszió", "INS", null, "NOM", "NATO"]	2	7	pVCC
+["ACC", "vég", "DAT", "akció", "NOM", "rendőrség", "SUP", null]	2	7	pVCC
+["ACC", "vég", "DAT", "ami", "INS", "lövés", "NOM", null, "TEM", "az"]	2	9	pVCC
+["ACC", "vég", "DAT", "élet", "ELA", "ember", "NOM", null]	2	7	pVCC
+["ACC", "vég", "DAT", "élet", "INE", null, "INS", "önkéz", "NOM", null, "SUP", null]	2	9	pVCC
+["ACC", "vég", "DAT", "élet", "INS", null, "NOM", null, "miatt", "helyzet"]	2	8	pVCC
+["ACC", "vég", "DAT", "élet", "NOM", null, "alatt", "év"]	2	7	pVCC
+["ACC", "vég", "DAT", "ez", "NOM", null, "között", "több"]	2	7	pVCC
+["ACC", "vég", "DAT", null, "INS", null, "NOM", null, "alatt", "év"]	2	7	pVCC
+["ACC", "vég", "DAT", null, "INS", null, "NOM", null, "alatt", "perc"]	2	7	pVCC
+["ACC", "vég", "DAT", null, "INS", null, "NOM", null, "múlva", "év"]	2	7	pVCC
+["ACC", "vég", "DAT", null, "NOM", "palesztin", "SUP", "terület"]	2	7	pVCC
+["ACC", "vég", "DAT", "túszdráma", "INS", "megmentés", "NOM", null]	2	7	pVCC
+["ACC", "vetőmag", "INE", null, "NOM", null, "SUP", null]	2	5	pVCC
+["DAT", "Európa", "NOM", null, "SUB", null]	2	4	pVCC
+["DAT", null, "ILL", "sár", "NOM", null]	2	4	pVCC
+["DAT", null, "NOM", "Iván"]	2	3	pVCC
+["ILL", null, "INS", null, "NOM", "hit"]	2	4	pVCC
+["ILL", null, "NOM", "érdek"]	2	3	pVCC
+["INE", "sor", "INS", null, "NOM", null]	2	4	pVCC
+["INS", null, "NOM", "június", "SUB", null]	2	4	pVCC
+["NOM", "baj", "SUB", null]	2	3	pVCC
+["NOM", "balsors", "SUB", null]	2	3	pVCC
+["NOM", "év", "SUB", "papír", "SUP", "vég"]	2	6	pVCC
+["NOM", "hülye", "SUB", null]	2	3	pVCC
+["NOM", "közös", "SUB", null]	2	3	pVCC
+["NOM", null, "SUP", "hektár", "helyett", "ezer"]	2	5	pVCC
+["NOM", "szegény", "SUB", null]	2	3	pVCC

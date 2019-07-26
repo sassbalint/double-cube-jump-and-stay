@@ -1,0 +1,1405 @@
+{"fq": 65, "ACC": "NULL"}
+{"fq": 19, "ACC": "NULL", "ILL": "az"}
+{"fq": 12, "ILL": "az"}
+{"fq": 10, "ACC": "nyomtatvány", "INE": "eset", "NOM": "megbízás", "SUP": "szélvédő"}
+{"fq": 10, "ACC": "áthelyezés", "FAC": "jó", "NOM": "Fejér"}
+{"fq": 7, "ACC": "terv", "FAC": "jó", "NOM": "polgármester", "SUP": "alap"}
+{"fq": 7, "ACC": "rész", "DAT": "állás", "ELA": "szempont", "kívül": "figyelem", "NOM": "bekezdés"}
+{"fq": 6, "ACC": "ház"}
+{"fq": 5, "ACC": "javaslat", "FAC": "jó", "NOM": "parlament"}
+{"fq": 4, "ACC": "ügyrend", "FAC": "jó", "NOM": "miniszter"}
+{"fq": 4, "ACC": "tüzelőberendezés", "INE": "szabad"}
+{"fq": 4, "ACC": "rész", "kívül": "figyelem", "NOM": "bekezdés"}
+{"fq": 4, "ACC": "NULL", "NOM": "feleség"}
+{"fq": 4, "ACC": "házirend", "FAC": "jó", "NOM": "fenntartó"}
+{"fq": 3, "SUP": "béke", "TER": "az"}
+{"fq": 3, "NOM": "ház"}
+{"fq": 3, "ACC": "szabályzat", "FAC": "jó", "NOM": "miniszter"}
+{"fq": 3, "ACC": "összeg", "FAC": "jó", "INE": "év", "NOM": "közgyűlés"}
+{"fq": 3, "ACC": "óraszám", "DAT": "bekezdés", "INE": "bekezdés", "kívül": "figyelem", "NOM": "hitoktatás", "SUP": "alap", "TEM": "alkalmazás"}
+{"fq": 3, "ACC": "ők"}
+{"fq": 3, "ACC": "NULL", "NOM": "törvényszék"}
+{"fq": 3, "ACC": "NULL", "FAC": "jó", "NOM": "kft", "SUB": "rész", "SUP": "vételár"}
+{"fq": 3, "ACC": "mérleg", "FAC": "jó", "NOM": "foglalt"}
+{"fq": 3, "ACC": "maga"}
+{"fq": 3, "ACC": "kár"}
+{"fq": 3, "ACC": "kapu", "felé": "felé|ő", "NOM": "gaztett"}
+{"fq": 3, "ACC": "gyerek", "SUB": "ki"}
+{"fq": 3, "ACC": "gyerek"}
+{"fq": 3, "ACC": "foglalkozás", "INE": "bekezdés", "kívül": "figyelem", "NOM": "bekezdés", "SUP": "tanóra", "TEM": "alkalmazás"}
+{"fq": 3, "ACC": "fedezet", "FAC": "jó", "NOM": "3.", "SUB": "forrásfelhasználás"}
+{"fq": 3, "ACC": "értékítélet", "kívül": "figyelem", "NOM": "bíróság"}
+{"fq": 3, "ACC": "elem", "kívül": "figyelem", "NOM": "6."}
+{"fq": 3, "ACC": "az"}
+{"fq": 3, "ACC": "arány", "FAC": "jó", "NOM": "közgyűlés", "szerint": "alábbi"}
+{"fq": 2, "SUP": "hely"}
+{"fq": 2, "NOM": "főnök"}
+{"fq": 2, "kívül": "figyelem"}
+{"fq": 2, "INE": "cser", "NOM": "barát"}
+{"fq": 2, "ILL": "csuda"}
+{"fq": 2, "ESS": "juss", "NOM": "apa", "SUB": "én"}
+{"fq": 2, "ADE": "fakép"}
+{"fq": 2, "ACC": "zsír", "DAT": "te"}
+{"fq": 2, "ACC": "válasz", "INE": "feledés", "NOM": "végzetes"}
+{"fq": 2, "ACC": "valami", "ELA": "szófölösleg", "ILL": "bögy"}
+{"fq": 2, "ACC": "üzlet", "FAC": "jó", "NOM": "Versenytanács"}
+{"fq": 2, "ACC": "ti", "INE": "kor"}
+{"fq": 2, "ACC": "támogatás", "ADE": "számítás", "kívül": "figyelem", "NOM": "jövedelem", "SUB": "rész"}
+{"fq": 2, "ACC": "rovat", "DAT": "vámhatóság", "FAC": "jó", "NOM": "igazolás", "SUP": "mód"}
+{"fq": 2, "ACC": "pénzmaradvány", "FAC": "jó", "INE": "érték", "INS": "összeg", "NOM": "Ft", "SUP": "oldal"}
+{"fq": 2, "ACC": "osztály", "NOM": "százalék"}
+{"fq": 2, "ACC": "olvasás", "ILL": "az"}
+{"fq": 2, "ACC": "nyom", "NOM": "szemüveg"}
+{"fq": 2, "ACC": "nyom", "NOM": "patkó"}
+{"fq": 2, "ACC": "nyom", "NOM": "hanyatlás", "SUP": "helyzet"}
+{"fq": 2, "ACC": "nyom", "NOM": "csípés", "rajta": "én"}
+{"fq": 2, "ACC": "nyak", "NOM": "gallér"}
+{"fq": 2, "ACC": "NULL", "SUB": "késő"}
+{"fq": 2, "ACC": "NULL", "NOM": "Adél"}
+{"fq": 2, "ACC": "NULL", "INE": "tudat", "kívül": "figyelem"}
+{"fq": 2, "ACC": "NULL", "INE": "gyertyafény"}
+{"fq": 2, "ACC": "NULL", "FAC": "jó"}
+{"fq": 2, "ACC": "NULL", "ADE": "fakép", "NOM": "hallgatózó"}
+{"fq": 2, "ACC": "létesítés", "FAC": "jó", "NOM": "minisztérium", "SUB": "javaslat"}
+{"fq": 2, "ACC": "lábnyom", "NOM": "1."}
+{"fq": 2, "ACC": "kocsi"}
+{"fq": 2, "ACC": "kívánnivaló", "NOM": "minőség", "után": "maga"}
+{"fq": 2, "ACC": "kétség"}
+{"fq": 2, "ACC": "kép", "INE": "hívó"}
+{"fq": 2, "ACC": "jog", "kívül": "figyelem", "NOM": "megítélés", "SUP": "sor"}
+{"fq": 2, "ACC": "jegyzőkönyv", "ADE": "ő", "INE": "biztonság", "SUP": "segélyhely"}
+{"fq": 2, "ACC": "hely"}
+{"fq": 2, "ACC": "hely"}
+{"fq": 2, "ACC": "ház", "SUB": "unokaöcs"}
+{"fq": 2, "ACC": "hát", "DAT": "újdonság"}
+{"fq": 2, "ACC": "gyerek", "NOM": "otthon"}
+{"fq": 2, "ACC": "gomb"}
+{"fq": 2, "ACC": "finom", "TER": "falat"}
+{"fq": 2, "ACC": "filozófia"}
+{"fq": 2, "ACC": "fi|fiú", "ADE": "Ildikó"}
+{"fq": 2, "ACC": "feladat", "FAC": "jó", "INE": "pont", "NOM": "berendezés", "részére": "intézmény", "SUB": "keret", "SUP": "ágazat"}
+{"fq": 2, "ACC": "ez"}
+{"fq": 2, "ACC": "dolog", "INE": "annyi"}
+{"fq": 2, "ACC": "csomagterv", "FAC": "jó", "INE": "érdek", "NOM": "kormány"}
+{"fq": 2, "ACC": "ceremónia", "SUB": "késő"}
+{"fq": 2, "ACC": "bicikli"}
+{"fq": 2, "ACC": "beszélgetés", "ILL": "az"}
+{"fq": 2, "ACC": "barát", "NOM": "tag", "SUP": "béke"}
+{"fq": 2, "ACC": "az", "NOM": "föld"}
+{"fq": 2, "ACC": "az", "kívül": "figyelem"}
+{"fq": 2, "ACC": "ajtó"}
+{"fq": 2, "ACC": "ágy"}
+{"fq": 1, "TER": "az"}
+{"fq": 1, "SUP": "szabadláb"}
+{"fq": 1, "SUP": "béke"}
+{"fq": 1, "SUP": "ágy"}
+{"fq": 1, "SUB": "pénz"}
+{"fq": 1, "SUB": "maga", "TER": "az"}
+{"fq": 1, "SUB": "maga"}
+{"fq": 1, "NOM": "szegény"}
+{"fq": 1, "NOM": "sok", "után": "maga"}
+{"fq": 1, "NOM": "ritmus", "SUB": "maga"}
+{"fq": 1, "NOM": "protokollnévsor"}
+{"fq": 1, "NOM": "otthon"}
+{"fq": 1, "NOM": "összekötő", "SUB": "hely"}
+{"fq": 1, "NOM": "nyál", "TER": "az"}
+{"fq": 1, "NOM": "láz"}
+{"fq": 1, "NOM": "kétszer", "SUB": "maga", "szemben": "hős"}
+{"fq": 1, "NOM": "kérdés"}
+{"fq": 1, "NOM": "horog", "SUP": "csupasz"}
+{"fq": 1, "NOM": "havazás"}
+{"fq": 1, "NOM": "folyó"}
+{"fq": 1, "NOM": "fiúcska", "SUP": "béke"}
+{"fq": 1, "NOM": "filmezés"}
+{"fq": 1, "NOM": "fénygúla"}
+{"fq": 1, "NOM": "feleség", "SUP": "cetli", "számára": "üzenet"}
+{"fq": 1, "NOM": "fagytűrő", "SUP": "tél"}
+{"fq": 1, "NOM": "duhaj", "SUP": "béke"}
+{"fq": 1, "NOM": "cigarettacsikk"}
+{"fq": 1, "NOM": "apa", "SUB": "maga"}
+{"fq": 1, "NOM": "akarnok", "SUP": "föveny"}
+{"fq": 1, "mögött": "maga", "NOM": "csatatér"}
+{"fq": 1, "mögött": "hát", "NOM": "víz"}
+{"fq": 1, "miatt": "készülék"}
+{"fq": 1, "mellett": "óvadék", "NOM": "148."}
+{"fq": 1, "között": "1312", "NOM": "évkönyvíró"}
+{"fq": 1, "kívül": "figyelem", "NOM": "William"}
+{"fq": 1, "kívül": "figyelem", "NOM": "kiszámíthatatlanság"}
+{"fq": 1, "kívül": "figyelem", "NOM": "határozat"}
+{"fq": 1, "kívül": "figyelem", "NOM": "alapvető"}
+{"fq": 1, "INS": "üveg", "SUP": "dohányzóasztal"}
+{"fq": 1, "INS": "szöveg", "NOM": "következő", "SUP": "szegély"}
+{"fq": 1, "INS": "olaj", "NOM": "ajánlatos", "SUP": "ő"}
+{"fq": 1, "INS": "íz", "NOM": "dráma", "SUP": "vég"}
+{"fq": 1, "INS": "hulla", "NOM": "szamár", "TER": "nap"}
+{"fq": 1, "INS": "gyerek", "NOM": "ház"}
+{"fq": 1, "INS": "felszállás", "SUP": "ajtórács"}
+{"fq": 1, "INE": "ütem", "következtében": "fogínysorvadás", "SUB": "maga"}
+{"fq": 1, "INE": "szoba", "SUB": "maga"}
+{"fq": 1, "INE": "szék", "NOM": "vonal"}
+{"fq": 1, "INE": "sorrend", "nélkül": "válasz", "NOM": "kérdés"}
+{"fq": 1, "INE": "sor", "NOM": "est"}
+{"fq": 1, "INE": "parkoló", "NOM": "kocsi"}
+{"fq": 1, "INE": "önmaga", "NOM": "szám"}
+{"fq": 1, "INE": "lakás", "NOM": "Brúnó", "SUB": "maga"}
+{"fq": 1, "INE": "kérdés"}
+{"fq": 1, "INE": "homály", "NOM": "legutóbbi", "SUP": "közgyűlés"}
+{"fq": 1, "INE": "háttér", "NOM": "férj"}
+{"fq": 1, "INE": "függő", "SUP": "nap"}
+{"fq": 1, "INE": "cser", "NOM": "falu"}
+{"fq": 1, "INE": "átlag", "mentén": "Duna", "NOM": "park", "SUP": "sáv"}
+{"fq": 1, "INE": "állapot", "NOM": "1."}
+{"fq": 1, "ILL": "golyóstoll", "NOM": "kiselejtezett", "SUB": "rab"}
+{"fq": 1, "ILL": "az", "SUB": "jel"}
+{"fq": 1, "ILL": "annyi", "NOM": "húszesztendős"}
+{"fq": 1, "FAC": "jó", "NOM": "százalékos", "SUP": "ülés"}
+{"fq": 1, "FAC": "jó", "NOM": "milliárd", "SUB": "beruházás", "SUP": "31-e"}
+{"fq": 1, "FAC": "jó", "közül": "megállapodás", "TER": "ez"}
+{"fq": 1, "FAC": "jó", "INS": "hét", "NOM": "törvényhozás"}
+{"fq": 1, "előtt": "bíróság", "INE": "hazugság"}
+{"fq": 1, "ellen": "lehetőség", "NOM": "vendég"}
+{"fq": 1, "DAT": "szó", "FAC": "jó", "INE": "2003", "NOM": "ezer", "SUB": "finanszírozás", "SUP": "ülésszak"}
+{"fq": 1, "DAT": "ige", "NOM": "változat"}
+{"fq": 1, "DAT": "én"}
+{"fq": 1, "DAT": "cseléd", "mellé": "mellé|ő", "NOM": "föld"}
+{"fq": 1, "CAU": "pasi", "INE": "korom", "NOM": "lány"}
+{"fq": 1, "ACC": "hely", "NOM": "méter", "SUP": "közép"}
+{"fq": 1, "által": "ő", "NOM": "nyom", "SUP": "alap"}
+{"fq": 1, "által": "kapitány", "NOM": "csapat", "SUB": "kérdés"}
+{"fq": 1, "által": "bíróság", "INE": "az", "kívül": "figyelem", "között": "több", "SUB": "utasítás"}
+{"fq": 1, "ADE": "meghatározás", "INS": "nyugdíj", "kívül": "figyelem", "NOM": "4."}
+{"fq": 1, "ADE": "megállapítás", "ELA": "szempont", "INE": "étkeztetés", "kívül": "figyelem", "NOM": "iskolai"}
+{"fq": 1, "ADE": "fakép", "NOM": "társ"}
+{"fq": 1, "ADE": "fakép", "NOM": "ipse"}
+{"fq": 1, "ACC": "zsák", "SUB": "egymás"}
+{"fq": 1, "ACC": "zsák", "INE": "parkoló"}
+{"fq": 1, "ACC": "zokni", "CAU": "kedv"}
+{"fq": 1, "ACC": "ziccer", "közel": "Fradi"}
+{"fq": 1, "ACC": "zakó", "INE": "zseb", "INS": "pisztoly", "NOM": "nevelőapa", "SUP": "szék"}
+{"fq": 1, "ACC": "vonat", "ILL": "fene"}
+{"fq": 1, "ACC": "volta", "DAT": "gól", "NOM": "szalagcím"}
+{"fq": 1, "ACC": "vízum", "SUB": "cél"}
+{"fq": 1, "ACC": "vizsgadíj", "FAC": "jó", "NOM": "szenátus", "SUB": "javaslat"}
+{"fq": 1, "ACC": "viszony", "INE": "forma", "SUB": "utód"}
+{"fq": 1, "ACC": "visszajuttatás", "FAC": "jó"}
+{"fq": 1, "ACC": "virág", "INS": "halott", "NOM": "rozsdabarna", "SUB": "maga"}
+{"fq": 1, "ACC": "villany", "NOM": "házi"}
+{"fq": 1, "ACC": "villany", "NOM": "4.", "SUP": "folyosó"}
+{"fq": 1, "ACC": "világ", "INS": "zöm", "NOM": "hiba", "SUB": "politikus"}
+{"fq": 1, "ACC": "világbajnokság", "NOM": "Bernie"}
+{"fq": 1, "ACC": "vezető", "NOM": "probléma", "szerint": "tag"}
+{"fq": 1, "ACC": "vezetőcsere", "FAC": "jó", "INE": "közelmúlt", "NOM": "cégbíróság", "szerint": "információ"}
+{"fq": 1, "ACC": "vevő", "közül": "halféle", "NOM": "süllő"}
+{"fq": 1, "ACC": "vetület", "kívül": "figyelem"}
+{"fq": 1, "ACC": "veszély", "kívül": "figyelem"}
+{"fq": 1, "ACC": "versenypályázat", "INS": "szavazás", "NOM": "tanács", "SUB": "javaslat"}
+{"fq": 1, "ACC": "versenypályázat", "INS": "szavazás", "NOM": "név", "SUB": "javaslat"}
+{"fq": 1, "ACC": "verdikt", "INS": "határozat", "NOM": "bíróság"}
+{"fq": 1, "ACC": "vélemény", "INE": "forma", "NOM": "megalapozott"}
+{"fq": 1, "ACC": "vélemény", "FAC": "jó", "NOM": "államtitkár"}
+{"fq": 1, "ACC": "vélemény", "DAT": "álláspont", "ELA": "cél", "kívül": "figyelem", "NOM": "juttatás", "SUB": "érvény"}
+{"fq": 1, "ACC": "végzés", "INE": "jegy", "kívül": "figyelem", "NOM": "bíróság"}
+{"fq": 1, "ACC": "végzés", "INE": "hely", "NOM": "bíróság", "SUP": "eset"}
+{"fq": 1, "ACC": "védő", "ADE": "fakép", "INE": "perc", "NOM": "vendég"}
+{"fq": 1, "ACC": "vasúttámogatás", "FAC": "jó", "miatt": "hiány", "NOM": "forint"}
+{"fq": 1, "ACC": "vasbilincs", "NOM": "detektív", "rajta": "én"}
+{"fq": 1, "ACC": "városrész", "NOM": "nép", "SUB": "családias"}
+{"fq": 1, "ACC": "változás", "FAC": "jó", "NOM": "programbizottság"}
+{"fq": 1, "ACC": "változás", "kívül": "figyelem", "NOM": "2."}
+{"fq": 1, "ACC": "választókerület", "NOM": "párt"}
+{"fq": 1, "ACC": "válasz", "INE": "százalék", "nélkül": "érintés", "NOM": "2."}
+{"fq": 1, "ACC": "vágy", "DAT": "ez", "INE": "megoldás", "kívül": "figyelem", "NOM": "sokoldalú", "TEM": "az"}
+{"fq": 1, "ACC": "vagyon", "NOM": "gazda"}
+{"fq": 1, "ACC": "vagyon", "INE": "visszavonultság", "NOM": "egész", "SUB": "egyház"}
+{"fq": 1, "ACC": "vádpont", "FAC": "jó", "INS": "szavazás", "NOM": "törvényhozó", "SUB": "felelősség"}
+{"fq": 1, "ACC": "vadászat", "ILL": "az", "NOM": "további"}
+{"fq": 1, "ACC": "üzenet", "SUP": "szám"}
+{"fq": 1, "ACC": "üzenet", "FOR": "ember", "NOM": "megtapasztaló", "SUB": "mi"}
+{"fq": 1, "ACC": "üzenet", "ADE": "feleség"}
+{"fq": 1, "ACC": "üzem", "INE": "nap", "NOM": "ember"}
+{"fq": 1, "ACC": "üveg", "SUP": "sor"}
+{"fq": 1, "ACC": "utód", "NOM": "szülő", "SUB": "maga"}
+{"fq": 1, "ACC": "utóbbi", "FAC": "jó", "NOM": "hivatal"}
+{"fq": 1, "ACC": "útlevél", "INE": "szálloda", "SUB": "tanács"}
+{"fq": 1, "ACC": "ütemterv", "FAC": "jó", "NOM": "június", "SUP": "alap"}
+{"fq": 1, "ACC": "út", "DAT": "autó", "NOM": "út"}
+{"fq": 1, "ACC": "utas", "előtt": "érkezés", "SUB": "maga"}
+{"fq": 1, "ACC": "utasítás", "kívül": "figyelem", "NOM": "23."}
+{"fq": 1, "ACC": "utasítás", "kívül": "figyelem", "NOM": "1."}
+{"fq": 1, "ACC": "űrhajós", "SUP": "fedélzet"}
+{"fq": 1, "ACC": "űr", "DAT": "rendszer", "NOM": "összeomlás", "után": "maga"}
+{"fq": 1, "ACC": "űrállomás", "INE": "február", "SUB": "sors"}
+{"fq": 1, "ACC": "úr"}
+{"fq": 1, "ACC": "ültetvény", "NOM": "hegyközség"}
+{"fq": 1, "ACC": "újságíró", "ADE": "fakép", "INE": "modor", "NOM": "felsült"}
+{"fq": 1, "ACC": "ügy", "SUB": "rendőrség"}
+{"fq": 1, "ACC": "ügyrend", "FAC": "jó", "INE": "egyetértés", "INS": "miniszter", "NOM": "környezetvédelmi"}
+{"fq": 1, "ACC": "ügylet", "ADE": "számítás", "kívül": "figyelem"}
+{"fq": 1, "ACC": "ügyész", "ELA": "szempont", "kívül": "figyelem", "NOM": "megállapítás"}
+{"fq": 1, "ACC": "tükör", "INE": "aranykeret", "SUP": "fal"}
+{"fq": 1, "ACC": "tűérő", "DAT": "Ferenc"}
+{"fq": 1, "ACC": "tudás", "NOM": "kiképzett"}
+{"fq": 1, "ACC": "tréfa"}
+{"fq": 1, "ACC": "traktor", "SUP": "mező"}
+{"fq": 1, "ACC": "törvény", "NOM": "múlt"}
+{"fq": 1, "ACC": "törvény", "FAC": "jó", "NOM": "további"}
+{"fq": 1, "ACC": "törvény", "FAC": "jó", "NOM": "jellegű", "SUB": "anyag", "SUP": "2-a"}
+{"fq": 1, "ACC": "törvény", "DEL": "föld", "FAC": "jó", "NOM": "törvény", "SUP": "21-e"}
+{"fq": 1, "ACC": "törvény", "DAT": "kormány", "FAC": "jó"}
+{"fq": 1, "ACC": "törvény", "alatt": "esztendő", "FAC": "jó", "NOM": "három"}
+{"fq": 1, "ACC": "tömeg", "NOM": "baloldal", "SUB": "maga", "TEM": "az"}
+{"fq": 1, "ACC": "tömegkommunikáció", "ILL": "Szamos", "INE": "nap", "NOM": "romániai"}
+{"fq": 1, "ACC": "tolókocsi"}
+{"fq": 1, "ACC": "tojás", "SUP": "föld"}
+{"fq": 1, "ACC": "többség", "NOM": "pénz"}
+{"fq": 1, "ACC": "többség"}
+{"fq": 1, "ACC": "tisztaság", "NOM": "fenyőárus", "után": "maga"}
+{"fq": 1, "ACC": "ti", "SUP": "béke", "TER": "az"}
+{"fq": 1, "ACC": "ti", "SUP": "béke"}
+{"fq": 1, "ACC": "típus", "mellett": "írás", "NOM": "korszak"}
+{"fq": 1, "ACC": "ti", "NOM": "hegyi", "SUB": "mag"}
+{"fq": 1, "ACC": "tiltakozás", "kívül": "figyelem", "NOM": "cég"}
+{"fq": 1, "ACC": "ti", "INE": "nap", "NOM": "honvéd"}
+{"fq": 1, "ACC": "ti", "INE": "kor", "INS": "hirtelenség"}
+{"fq": 1, "ACC": "ti", "INE": "cser", "NOM": "világ", "TEM": "az"}
+{"fq": 1, "ACC": "ti", "INE": "baj", "NOM": "képtelen"}
+{"fq": 1, "ACC": "ti", "ADE": "fakép"}
+{"fq": 1, "ACC": "ti"}
+{"fq": 1, "ACC": "tévé", "után": "himnusz"}
+{"fq": 1, "ACC": "tetem"}
+{"fq": 1, "ACC": "testkultúra", "kívül": "presztízscsatamező", "NOM": "párt"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INE": "meggyőződés", "NOM": "igazgatótanács", "SUP": "hét"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INE": "1989", "NOM": "tanács"}
+{"fq": 1, "ACC": "terv", "INE": "hely", "NOM": "rend", "szerint": "mód"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "NOM": "hatóság", "TEM": "az"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "NOM": "gyakorló"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INS": "kivétel", "NOM": "földhivatal"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INS": "hét", "NOM": "kormány"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INS": "figyelembevétel", "NOM": "bányafelügyelet"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INE": "felterjesztés", "NOM": "miniszter"}
+{"fq": 1, "ACC": "terv", "FAC": "jó", "INE": "április", "NOM": "rendőrfőkapitány"}
+{"fq": 1, "ACC": "terv", "FAC": "jó"}
+{"fq": 1, "ACC": "terület", "NOM": "cég", "óta": "1993", "szerint": "tapasztalat", "után": "maga"}
+{"fq": 1, "ACC": "terület", "INE": "terv", "NOM": "önkormányzat", "számára": "ünneplő"}
+{"fq": 1, "ACC": "terület", "INE": "övezet", "NOM": "BKV"}
+{"fq": 1, "ACC": "tér", "NOM": "úrinő"}
+{"fq": 1, "ACC": "termőföld", "ADE": "megállapítás", "FOR": "földrészlet", "INS": "terület", "kívül": "figyelem", "NOM": "kialakított"}
+{"fq": 1, "ACC": "termelés", "ILL": "az"}
+{"fq": 1, "ACC": "tér", "DAT": "tevékenység", "NOM": "élet"}
+{"fq": 1, "ACC": "tény", "kívül": "figyelem", "NOM": "írás"}
+{"fq": 1, "ACC": "tény", "kívül": "figyelem", "NOM": "dokumentum"}
+{"fq": 1, "ACC": "teljesítmény", "DAT": "amerikai", "NOM": "százalék", "szerint": "felmérés"}
+{"fq": 1, "ACC": "teljesítmény", "kívül": "figyelem", "NOM": "növelés"}
+{"fq": 1, "ACC": "televízió", "nélkül": "tulajdonos", "TER": "az"}
+{"fq": 1, "ACC": "településszerkezet", "NOM": "évszázad"}
+{"fq": 1, "ACC": "település", "SUB": "sors", "SUP": "vidék"}
+{"fq": 1, "ACC": "telefonszám", "DAT": "lány", "INE": "bolt", "NOM": "Ford"}
+{"fq": 1, "ACC": "tekintély", "DAT": "élő", "NOM": "halott"}
+{"fq": 1, "ACC": "tehetetlen", "NOM": "nép", "SUP": "vég"}
+{"fq": 1, "ACC": "teendő", "INS": "költségvetés", "NOM": "említett", "SUB": "vég"}
+{"fq": 1, "ACC": "taxi", "NOM": "vezér", "SUP": "tér"}
+{"fq": 1, "ACC": "táska", "NOM": "vendég", "szerint": "állítás"}
+{"fq": 1, "ACC": "tartás", "DAT": "kapitány", "FAC": "jó", "ILL": "vár", "NOM": "lovas", "után": "eleste"}
+{"fq": 1, "ACC": "tartalom", "INE": "útkereszteződés", "NOM": "férfi"}
+{"fq": 1, "ACC": "tartalék", "INE": "gép"}
+{"fq": 1, "ACC": "tartalék", "FAC": "jó", "FOR": "rész", "NOM": "foglalt"}
+{"fq": 1, "ACC": "társ", "ADE": "fakép", "NOM": "cukrász"}
+{"fq": 1, "ACC": "társaság", "FAC": "jó", "közül": "beszámoló", "szerint": "tájékoztatás"}
+{"fq": 1, "ACC": "tárcsázású", "NOM": "hagyományos", "számára": "delikvens"}
+{"fq": 1, "ACC": "tárca", "NOM": "kormány", "SUB": "maga"}
+{"fq": 1, "ACC": "tapasztalat", "INE": "kapcsolat", "INS": "esély"}
+{"fq": 1, "ACC": "tanterem", "CAU": "kedv", "NOM": "diák"}
+{"fq": 1, "ACC": "tanács", "INS": "év"}
+{"fq": 1, "ACC": "támogatás", "FAC": "jó", "NOM": "közgyűlés", "SUB": "év"}
+{"fq": 1, "ACC": "támogatás", "FAC": "jó", "NOM": "bizottság", "SUB": "megvalósítás"}
+{"fq": 1, "ACC": "támogatás", "FAC": "jó", "INS": "támogatás", "NOM": "költségvetés"}
+{"fq": 1, "ACC": "támogatás", "FAC": "jó"}
+{"fq": 1, "ACC": "tag", "NOM": "6.", "SUB": "maga"}
+{"fq": 1, "ACC": "tábla", "kívül": "figyelem", "NOM": "elsőbbségadás"}
+{"fq": 1, "ACC": "szünet", "között": "megnyomás", "NOM": "Nokia", "SUP": "készülék"}
+{"fq": 1, "ACC": "szülő", "SUB": "maga"}
+{"fq": 1, "ACC": "szüleik", "NOM": "gyerek", "SUP": "béke"}
+{"fq": 1, "ACC": "szövetség", "NOM": "hivatal", "SUB": "maga"}
+{"fq": 1, "ACC": "szöveg", "FAC": "jó", "NOM": "bizottság"}
+{"fq": 1, "ACC": "szöveg", "FAC": "jó", "INE": "összhang", "INS": "vélemény", "NOM": "ház"}
+{"fq": 1, "ACC": "szorgalmazás", "NOM": "József", "SUB": "mi"}
+{"fq": 1, "ACC": "szopás", "ILL": "az"}
+{"fq": 1, "ACC": "szókincs", "kívül": "figyelem"}
+{"fq": 1, "ACC": "szoftvercég", "NOM": "igazgató"}
+{"fq": 1, "ACC": "szó"}
+{"fq": 1, "ACC": "szivarcsutka", "NOM": "apa", "után": "maga"}
+{"fq": 1, "ACC": "szétosztás", "FAC": "jó"}
+{"fq": 1, "ACC": "szerződéskötés", "CAU": "finanszírozás", "FAC": "jó", "NOM": "vezetőség", "SUP": "ülés"}
+{"fq": 1, "ACC": "szerződés", "FAC": "jó", "NOM": "törvényhozás"}
+{"fq": 1, "ACC": "szerződés", "FAC": "jó", "NOM": "igazgatótanács"}
+{"fq": 1, "ACC": "szerződés", "FAC": "jó", "NOM": "hatóság"}
+{"fq": 1, "ACC": "szerződés", "FAC": "jó", "NOM": "december", "SUP": "14-e"}
+{"fq": 1, "ACC": "szerződés", "FAC": "jó", "INE": "vonatkozás", "INS": "hozzájárulás", "NOM": "védett"}
+{"fq": 1, "ACC": "szerszám", "INE": "koporsó"}
+{"fq": 1, "ACC": "szerkezet", "NOM": "szabály", "szemben": "ez"}
+{"fq": 1, "ACC": "szerkezet", "INE": "testrész", "INS": "fémcsavar", "TER": "az"}
+{"fq": 1, "ACC": "szereplő", "NOM": "történet"}
+{"fq": 1, "ACC": "szerelem"}
+{"fq": 1, "ACC": "szénbányászat", "INS": "privatizálás"}
+{"fq": 1, "ACC": "széna", "NOM": "ruganyos"}
+{"fq": 1, "ACC": "szem", "NOM": "dobszóló", "SUP": "száraz"}
+{"fq": 1, "ACC": "szempont", "kívül": "figyelem", "NOM": "gazdasági", "TEM": "megfogalmazás"}
+{"fq": 1, "ACC": "szempont", "kívül": "figyelem", "NOM": "bank"}
+{"fq": 1, "ACC": "személy", "FAC": "jó", "NOM": "választmány", "SUB": "javaslat"}
+{"fq": 1, "ACC": "személy", "FAC": "jó", "ILL": "figyelem", "NOM": "tanács"}
+{"fq": 1, "ACC": "szélesség", "kívül": "figyelem", "NOM": "tudományoskodó", "TEM": "ugyanaz"}
+{"fq": 1, "ACC": "szék", "NOM": "dallasi"}
+{"fq": 1, "ACC": "szék", "NOM": "anya", "SUB": "emlék", "SUP": "koncert", "szerint": "fáma"}
+{"fq": 1, "ACC": "szekér"}
+{"fq": 1, "ACC": "szék", "DAT": "családtag"}
+{"fq": 1, "ACC": "százalék", "INE": "kezelés"}
+{"fq": 1, "ACC": "százalék", "FAC": "jó", "NOM": "pénzügyminisztérium"}
+{"fq": 1, "ACC": "szám", "FAC": "jó", "INE": "eset", "NOM": "következő"}
+{"fq": 1, "ACC": "számla", "után": "maga"}
+{"fq": 1, "ACC": "szállító", "INE": "cser", "NOM": "British"}
+{"fq": 1, "ACC": "szakminisztérium", "INE": "kéz", "NOM": "Fidesz"}
+{"fq": 1, "ACC": "szakkollégium", "FAC": "jó", "NOM": "tanács", "SUP": "egyetem"}
+{"fq": 1, "ACC": "szájíz", "INS": "év"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "pénzügyminiszter"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "minőség", "SUB": "javaslat"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "kormány", "SUP": "alap"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "felügyelet"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "elnök"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "INS": "kivétel", "NOM": "értekezlet"}
+{"fq": 1, "ACC": "szabályzat", "CAU": "tevékenység", "FAC": "jó", "NOM": "felelős"}
+{"fq": 1, "ACC": "szabályzat", "ALL": "kar", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "szabályzat", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "szabályozás", "NOM": "felmentés", "SUB": "törvény"}
+{"fq": 1, "ACC": "szabály", "FAC": "jó", "NOM": "pénzügyi"}
+{"fq": 1, "ACC": "szabály", "FAC": "jó", "INE": "arány", "INS": "tartózkodás", "SUB": "használat"}
+{"fq": 1, "ACC": "szabadság", "NOM": "fegyelem"}
+{"fq": 1, "ACC": "stratégia", "FAC": "jó", "NOM": "szenátus"}
+{"fq": 1, "ACC": "statútum", "FAC": "jó", "INS": "népszavazás", "NOM": "polgár"}
+{"fq": 1, "ACC": "sportolás", "ILL": "az"}
+{"fq": 1, "ACC": "sorrend--tervezet", "FAC": "jó", "NOM": "Rt"}
+{"fq": 1, "ACC": "sorrend", "kívül": "figyelem"}
+{"fq": 1, "ACC": "sor", "NOM": "tervezet"}
+{"fq": 1, "ACC": "sor", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "sorozat", "DEL": "államosítás", "FAC": "jó", "NOM": "építészet"}
+{"fq": 1, "ACC": "sorozat", "kívül": "figyelem", "NOM": "kötőjel"}
+{"fq": 1, "ACC": "sor", "között": "bekezdés"}
+{"fq": 1, "ACC": "sivatag", "NOM": "diktatúra", "után": "maga"}
+{"fq": 1, "ACC": "sítalp"}
+{"fq": 1, "ACC": "siker|sikér", "NOM": "kár"}
+{"fq": 1, "ACC": "sérülés", "SUP": "arc", "TEM": "detonáció"}
+{"fq": 1, "ACC": "semmi", "NOM": "Ágota", "után": "maga"}
+{"fq": 1, "ACC": "segély", "FAC": "jó", "NOM": "forint"}
+{"fq": 1, "ACC": "segély", "FAC": "jó", "NOM": "bizottság", "SUB": "tétel"}
+{"fq": 1, "ACC": "segélycsomag", "FAC": "jó", "NOM": "ház"}
+{"fq": 1, "ACC": "sáv", "DAT": "engedély", "NOM": "ellenző"}
+{"fq": 1, "ACC": "savanyítás", "SUB": "vég"}
+{"fq": 1, "ACC": "ruha", "NOM": "feleség", "SUB": "én"}
+{"fq": 1, "ACC": "ruha", "között": "homokvár", "NOM": "járda", "SUP": "homokbucka"}
+{"fq": 1, "ACC": "ruha", "ILL": "nyaláb", "nélkül": "őr", "SUP": "folyópart"}
+{"fq": 1, "ACC": "ruha"}
+{"fq": 1, "ACC": "Rt.", "SUP": "béke"}
+{"fq": 1, "ACC": "rom", "képest": "terület", "NOM": "ország", "SUB": "mi"}
+{"fq": 1, "ACC": "romhalmaz", "INE": "palota", "után": "maga"}
+{"fq": 1, "ACC": "robogó", "NOM": "férfi", "SUP": "helyszín"}
+{"fq": 1, "ACC": "rét", "SUB": "tél"}
+{"fq": 1, "ACC": "részvétel", "FAC": "jó", "INE": "akció", "INS": "támogatás", "NOM": "5."}
+{"fq": 1, "ACC": "rész", "SUB": "egyházmegye"}
+{"fq": 1, "ACC": "rész", "NOM": "jelenet"}
+{"fq": 1, "ACC": "rész", "DAT": "törvény", "kívül": "figyelem", "NOM": "zsidó", "szerint": "tanúság"}
+{"fq": 1, "ACC": "rész", "DAT": "állás", "kívül": "figyelem", "NOM": "bekezdés", "TEM": "alkalmazás"}
+{"fq": 1, "ACC": "rész", "INE": "eset"}
+{"fq": 1, "ACC": "rés", "NOM": "fiatalasszony", "SUP": "függöny"}
+{"fq": 1, "ACC": "rendszer", "NOM": "változás"}
+{"fq": 1, "ACC": "rendszer", "INS": "szigorítás", "szerint": "frakció"}
+{"fq": 1, "ACC": "rendszer", "NOM": "érdekkijárós", "SUB": "kormány"}
+{"fq": 1, "ACC": "rendszer", "FAC": "jó", "NOM": "Kormányzótanács"}
+{"fq": 1, "ACC": "rend", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "rend", "FAC": "jó", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "rendezés", "NOM": "csúcspolitikus", "SUB": "parlament"}
+{"fq": 1, "ACC": "rendezés", "FAC": "jó", "INE": "törvény", "NOM": "országgyűlés", "SUP": "év"}
+{"fq": 1, "ACC": "rendelet", "FAC": "jó", "TER": "az"}
+{"fq": 1, "ACC": "rendelet", "FAC": "jó", "NOM": "május", "SUP": "14-e"}
+{"fq": 1, "ACC": "rendelet", "FAC": "jó", "NOM": "december", "SUP": "ülés"}
+{"fq": 1, "ACC": "rendelet", "DEL": "mód", "FAC": "jó", "TEM": "ugyanaz"}
+{"fq": 1, "ACC": "rendelet", "DAT": "főváros", "FAC": "jó", "NOM": "új"}
+{"fq": 1, "ACC": "rémület", "mögött": "maga", "NOM": "szállító"}
+{"fq": 1, "ACC": "remény", "NOM": "történés"}
+{"fq": 1, "ACC": "reformátor", "nélkül": "szó", "NOM": "3.", "szerint": "vélemény"}
+{"fq": 1, "ACC": "rang", "DAT": "fi|fiú"}
+{"fq": 1, "ACC": "pusztulás", "mögött": "maga", "NOM": "császárság"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "INS": "cél", "NOM": "földművelésügyi"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "NOM": "társulás", "után": "kikérés"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "NOM": "minisztérium", "SUP": "tél"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "NOM": "miniszter"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "INS": "határidő", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "program", "FAC": "jó", "INE": "eset", "NOM": "minisztérium", "SUB": "javaslat"}
+{"fq": 1, "ACC": "program", "FAC": "jó"}
+{"fq": 1, "ACC": "program", "DEL": "fellendítés", "FAC": "jó", "NOM": "turizmus"}
+{"fq": 1, "ACC": "program", "ALL": "az", "FAC": "jó", "NOM": "parlament"}
+{"fq": 1, "ACC": "probléma", "NOM": "ötlet"}
+{"fq": 1, "ACC": "probléma", "kívül": "figyelem", "NOM": "tényleges"}
+{"fq": 1, "ACC": "poszt", "NOM": "társaság", "SUP": "közgyűlés"}
+{"fq": 1, "ACC": "pont", "INE": "Liverpool", "NOM": "felépült", "TER": "az"}
+{"fq": 1, "ACC": "pont", "INE": "Debrecen"}
+{"fq": 1, "ACC": "pont", "ELA": "szempont", "INE": "Vác", "NOM": "Ferencváros"}
+{"fq": 1, "ACC": "pont", "ELA": "ez", "FAC": "jó", "NOM": "ház"}
+{"fq": 1, "ACC": "politika"}
+{"fq": 1, "ACC": "peták", "DAT": "borravaló", "NOM": "mindegyik"}
+{"fq": 1, "ACC": "pénzmaradvány", "FAC": "jó", "mellett": "előírás", "miatt": "elmaradás", "NOM": "feladat"}
+{"fq": 1, "ACC": "pénzmaradvány", "FAC": "jó", "INE": "összeg", "NOM": "szereplő", "SUP": "cím"}
+{"fq": 1, "ACC": "pénzmaradvány", "FAC": "jó", "FOR": "felhasználás", "INS": "kötelezettség", "NOM": "pénzeszközátadás"}
+{"fq": 1, "ACC": "pénzintézet", "által": "főváros", "FAC": "jó"}
+{"fq": 1, "ACC": "pénz", "INE": "szálloda", "NOM": "Marriott", "SUP": "helyszín"}
+{"fq": 1, "ACC": "pénzforrás", "SUB": "átépítés"}
+{"fq": 1, "ACC": "pénz", "ADE": "vállalat", "NOM": "férj"}
+{"fq": 1, "ACC": "pénz", "ADE": "házmester"}
+{"fq": 1, "ACC": "példamutató", "INE": "cser", "NOM": "érzék"}
+{"fq": 1, "ACC": "pauza", "SUB": "új"}
+{"fq": 1, "ACC": "parcella", "INE": "kezelés", "NOM": "rész", "SUP": "hely"}
+{"fq": 1, "ACC": "parancsnok", "FOR": "ajándék"}
+{"fq": 1, "ACC": "pápa", "NOM": "Bella"}
+{"fq": 1, "ACC": "pályázat", "FAC": "jó"}
+{"fq": 1, "ACC": "pályázat", "ALL": "ügynökség", "FAC": "jó", "NOM": "tömörítő", "SUB": "továbbítás", "SUP": "ülés"}
+{"fq": 1, "ACC": "pálya"}
+{"fq": 1, "ACC": "pakisztáni", "ADE": "határ", "SUB": "maga"}
+{"fq": 1, "ACC": "özvegy", "felé": "mi"}
+{"fq": 1, "ACC": "öv"}
+{"fq": 1, "ACC": "osztályzat", "ADE": "kiszámítás", "kívül": "figyelem", "NOM": "elégtelen"}
+{"fq": 1, "ACC": "osztalékfizetés", "DAT": "ez", "FAC": "jó", "NOM": "közgyűlés", "SUP": "alap"}
+{"fq": 1, "ACC": "ő", "SUP": "vég"}
+{"fq": 1, "ACC": "összetétel", "FAC": "jó", "NOM": "rendelet", "SUP": "alap"}
+{"fq": 1, "ACC": "összetétel", "DEL": "foglalkoztatás", "kívül": "figyelem", "NOM": "képzettség", "SUB": "ok"}
+{"fq": 1, "ACC": "összehasonlítás", "NOM": "alapvető", "SUB": "vég"}
+{"fq": 1, "ACC": "összeg", "DAT": "bevétel", "FAC": "jó", "INE": "keret", "NOM": "költségvetési"}
+{"fq": 1, "ACC": "összeg", "által": "MNB", "DAT": "költségvetés", "ELA": "szempont", "kívül": "figyelem", "NOM": "százalék", "SUB": "áthidalás", "TER": "erő"}
+{"fq": 1, "ACC": "összeg", "ellenére": "az", "FAC": "jó"}
+{"fq": 1, "ACC": "összeg", "ELA": "szempont", "kívül": "figyelem", "NOM": "megállapítás"}
+{"fq": 1, "ACC": "összeállítás", "NOM": "Gábor"}
+{"fq": 1, "ACC": "őrszem", "NOM": "bújtató"}
+{"fq": 1, "ACC": "ország", "NOM": "nyomorúságos", "után": "maga"}
+{"fq": 1, "ACC": "ország", "NOM": "előd"}
+{"fq": 1, "ACC": "ő", "NOM": "szép"}
+{"fq": 1, "ACC": "ő", "NOM": "legenda"}
+{"fq": 1, "ACC": "ő", "NOM": "láb"}
+{"fq": 1, "ACC": "olvasnivaló", "NOM": "apa"}
+{"fq": 1, "ACC": "ők", "SUP": "béke", "TER": "idő"}
+{"fq": 1, "ACC": "ők", "SUB": "maga", "TER": "az"}
+{"fq": 1, "ACC": "ökör"}
+{"fq": 1, "ACC": "ők", "NOM": "mozgalom"}
+{"fq": 1, "ACC": "ők", "NOM": "királynő"}
+{"fq": 1, "ACC": "ők", "NOM": "jármű", "SUB": "maga"}
+{"fq": 1, "ACC": "ők", "NOM": "hív", "SUB": "maga"}
+{"fq": 1, "ACC": "ők", "NOM": "hajtó", "SUB": "maga"}
+{"fq": 1, "ACC": "ők", "NOM": "elfogadás", "SUB": "sors"}
+{"fq": 1, "ACC": "ők", "INE": "zsivaj"}
+{"fq": 1, "ACC": "ők", "INE": "árnyék", "NOM": "nyaláb"}
+{"fq": 1, "ACC": "nyüves", "közt": "ő"}
+{"fq": 1, "ACC": "nyúl", "INE": "udvar", "NOM": "nyolcvan", "SUB": "sors"}
+{"fq": 1, "ACC": "nyugdíjpótlék", "ADE": "alkalmazás", "ELA": "szempont", "kívül": "figyelem", "NOM": "elszenvedett"}
+{"fq": 1, "ACC": "nyom", "SUP": "terület"}
+{"fq": 1, "ACC": "nyom", "SUP": "fog"}
+{"fq": 1, "ACC": "nyom", "SUP": "bot"}
+{"fq": 1, "ACC": "nyom", "NOM": "kéz", "SUP": "Székesfehérvár"}
+{"fq": 1, "ACC": "nyom", "NOM": "érdeklődés", "SUP": "témakör"}
+{"fq": 1, "ACC": "nyom", "NOM": "Vinci", "SUP": "vázlat"}
+{"fq": 1, "ACC": "nyom", "NOM": "tanulmányozás", "SUP": "vers"}
+{"fq": 1, "ACC": "nyom", "NOM": "rombolás"}
+{"fq": 1, "ACC": "nyom", "NOM": "rajz", "SUP": "arc"}
+{"fq": 1, "ACC": "nyom", "NOM": "papír"}
+{"fq": 1, "ACC": "nyom", "NOM": "liturgia", "SUP": "képzet"}
+{"fq": 1, "ACC": "nyom", "NOM": "koncert", "SUP": "jármű"}
+{"fq": 1, "ACC": "nyom", "NOM": "gyerek", "rajta": "ő"}
+{"fq": 1, "ACC": "nyom", "NOM": "gyár", "SUP": "ember"}
+{"fq": 1, "ACC": "nyom", "NOM": "fogkrém", "SUP": "pizsama"}
+{"fq": 1, "ACC": "nyom", "NOM": "fennjáró", "után": "maga"}
+{"fq": 1, "ACC": "nyom", "NOM": "évszázad", "SUP": "állam"}
+{"fq": 1, "ACC": "nyom", "NOM": "esemény", "SUP": "gránit"}
+{"fq": 1, "ACC": "nyom", "NOM": "emlős", "SUP": "ő"}
+{"fq": 1, "ACC": "nyom", "NOM": "dolog"}
+{"fq": 1, "ACC": "nyom", "NOM": "citrom"}
+{"fq": 1, "ACC": "nyom", "NOM": "bogár"}
+{"fq": 1, "ACC": "nyom", "NOM": "betegség", "SUP": "váz"}
+{"fq": 1, "ACC": "nyom", "INS": "dobás"}
+{"fq": 1, "ACC": "nyom", "INE": "zsurnaliszta", "NOM": "csata"}
+{"fq": 1, "ACC": "nyom", "INE": "védelem", "NOM": "villám"}
+{"fq": 1, "ACC": "nyom", "INE": "ő", "NOM": "fogság"}
+{"fq": 1, "ACC": "nyom", "INE": "oktatásügy", "NOM": "szlovákiai", "után": "maga"}
+{"fq": 1, "ACC": "nyom", "INE": "néző", "NOM": "Anita"}
+{"fq": 1, "ACC": "nyom", "INE": "munkatárs", "NOM": "nyitottság"}
+{"fq": 1, "ACC": "nyom", "INE": "mindenki", "NOM": "árvíz"}
+{"fq": 1, "ACC": "nyom", "INE": "mérleg", "NOM": "devizabevétel"}
+{"fq": 1, "ACC": "nyom", "INE": "magyarság", "NOM": "kolozsvári"}
+{"fq": 1, "ACC": "nyom", "INE": "lélek", "NOM": "eltűnés"}
+{"fq": 1, "ACC": "nyom", "INE": "lélek", "NOM": "embargó", "TER": "év"}
+{"fq": 1, "ACC": "nyom", "INE": "jellegzetesség", "NOM": "kunhalom", "TER": "idő"}
+{"fq": 1, "ACC": "nyom", "INE": "gyermek", "INS": "év", "NOM": "támadás"}
+{"fq": 1, "ACC": "nyom", "INE": "emlékezet", "NOM": "cseh"}
+{"fq": 1, "ACC": "nyom", "INE": "élet", "NOM": "lelkész"}
+{"fq": 1, "ACC": "nyom", "INE": "élet", "NOM": "jazz"}
+{"fq": 1, "ACC": "nyom", "INE": "állatvilág", "NOM": "időjárás"}
+{"fq": 1, "ACC": "nyom", "DEL": "maga", "INE": "az", "NOM": "ős"}
+{"fq": 1, "ACC": "nyom", "ADE": "megalázás", "DEL": "terület", "INE": "német", "NOM": "lemondás"}
+{"fq": 1, "ACC": "NULL", "TER": "az"}
+{"fq": 1, "ACC": "NULL", "TEM": "tervezés"}
+{"fq": 1, "ACC": "NULL", "SUP": "ő", "TER": "perc"}
+{"fq": 1, "ACC": "NULL", "SUP": "közép"}
+{"fq": 1, "ACC": "NULL", "SUP": "hely"}
+{"fq": 1, "ACC": "NULL", "SUP": "folyosó"}
+{"fq": 1, "ACC": "NULL", "SUP": "béke"}
+{"fq": 1, "ACC": "NULL", "SUB": "szombat"}
+{"fq": 1, "ACC": "NULL", "SUB": "sors"}
+{"fq": 1, "ACC": "NULL", "SUB": "perc", "SUP": "béke"}
+{"fq": 1, "ACC": "NULL", "SUB": "maga"}
+{"fq": 1, "ACC": "NULL", "SUB": "Kiss"}
+{"fq": 1, "ACC": "NULL", "SUB": "hülye"}
+{"fq": 1, "ACC": "NULL", "SUB": "én"}
+{"fq": 1, "ACC": "NULL", "NOM": "Zsuzsa"}
+{"fq": 1, "ACC": "NULL", "NOM": "világ"}
+{"fq": 1, "ACC": "NULL", "NOM": "vérszopói"}
+{"fq": 1, "ACC": "NULL", "NOM": "vendég"}
+{"fq": 1, "ACC": "NULL", "NOM": "úr"}
+{"fq": 1, "ACC": "NULL", "NOM": "terep"}
+{"fq": 1, "ACC": "NULL", "NOM": "szerző"}
+{"fq": 1, "ACC": "NULL", "NOM": "suhanc"}
+{"fq": 1, "ACC": "NULL", "NOM": "pont"}
+{"fq": 1, "ACC": "NULL", "NOM": "október"}
+{"fq": 1, "ACC": "NULL", "NOM": "modern", "SUP": "maga"}
+{"fq": 1, "ACC": "NULL", "NOM": "kor", "SUB": "gyűlés"}
+{"fq": 1, "ACC": "NULL", "NOM": "koalíció", "SUB": "szélsőjobb"}
+{"fq": 1, "ACC": "NULL", "NOM": "kéz"}
+{"fq": 1, "ACC": "NULL", "NOM": "kedvenc"}
+{"fq": 1, "ACC": "NULL", "NOM": "jog"}
+{"fq": 1, "ACC": "NULL", "NOM": "ilyen"}
+{"fq": 1, "ACC": "NULL", "NOM": "iker"}
+{"fq": 1, "ACC": "NULL", "NOM": "haver"}
+{"fq": 1, "ACC": "NULL", "NOM": "hatalom"}
+{"fq": 1, "ACC": "NULL", "NOM": "három", "SUB": "maga"}
+{"fq": 1, "ACC": "NULL", "NOM": "fogoly"}
+{"fq": 1, "ACC": "NULL", "NOM": "filmes"}
+{"fq": 1, "ACC": "NULL", "NOM": "Fidesz"}
+{"fq": 1, "ACC": "NULL", "NOM": "férfi"}
+{"fq": 1, "ACC": "NULL", "NOM": "feltűnő"}
+{"fq": 1, "ACC": "NULL", "NOM": "egyházi", "SUB": "maga", "SUP": "él"}
+{"fq": 1, "ACC": "NULL", "NOM": "édesapa"}
+{"fq": 1, "ACC": "NULL", "NOM": "édesanya", "SUB": "hatás", "szerint": "értesülés"}
+{"fq": 1, "ACC": "NULL", "NOM": "dolog"}
+{"fq": 1, "ACC": "NULL", "NOM": "dicséret"}
+{"fq": 1, "ACC": "NULL", "NOM": "démon", "SUP": "béke"}
+{"fq": 1, "ACC": "NULL", "NOM": "december", "SUB": "akadémia"}
+{"fq": 1, "ACC": "NULL", "NOM": "csuka"}
+{"fq": 1, "ACC": "NULL", "NOM": "csúcstalálkozó", "SUB": "résztvevői"}
+{"fq": 1, "ACC": "NULL", "NOM": "city"}
+{"fq": 1, "ACC": "NULL", "NOM": "cirkusz"}
+{"fq": 1, "ACC": "NULL", "NOM": "borzasztó"}
+{"fq": 1, "ACC": "NULL", "NOM": "bajtárs"}
+{"fq": 1, "ACC": "NULL", "NOM": "apa", "SUB": "én"}
+{"fq": 1, "ACC": "NULL", "NOM": "anya", "SUP": "nap"}
+{"fq": 1, "ACC": "NULL", "NOM": "26."}
+{"fq": 1, "ACC": "NULL", "NOM": "2."}
+{"fq": 1, "ACC": "NULL", "nélkül": "szó", "NOM": "főügyész"}
+{"fq": 1, "ACC": "NULL", "mögött": "maga"}
+{"fq": 1, "ACC": "NULL", "mellett": "ház"}
+{"fq": 1, "ACC": "NULL", "közül": "kapcsolódás"}
+{"fq": 1, "ACC": "NULL", "között": "első", "mögött": "maga", "NOM": "tag"}
+{"fq": 1, "ACC": "NULL", "kívül": "figyelem", "TER": "az"}
+{"fq": 1, "ACC": "NULL", "kívül": "figyelem", "NOM": "párt"}
+{"fq": 1, "ACC": "NULL", "kívül": "figyelem", "miatt": "előírás", "NOM": "akkori"}
+{"fq": 1, "ACC": "NULL", "kívül": "figyelem"}
+{"fq": 1, "ACC": "NULL", "INS": "vevő", "közben": "újraszámolás"}
+{"fq": 1, "ACC": "NULL", "INS": "te", "NOM": "isten"}
+{"fq": 1, "ACC": "NULL", "INS": "teljesség", "kívül": "figyelem", "NOM": "döntés"}
+{"fq": 1, "ACC": "NULL", "INS": "szem", "NOM": "férfi"}
+{"fq": 1, "ACC": "NULL", "INS": "nyomulás", "kívül": "figyelem", "NOM": "kapcsolatos"}
+{"fq": 1, "ACC": "NULL", "INS": "motor", "NOM": "forint"}
+{"fq": 1, "ACC": "NULL", "INS": "házasság", "mögött": "maga"}
+{"fq": 1, "ACC": "NULL", "INS": "eredmény", "NOM": "kiszolgáltatottság"}
+{"fq": 1, "ACC": "NULL", "INE": "szokás"}
+{"fq": 1, "ACC": "NULL", "INE": "szoba", "nélkül": "felügyelet", "SUB": "perc"}
+{"fq": 1, "ACC": "NULL", "INE": "sötétség", "NOM": "orosz"}
+{"fq": 1, "ACC": "NULL", "INE": "kocsi"}
+{"fq": 1, "ACC": "NULL", "INE": "Izrael", "nélkül": "szó"}
+{"fq": 1, "ACC": "NULL", "INE": "homály", "NOM": "döntéshozó"}
+{"fq": 1, "ACC": "NULL", "INE": "hely", "NOM": "bizottság"}
+{"fq": 1, "ACC": "NULL", "INE": "hajnal"}
+{"fq": 1, "ACC": "NULL", "INE": "frizsider"}
+{"fq": 1, "ACC": "NULL", "INE": "film", "SUP": "uszály"}
+{"fq": 1, "ACC": "NULL", "INE": "év"}
+{"fq": 1, "ACC": "NULL", "INE": "ennyi", "NOM": "család"}
+{"fq": 1, "ACC": "NULL", "INE": "ennyi", "nélkül": "aggályoskodás"}
+{"fq": 1, "ACC": "NULL", "INE": "Egyiptom", "NOM": "költő"}
+{"fq": 1, "ACC": "NULL", "INE": "cser", "NOM": "drukker|drukkér"}
+{"fq": 1, "ACC": "NULL", "INE": "csapat", "INS": "idegen", "NOM": "4."}
+{"fq": 1, "ACC": "NULL", "INE": "bölcső", "SUB": "maga"}
+{"fq": 1, "ACC": "NULL", "INE": "annyi", "NOM": "hív"}
+{"fq": 1, "ACC": "NULL", "INE": "annyi", "NOM": "gall"}
+{"fq": 1, "ACC": "NULL", "INE": "annyi", "NOM": "finn"}
+{"fq": 1, "ACC": "NULL", "INE": "alap", "után": "kézhezvétel"}
+{"fq": 1, "ACC": "NULL", "INE": "ágazat", "NOM": "előirányzat", "SUB": "fejlesztés"}
+{"fq": 1, "ACC": "NULL", "ILL": "parancs", "NOM": "herceg"}
+{"fq": 1, "ACC": "NULL", "ILL": "fene", "INE": "hely"}
+{"fq": 1, "ACC": "NULL", "ILL": "fene"}
+{"fq": 1, "ACC": "NULL", "ILL": "emlék", "NOM": "lovascsapat"}
+{"fq": 1, "ACC": "NULL", "ILL": "az", "NOM": "pocok"}
+{"fq": 1, "ACC": "NULL", "ILL": "az", "közül": "előd", "NOM": "jó"}
+{"fq": 1, "ACC": "NULL", "helyett": "reakció", "ILL": "fene", "NOM": "kérdés"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "SUP": "közgyűlés"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "Világtanács"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "vezető"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "országgyűlés", "TEM": "zárszámadás"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "felsőház"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "NOM": "bizottság"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "INS": "eredmény", "NOM": "szenátus"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "INE": "február", "NOM": "körút", "szerint": "adat"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "INE": "arány", "NOM": "partner"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "INE": "arány"}
+{"fq": 1, "ACC": "NULL", "FAC": "jó", "INE": "1993", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "NULL", "ESS": "bosszantás", "NOM": "örökös", "SUB": "közcél"}
+{"fq": 1, "ACC": "NULL", "ELA": "ok", "SUB": "éjszak"}
+{"fq": 1, "ACC": "NULL", "DEL": "fejtartó", "INE": "csomagtartó", "NOM": "biztos"}
+{"fq": 1, "ACC": "NULL", "DAT": "ő"}
+{"fq": 1, "ACC": "NULL", "DAT": "film", "NOM": "momentum"}
+{"fq": 1, "ACC": "NULL", "DAT": "eloszlás", "INE": "érvény", "INS": "kivétel", "NOM": "vizsgáló", "TEM": "az"}
+{"fq": 1, "ACC": "NULL", "DAT": "bemondónő"}
+{"fq": 1, "ACC": "NULL", "DAT": "az", "NOM": "nép", "SUP": "idő"}
+{"fq": 1, "ACC": "NULL", "DAT": "az"}
+{"fq": 1, "ACC": "NULL", "CAU": "világ", "ILL": "az"}
+{"fq": 1, "ACC": "NULL", "CAU": "kedv", "NOM": "bajnok", "SUB": "meglepetés", "SUP": "nyár"}
+{"fq": 1, "ACC": "NULL", "ALL": "beruházás", "FAC": "jó", "INE": "1999", "NOM": "beruházás", "részére": "iskola", "SUB": "munka", "SUP": "alap"}
+{"fq": 1, "ACC": "NULL", "ADE": "fakép", "INE": "pillanat"}
+{"fq": 1, "ACC": "NULL", "ADE": "fakép"}
+{"fq": 1, "ACC": "NULL", "ADE": "az", "NOM": "ízes"}
+{"fq": 1, "ACC": "növekmény", "FAC": "jó", "NOM": "kereset"}
+{"fq": 1, "ACC": "növekedés", "NOM": "európai", "szerint": "elemzés"}
+{"fq": 1, "ACC": "norma", "FAC": "jó", "INE": "tanácstestület", "NOM": "31-"}
+{"fq": 1, "ACC": "néző", "nélkül": "búcsú", "NOM": "film", "SUP": "közép"}
+{"fq": 1, "ACC": "névsor", "DAT": "közgyűlés", "FAC": "jó", "NOM": "augusztus", "SUP": "közgyűlés"}
+{"fq": 1, "ACC": "név", "ILL": "az", "NOM": "Lenke"}
+{"fq": 1, "ACC": "nevezés", "FAC": "jó", "NOM": "több", "SUB": "ok"}
+{"fq": 1, "ACC": "nevetés", "ILL": "az"}
+{"fq": 1, "ACC": "nép", "SUB": "maga", "SUP": "csecs"}
+{"fq": 1, "ACC": "nép", "mentén": "határ"}
+{"fq": 1, "ACC": "nap", "ADE": "megállapítás", "DAT": "az", "kívül": "figyelem"}
+{"fq": 1, "ACC": "nap", "ADE": "kiszámítás", "kívül": "figyelem", "NOM": "B"}
+{"fq": 1, "ACC": "napozás", "ILL": "az"}
+{"fq": 1, "ACC": "nap", "ADE": "kiadás", "kívül": "figyelem", "NOM": "idő"}
+{"fq": 1, "ACC": "nagy", "mögött": "maga", "NOM": "hazai"}
+{"fq": 1, "ACC": "munka", "SUB": "cseléd", "után": "tél"}
+{"fq": 1, "ACC": "munka", "miatt": "nő", "NOM": "férfi"}
+{"fq": 1, "ACC": "munkálat", "NOM": "Duna--parti", "SUB": "nap"}
+{"fq": 1, "ACC": "munka", "ILL": "az"}
+{"fq": 1, "ACC": "működtetés", "FAC": "jó", "NOM": "véleményezés", "SUP": "nyom"}
+{"fq": 1, "ACC": "működtetés", "FAC": "jó", "NOM": "véleményezés", "SUB": "javaslat", "SUP": "nyom"}
+{"fq": 1, "ACC": "mű", "INS": "forma", "NOM": "dialógus"}
+{"fq": 1, "ACC": "mozgástér", "NOM": "menedzsment"}
+{"fq": 1, "ACC": "mozgástér", "NOM": "föderáció", "számára": "kis", "szemben": "ez"}
+{"fq": 1, "ACC": "mozgás", "DAT": "képzelet", "NOM": "gyász"}
+{"fq": 1, "ACC": "mozgalom", "kívül": "figyelem", "SUP": "flegma"}
+{"fq": 1, "ACC": "mozdonyvezető"}
+{"fq": 1, "ACC": "mondat", "között": "válasz", "NOM": "szignifikáns", "SUP": "térkép"}
+{"fq": 1, "ACC": "módosítás", "FAC": "jó", "NOM": "parlament"}
+{"fq": 1, "ACC": "módosítás", "FAC": "jó", "NOM": "közgyűlés", "SUP": "ülés"}
+{"fq": 1, "ACC": "módosítás", "DAT": "engedélyokirat", "FAC": "jó", "INE": "április", "NOM": "fejlesztés"}
+{"fq": 1, "ACC": "módosítás", "NOM": "határidő"}
+{"fq": 1, "ACC": "módosítás", "FAC": "jó", "NOM": "előirányzat"}
+{"fq": 1, "ACC": "minden", "SUB": "fi|fiú"}
+{"fq": 1, "ACC": "minden", "NOM": "mokány", "SUB": "Janka"}
+{"fq": 1, "ACC": "minden", "kívül": "figyelem", "NOM": "kormány"}
+{"fq": 1, "ACC": "mindenki", "NOM": "figyelmeztetés"}
+{"fq": 1, "ACC": "minden", "INE": "május", "NOM": "ajkú"}
+{"fq": 1, "ACC": "minden", "FAC": "jó", "NOM": "főkormányszék"}
+{"fq": 1, "ACC": "milliárd", "INE": "patika", "NOM": "fogyasztó"}
+{"fq": 1, "ACC": "milliárd", "DAT": "áfa", "DEL": "százalék", "INE": "ágazat", "NOM": "mérséklés", "SUB": "százalék"}
+{"fq": 1, "ACC": "milliárd", "CAU": "készítmény", "INE": "patika", "NOM": "beteg"}
+{"fq": 1, "ACC": "mezőny", "mögött": "maga", "NOM": "nagydíj", "SUP": "edzés"}
+{"fq": 1, "ACC": "metszetfal", "ADE": "bontás"}
+{"fq": 1, "ACC": "mérleg", "FAC": "jó", "INE": "melléklet", "NOM": "országgyűlés"}
+{"fq": 1, "ACC": "mérleg", "FAC": "jó", "INE": "felügyelőbizottság", "NOM": "György"}
+{"fq": 1, "ACC": "mérlegbeszámoló", "FAC": "jó", "INS": "veszteség", "NOM": "forint"}
+{"fq": 1, "ACC": "mérkőzés", "FAC": "jó", "INS": "eredmény", "NOM": "félbeszakadt"}
+{"fq": 1, "ACC": "mérés", "kívül": "figyelem"}
+{"fq": 1, "ACC": "menetrend", "FAC": "jó", "NOM": "miniszter", "SUP": "Budapest"}
+{"fq": 1, "ACC": "menekültügy", "NOM": "ütésváltás", "szerint": "jel"}
+{"fq": 1, "ACC": "megvonás", "DAT": "eretnek", "INE": "hely"}
+{"fq": 1, "ACC": "megválasztás", "által": "város", "DAT": "orvosdoktor", "FAC": "orvos", "NOM": "pontos", "SUP": "26-a"}
+{"fq": 1, "ACC": "meglét", "kívül": "figyelem"}
+{"fq": 1, "ACC": "megjegyzés", "NOM": "5.", "SUB": "vég"}
+{"fq": 1, "ACC": "megingás", "kívül": "figyelem", "NOM": "forma"}
+{"fq": 1, "ACC": "meghatódottság", "NOM": "6."}
+{"fq": 1, "ACC": "megbeszélés", "ILL": "az"}
+{"fq": 1, "ACC": "megállapodás", "FAC": "jó", "INS": "feltétel", "NOM": "MDF"}
+{"fq": 1, "ACC": "medve", "NOM": "szakember", "SUB": "maga"}
+{"fq": 1, "ACC": "médiatörvény", "által": "ő", "FAC": "jó", "NOM": "megalkotott"}
+{"fq": 1, "ACC": "meccs", "ILL": "az"}
+{"fq": 1, "ACC": "Mazda"}
+{"fq": 1, "ACC": "masina", "NOM": "szíves"}
+{"fq": 1, "ACC": "másik", "SUP": "föld"}
+{"fq": 1, "ACC": "márka", "FAC": "jó", "NOM": "kormány"}
+{"fq": 1, "ACC": "márka", "FAC": "jó", "NOM": "költségvetés", "SUB": "év", "számára": "Welle"}
+{"fq": 1, "ACC": "maradvány", "FAC": "jó", "NOM": "melléklet", "szerint": "oszlop"}
+{"fq": 1, "ACC": "maradvány", "FAC": "jó", "NOM": "2.", "szerint": "oszlop"}
+{"fq": 1, "ACC": "maradvány", "belül": "hivatal", "FAC": "jó", "INS": "figyelem", "NOM": "oszlop", "SUB": "korrekció", "szerint": "oszlop"}
+{"fq": 1, "ACC": "magyarság", "NOM": "év", "SUB": "maga", "szemben": "politika"}
+{"fq": 1, "ACC": "mag", "NOM": "stabil"}
+{"fq": 1, "ACC": "maginfláció", "kívül": "figyelem"}
+{"fq": 1, "ACC": "maga", "TER": "az"}
+{"fq": 1, "ACC": "maga", "NOM": "hajrá"}
+{"fq": 1, "ACC": "maga", "NOM": "fiatal"}
+{"fq": 1, "ACC": "maga"}
+{"fq": 1, "ACC": "maga", "NOM": "újságíró"}
+{"fq": 1, "ACC": "maga", "NOM": "házigazda"}
+{"fq": 1, "ACC": "maga", "NOM": "Fradi"}
+{"fq": 1, "ACC": "maga", "NOM": "Főkukac"}
+{"fq": 1, "ACC": "maga", "NOM": "fiú"}
+{"fq": 1, "ACC": "maga", "CAU": "kedv", "NOM": "biztonság"}
+{"fq": 1, "ACC": "madár", "NOM": "nagyobbik", "SUP": "zsúrkocsi"}
+{"fq": 1, "ACC": "lyuk", "INE": "fal"}
+{"fq": 1, "ACC": "London", "közel": "Miklós", "mögött": "maga", "NOM": "bankár", "után": "év"}
+{"fq": 1, "ACC": "lökés", "NOM": "könyv", "után": "maga"}
+{"fq": 1, "ACC": "lista", "FAC": "jó", "NOM": "választmány"}
+{"fq": 1, "ACC": "lista", "FAC": "jó", "NOM": "elnök", "SUP": "együttes"}
+{"fq": 1, "ACC": "lista", "FAC": "jó", "INE": "közeljövő", "NOM": "választmány"}
+{"fq": 1, "ACC": "levél"}
+{"fq": 1, "ACC": "leváltás", "DAT": "testület", "FAC": "jó", "NOM": "autonómia", "szerint": "alkotmány"}
+{"fq": 1, "ACC": "létszám", "ALL": "végrehajtás", "FAC": "jó"}
+{"fq": 1, "ACC": "létrejötte", "NOM": "mozdulatlanság"}
+{"fq": 1, "ACC": "létrehozás", "kívül": "figyelem", "NOM": "palesztin", "SUP": "oldal", "TER": "az"}
+{"fq": 1, "ACC": "létesítés", "FAC": "jó", "NOM": "minisztérium"}
+{"fq": 1, "ACC": "lenyomat", "NOM": "zárszerkezet", "SUP": "lapocska"}
+{"fq": 1, "ACC": "lenyomat", "INE": "kő", "NOM": "viselkedés"}
+{"fq": 1, "ACC": "len", "INE": "kocsi"}
+{"fq": 1, "ACC": "len"}
+{"fq": 1, "ACC": "lélek", "ESS": "áldozat", "INE": "kéz", "NOM": "7.", "TEM": "az"}
+{"fq": 1, "ACC": "lej", "ELA": "költségvetés", "FAC": "jó", "INE": "kezdet", "SUB": "megszervezés"}
+{"fq": 1, "ACC": "lehetőség", "NOM": "Fiat--csoport|fi--csoport|fiú--csoport"}
+{"fq": 1, "ACC": "lehetőség", "NOM": "vezetés"}
+{"fq": 1, "ACC": "lehetőség", "NOM": "oldal"}
+{"fq": 1, "ACC": "lehetőség", "NOM": "javaslat", "SUB": "az"}
+{"fq": 1, "ACC": "lehetőség", "kívül": "figyelem", "NOM": "hatóság", "TER": "ez"}
+{"fq": 1, "ACC": "lehetőség", "INS": "létrehozás"}
+{"fq": 1, "ACC": "lassú", "mögött": "maga", "NOM": "gyors"}
+{"fq": 1, "ACC": "lámpa", "NOM": "képtelenség", "SUB": "fa", "SUP": "ő"}
+{"fq": 1, "ACC": "lámpa", "ADE": "fiú"}
+{"fq": 1, "ACC": "Lala"}
+{"fq": 1, "ACC": "lakosság", "NOM": "tartomány", "SUB": "maga"}
+{"fq": 1, "ACC": "lakó", "NOM": "vágy"}
+{"fq": 1, "ACC": "lakó", "NOM": "falu"}
+{"fq": 1, "ACC": "láda", "ADE": "öregasszony", "INS": "üvegáru"}
+{"fq": 1, "ACC": "laboratórium", "NOM": "digitalizálódás"}
+{"fq": 1, "ACC": "lábnyom", "NOM": "géniusz"}
+{"fq": 1, "ACC": "kutya", "nélkül": "szájkosár", "NOM": "póráz", "SUP": "közterület"}
+{"fq": 1, "ACC": "kurd", "nélkül": "segítség", "NOM": "mentőszolgálat", "szerint": "tudósítás"}
+{"fq": 1, "ACC": "kulcs", "INE": "lakat"}
+{"fq": 1, "ACC": "kriptakulcs"}
+{"fq": 1, "ACC": "követelnivaló", "ELA": "szempont", "NOM": "törvényjavaslat"}
+{"fq": 1, "ACC": "követelményrendszer", "előtt": "meghirdetés", "FAC": "jó", "INS": "hét", "NOM": "elnök", "SUB": "javaslat", "SUP": "alap"}
+{"fq": 1, "ACC": "követelés", "ALL": "egyetértés", "DAT": "bekezdés", "kívül": "figyelem", "NOM": "számítás", "SUP": "sor"}
+{"fq": 1, "ACC": "kötelezettség", "NOM": "Horn--kormány"}
+{"fq": 1, "ACC": "körülmény", "kívül": "figyelem", "NOM": "bank"}
+{"fq": 1, "ACC": "korona", "SUP": "töltőállomás"}
+{"fq": 1, "ACC": "korona", "FAC": "jó", "NOM": "kormány", "SUB": "program"}
+{"fq": 1, "ACC": "korona", "FAC": "jó", "INE": "ellentét", "INS": "korona", "NOM": "tervezet", "SUB": "kifizetés"}
+{"fq": 1, "ACC": "Kornél", "NOM": "otthon"}
+{"fq": 1, "ACC": "kormány", "SUP": "hely"}
+{"fq": 1, "ACC": "kormányprogram", "FAC": "jó", "NOM": "Fidesz", "SUP": "választmány"}
+{"fq": 1, "ACC": "kormány", "NOM": "ügy"}
+{"fq": 1, "ACC": "kormány", "INE": "január", "NOM": "éves"}
+{"fq": 1, "ACC": "korlátozás", "INE": "érvény"}
+{"fq": 1, "ACC": "kórház", "NOM": "nővér", "szerint": "Anikó"}
+{"fq": 1, "ACC": "könyvecske", "mellett": "virágcsokor", "SUP": "helyszín"}
+{"fq": 1, "ACC": "kontingens", "INE": "ország", "NOM": "begyűjtés", "SUB": "biztosítás", "után": "befejeződés"}
+{"fq": 1, "ACC": "költségvetés", "FAC": "jó", "NOM": "dolláros"}
+{"fq": 1, "ACC": "költségvetés", "FAC": "jó", "INS": "szavazat", "mellett": "tartózkodás", "NOM": "parlament"}
+{"fq": 1, "ACC": "költségvetés", "FAC": "jó", "INE": "egyezmény", "NOM": "képviselő"}
+{"fq": 1, "ACC": "költségvetés", "FAC": "jó", "INE": "arány", "SUB": "év"}
+{"fq": 1, "ACC": "költség", "FAC": "jó", "INS": "ütemezés", "NOM": "millió", "SUB": "folytatás"}
+{"fq": 1, "ACC": "kölcsön", "SUB": "lány"}
+{"fq": 1, "ACC": "kölcsön", "DAT": "Pakisztán", "ELA": "csomag", "FAC": "jó", "NOM": "múlt"}
+{"fq": 1, "ACC": "kocsi", "NOM": "nap"}
+{"fq": 1, "ACC": "kivetnivaló", "után": "maga"}
+{"fq": 1, "ACC": "kivetnivaló", "NOM": "csemege", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "támadójáték", "TER": "az", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "működés", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "hangzás", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "gyakorlat", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "gyakorlat", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "garancia", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "fordítás", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "NOM": "fejlettség", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "INS": "maceszgombóc", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "INE": "Portugália", "NOM": "ütem"}
+{"fq": 1, "ACC": "kívánnivaló", "INE": "haza", "NOM": "vízvédelem", "SUP": "szakasz", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "ellenére": "eredmény", "NOM": "közbiztonság", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "ELA": "szempont", "NOM": "munkakönyv", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "ELA": "szempont", "NOM": "atomerőmű", "szerint": "aktivista", "után": "maga"}
+{"fq": 1, "ACC": "kívánnivaló", "DAT": "csoda", "INE": "sportcsarnok", "NOM": "hangzás", "után": "maga"}
+{"fq": 1, "ACC": "kitelepítés", "FAC": "jó", "NOM": "értekezlet", "TER": "az"}
+{"fq": 1, "ACC": "KISZ", "kívül": "figyelem", "NOM": "párt", "SUP": "sor"}
+{"fq": 1, "ACC": "Kisrákos", "INE": "1913"}
+{"fq": 1, "ACC": "kislány", "INE": "ház", "NOM": "anya", "szerint": "információ"}
+{"fq": 1, "ACC": "kiskapu", "NOM": "cikk", "számára": "költő"}
+{"fq": 1, "ACC": "kisgazdapárt", "NOM": "botrány"}
+{"fq": 1, "ACC": "kísérlet", "nélkül": "válasz"}
+{"fq": 1, "ACC": "kisebbség", "NOM": "külpolitika", "SUB": "maga", "SUP": "határ"}
+{"fq": 1, "ACC": "kinevezés", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "kilométer", "mögött": "maga", "NOM": "mentőautó", "SUP": "út"}
+{"fq": 1, "ACC": "kilométer", "mögött": "maga", "NOM": "több", "SUP": "Európa"}
+{"fq": 1, "ACC": "kilátás", "NOM": "semmi"}
+{"fq": 1, "ACC": "kikötőhely", "FAC": "jó", "INE": "egyetértés", "INS": "szerv", "NOM": "hatóság"}
+{"fq": 1, "ACC": "kikérés", "CAU": "privatizáció", "FAC": "jó", "INS": "egyetértés", "NOM": "miniszter", "SUP": "alap"}
+{"fq": 1, "ACC": "kifizetés", "FAC": "jó", "NOM": "vagyonfelügyelő"}
+{"fq": 1, "ACC": "kiesés", "INE": "gondolkozás", "NOM": "kis"}
+{"fq": 1, "ACC": "kiépítés", "FAC": "jó", "INE": "1993", "NOM": "Kálmán"}
+{"fq": 1, "ACC": "kiegészítés", "FAC": "jó", "NOM": "képviselő--testület|képviselő--testület|képviselő-testület"}
+{"fq": 1, "ACC": "kéznyom", "NOM": "világ", "SUP": "oldal"}
+{"fq": 1, "ACC": "kézjegy", "INE": "kor", "NOM": "francia", "SUP": "külpolitika"}
+{"fq": 1, "ACC": "kevés", "ADE": "ez", "FAC": "jó", "INS": "százalék", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "kettő", "INS": "ő", "NOM": "működés"}
+{"fq": 1, "ACC": "kétség", "TER": "perc"}
+{"fq": 1, "ACC": "kétség", "NOM": "vezető"}
+{"fq": 1, "ACC": "kétség", "NOM": "vezérigazgató"}
+{"fq": 1, "ACC": "kétség", "NOM": "tábornok"}
+{"fq": 1, "ACC": "kétség", "NOM": "szóvivő"}
+{"fq": 1, "ACC": "kétség", "NOM": "semmi"}
+{"fq": 1, "ACC": "kétség", "NOM": "növekedés"}
+{"fq": 1, "ACC": "kétség", "NOM": "lépett"}
+{"fq": 1, "ACC": "kétség", "NOM": "kommentátor"}
+{"fq": 1, "ACC": "kétség", "NOM": "író"}
+{"fq": 1, "ACC": "kétség", "NOM": "integráció"}
+{"fq": 1, "ACC": "kétség", "NOM": "hon--atya"}
+{"fq": 1, "ACC": "kétség", "NOM": "házelnök"}
+{"fq": 1, "ACC": "kétség", "NOM": "elemzés"}
+{"fq": 1, "ACC": "kétség", "NOM": "bajnokság", "TER": "pillanat"}
+{"fq": 1, "ACC": "kétség", "NOM": "állás"}
+{"fq": 1, "ACC": "kétség", "NOM": "adat"}
+{"fq": 1, "ACC": "kétség", "INE": "vers", "TER": "az"}
+{"fq": 1, "ACC": "kétség", "INE": "senki", "NOM": "helikopter"}
+{"fq": 1, "ACC": "kétség", "INE": "néző", "képest": "átlag", "NOM": "jó"}
+{"fq": 1, "ACC": "kétség", "INE": "homály", "INS": "táska", "NOM": "állandó", "SUP": "oldal"}
+{"fq": 1, "ACC": "kétség", "INE": "bárki", "NOM": "főpolgármester"}
+{"fq": 1, "ACC": "kétség", "felől": "végkimenetel", "INS": "győzelem", "NOM": "görög"}
+{"fq": 1, "ACC": "kétség", "DEL": "elosztás", "NOM": "felelősség"}
+{"fq": 1, "ACC": "kétely", "ADE": "vita", "DAT": "ez", "INE": "jegyzőkönyv", "NOM": "úr"}
+{"fq": 1, "ACC": "készpénz", "SUP": "szálláshely"}
+{"fq": 1, "ACC": "kérvény", "DEL": "óralátogatás", "FAC": "jó", "NOM": "tanács"}
+{"fq": 1, "ACC": "kert", "NOM": "gazda"}
+{"fq": 1, "ACC": "kert", "körül": "ház"}
+{"fq": 1, "ACC": "kerítés", "ellenére": "ez", "NOM": "rendőr", "SUB": "kéz", "SUP": "helyszín"}
+{"fq": 1, "ACC": "keret", "NOM": "népesség"}
+{"fq": 1, "ACC": "keret", "FAC": "jó", "SUB": "üdültetés"}
+{"fq": 1, "ACC": "kérdés", "NOM": "unió"}
+{"fq": 1, "ACC": "kérdés", "INE": "kapcsolat", "INS": "halál"}
+{"fq": 1, "ACC": "kérdés", "NOM": "kénytelen"}
+{"fq": 1, "ACC": "kérdés", "NOM": "javaslat"}
+{"fq": 1, "ACC": "kérdés", "NOM": "bíróság"}
+{"fq": 1, "ACC": "kérdés", "DEL": "szövetkezet", "NOM": "előterjesztés", "szerint": "vélemény"}
+{"fq": 1, "ACC": "kenőcs", "NOM": "érintetlen"}
+{"fq": 1, "ACC": "katonaság", "ILL": "az"}
+{"fq": 1, "ACC": "kapu", "NOM": "cég"}
+{"fq": 1, "ACC": "kapu", "előtt": "gaztett"}
+{"fq": 1, "ACC": "kapcsolatrendszer", "NOM": "vétek"}
+{"fq": 1, "ACC": "kamat", "SUP": "százalék"}
+{"fq": 1, "ACC": "kamatláb", "NOM": "bizottság", "SUP": "ülés"}
+{"fq": 1, "ACC": "kálvinizmus", "INE": "cser"}
+{"fq": 1, "ACC": "jótevő", "INE": "cser", "SUB": "betegség"}
+{"fq": 1, "ACC": "jogszerűség", "NOM": "válasz", "szerint": "munkatárs"}
+{"fq": 1, "ACC": "jogszabály", "kívül": "figyelem", "NOM": "bekérés", "szerint": "ő"}
+{"fq": 1, "ACC": "jog", "kívül": "figyelem", "NOM": "kormánytöbbség", "SUB": "túlerő"}
+{"fq": 1, "ACC": "jelölés", "FAC": "jó", "NOM": "testület", "SUB": "él"}
+{"fq": 1, "ACC": "jelentés", "DAT": "hivatal", "kívül": "figyelem", "NOM": "közgyűlés"}
+{"fq": 1, "ACC": "jelenlét", "INE": "irodalom", "nélkül": "észrevétel"}
+{"fq": 1, "ACC": "jegyzék", "DAT": "egyház", "NOM": "december", "SUB": "időszak", "SUP": "alap"}
+{"fq": 1, "ACC": "jegy", "NOM": "anya"}
+{"fq": 1, "ACC": "javaslat", "kívül": "figyelem", "TEM": "kidolgozás"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "főigazgató"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "INS": "szöveg", "NOM": "5."}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "INE": "kapcsolat", "INS": "dokumentum", "NOM": "törvényhozás"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "tagország"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "kormány", "SUP": "ülés"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "Fővárosi"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "decemberi", "SUP": "ülés"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "NOM": "bizottság", "SUP": "ülés"}
+{"fq": 1, "ACC": "javaslat", "FAC": "jó", "INS": "év"}
+{"fq": 1, "ACC": "játék", "ILL": "az"}
+{"fq": 1, "ACC": "járókeret", "INE": "kórház", "szerint": "idő"}
+{"fq": 1, "ACC": "járda", "ellenére": "figyelmeztetés", "NOM": "autós"}
+{"fq": 1, "ACC": "Japán", "FOR": "versenytárs", "NOM": "dollár"}
+{"fq": 1, "ACC": "ítélet", "kívül": "figyelem", "NOM": "május"}
+{"fq": 1, "ACC": "ítélet", "INE": "hely", "NOM": "bíróság", "szerint": "értesülés"}
+{"fq": 1, "ACC": "ítélet", "INE": "hely", "NOM": "bíróság", "SUP": "alap"}
+{"fq": 1, "ACC": "ítélet", "ELA": "oldal", "INE": "hely", "NOM": "kirekesztett"}
+{"fq": 1, "ACC": "ítélet", "INE": "hely", "NOM": "ítélet"}
+{"fq": 1, "ACC": "ítélet", "INE": "hely", "NOM": "hét"}
+{"fq": 1, "ACC": "ismérv", "DAT": "én", "NOM": "definiálás"}
+{"fq": 1, "ACC": "iskola", "ELA": "ok", "NOM": "osztálytárs"}
+{"fq": 1, "ACC": "irat", "ADE": "határátkelőhely", "NOM": "gépkocsi"}
+{"fq": 1, "ACC": "irányelv", "FAC": "jó"}
+{"fq": 1, "ACC": "ipar", "ILL": "az"}
+{"fq": 1, "ACC": "infláció", "NOM": "Fidesz--kormány", "után": "maga"}
+{"fq": 1, "ACC": "indulás", "FAC": "jó", "közül": "jelölt", "NOM": "bizottság"}
+{"fq": 1, "ACC": "ily", "SUB": "felnőtt"}
+{"fq": 1, "ACC": "Ili", "INE": "baj", "NOM": "isten"}
+{"fq": 1, "ACC": "igény", "NOM": "piac", "SUP": "oldal"}
+{"fq": 1, "ACC": "igaz", "NOM": "fanatikus"}
+{"fq": 1, "ACC": "időtartam", "ADE": "számítás", "DAT": "ápolás", "INS": "kötelezettség", "kívül": "figyelem", "nélkül": "megszakítás", "NOM": "járó", "SUP": "év"}
+{"fq": 1, "ACC": "időtartam", "ADE": "megállapítás", "kívül": "figyelem", "NOM": "forintos"}
+{"fq": 1, "ACC": "időszak", "INS": "százalék", "mögött": "maga", "NOM": "részvényindex", "SUP": "hétfő"}
+{"fq": 1, "ACC": "idő", "SUB": "tétel"}
+{"fq": 1, "ACC": "idő", "SUB": "kidolgozás"}
+{"fq": 1, "ACC": "idő", "FAC": "tag", "INE": "homály", "NOM": "forgatókönyv"}
+{"fq": 1, "ACC": "időpont", "FAC": "jó", "NOM": "szenátus", "SUP": "alap"}
+{"fq": 1, "ACC": "idő", "NOM": "kalapos"}
+{"fq": 1, "ACC": "idő", "NOM": "film", "SUB": "unatkozás"}
+{"fq": 1, "ACC": "idő", "NOM": "BM", "SUB": "kialakítás"}
+{"fq": 1, "ACC": "idő", "NOM": "autó", "SUB": "gondolat"}
+{"fq": 1, "ACC": "idő", "között": "hatálybalépés", "NOM": "közzététel"}
+{"fq": 1, "ACC": "idő", "INE": "nap", "mögött": "maga", "NOM": "értéktőzsde"}
+{"fq": 1, "ACC": "időigény", "kívül": "figyelem"}
+{"fq": 1, "ACC": "idő", "DAT": "kormány", "SUB": "korrekció", "TER": "az"}
+{"fq": 1, "ACC": "idő", "ALL": "megemésztés", "DAT": "felhasználó"}
+{"fq": 1, "ACC": "húsipar", "NOM": "válság"}
+{"fq": 1, "ACC": "hozam", "NOM": "támogatás", "SUP": "szint"}
+{"fq": 1, "ACC": "horvát"}
+{"fq": 1, "ACC": "horgászfelszerelés", "INE": "csomagtartó", "INS": "vödör", "NOM": "haltartó"}
+{"fq": 1, "ACC": "holttest", "fölött": "ő", "NOM": "paripa"}
+{"fq": 1, "ACC": "holttest", "NOM": "lakatos", "SUP": "föld"}
+{"fq": 1, "ACC": "holttest", "INE": "lakás"}
+{"fq": 1, "ACC": "holttest", "INE": "bozótos"}
+{"fq": 1, "ACC": "holmi", "SUP": "emelet"}
+{"fq": 1, "ACC": "hölgy", "SUB": "maga"}
+{"fq": 1, "ACC": "holdvilág", "keresztül": "nyár"}
+{"fq": 1, "ACC": "hold", "INE": "kéz", "NOM": "földreformtervezet"}
+{"fq": 1, "ACC": "hivatal", "SUB": "maga", "szerint": "állás"}
+{"fq": 1, "ACC": "hitelnyújtás", "FAC": "jó", "INE": "hatáskör", "NOM": "vezetés"}
+{"fq": 1, "ACC": "hitel", "FAC": "jó", "NOM": "igazgatótanács", "TEM": "beiktatás"}
+{"fq": 1, "ACC": "hiány", "NOM": "boszorkány", "után": "maga"}
+{"fq": 1, "ACC": "hétvége"}
+{"fq": 1, "ACC": "helyzet", "kívül": "figyelem"}
+{"fq": 1, "ACC": "helyzet", "FAC": "jó", "NOM": "minisztérium"}
+{"fq": 1, "ACC": "hely", "mögött": "maga"}
+{"fq": 1, "ACC": "hely", "INS": "kajánság", "NOM": "csiga"}
+{"fq": 1, "ACC": "hely", "DAT": "tehetség"}
+{"fq": 1, "ACC": "hely", "NOM": "semmi", "SUB": "ilyesmi"}
+{"fq": 1, "ACC": "hely", "NOM": "jelentés", "SUB": "megjegyzés", "SUP": "szakasz"}
+{"fq": 1, "ACC": "hely", "mellett": "felszólaló"}
+{"fq": 1, "ACC": "hely", "DAT": "halott", "TER": "ez"}
+{"fq": 1, "ACC": "hely", "ALL": "horgonyzás", "NOM": "hajón"}
+{"fq": 1, "ACC": "hely", "alatt": "név", "NOM": "feleség", "SUB": "kérés", "SUP": "sírkő"}
+{"fq": 1, "ACC": "hely", "ADE": "kiképzés", "DAT": "szemüveg"}
+{"fq": 1, "ACC": "helikopter", "INE": "autóbusz--megálló"}
+{"fq": 1, "ACC": "hegedű", "SUB": "más"}
+{"fq": 1, "ACC": "házirend", "FAC": "jó", "NOM": "választmány"}
+{"fq": 1, "ACC": "házigazda", "SUP": "béke"}
+{"fq": 1, "ACC": "ház", "ELA": "nagyváros", "NOM": "feldúlt", "után": "maga"}
+{"fq": 1, "ACC": "ház", "DAT": "utolsó", "INE": "doboz"}
+{"fq": 1, "ACC": "hazai"}
+{"fq": 1, "ACC": "határozat", "INE": "hely", "NOM": "bíróság"}
+{"fq": 1, "ACC": "határozat", "DAT": "kongresszus", "FAC": "jó", "NOM": "végrehajtó--bizottság"}
+{"fq": 1, "ACC": "határozat", "INE": "hely", "NOM": "indok", "SUP": "alap"}
+{"fq": 1, "ACC": "határozat", "FAC": "jó", "INE": "nap", "NOM": "bíróság"}
+{"fq": 1, "ACC": "határ", "kívül": "figyelem"}
+{"fq": 1, "ACC": "határ", "ESS": "örökség", "SUB": "mi"}
+{"fq": 1, "ACC": "hatalom", "NOM": "csatározás"}
+{"fq": 1, "ACC": "hangütés", "kívül": "figyelem", "NOM": "biblikus"}
+{"fq": 1, "ACC": "hang", "nélkül": "említés", "NOM": "füttyös"}
+{"fq": 1, "ACC": "hang", "ILL": "az", "NOM": "hamar", "SUB": "csitítás"}
+{"fq": 1, "ACC": "hamvas", "SUB": "én"}
+{"fq": 1, "ACC": "hálózat", "DAT": "eset", "FAC": "jó", "INS": "tényező", "NOM": "minisztérium", "SUB": "javaslat", "után": "konzultálás"}
+{"fq": 1, "ACC": "hálózat", "FAC": "jó", "INE": "tekintet", "NOM": "minisztérium"}
+{"fq": 1, "ACC": "halott", "SUB": "maga"}
+{"fq": 1, "ACC": "halott", "INE": "temető"}
+{"fq": 1, "ACC": "halandzsa", "SUB": "más"}
+{"fq": 1, "ACC": "halállista", "FAC": "jó", "INS": "elnöklet", "NOM": "kormány", "szerint": "közlés"}
+{"fq": 1, "ACC": "halállista", "FAC": "jó", "INS": "elnöklet", "NOM": "kormány", "szerint": "jelentés"}
+{"fq": 1, "ACC": "halállista", "FAC": "jó", "INS": "elnöklet", "NOM": "kormány"}
+{"fq": 1, "ACC": "hajó", "NOM": "géphajó", "SUB": "maga", "TEM": "horgonyzás", "TER": "az"}
+{"fq": 1, "ACC": "gyűjtemény", "SUB": "múzeum"}
+{"fq": 1, "ACC": "gyűjtemény", "NOM": "polihisztor", "SUB": "múzeum"}
+{"fq": 1, "ACC": "gyorssegély", "FAC": "jó", "NOM": "várható"}
+{"fq": 1, "ACC": "gyönge"}
+{"fq": 1, "ACC": "gyermek", "INE": "kórház", "NOM": "súlyos"}
+{"fq": 1, "ACC": "gyermek"}
+{"fq": 1, "ACC": "gyerek", "SUP": "béke", "szerint": "jelszó"}
+{"fq": 1, "ACC": "gyerek", "SUB": "házinéni"}
+{"fq": 1, "ACC": "gyerek"}
+{"fq": 1, "ACC": "gyerek", "NOM": "szülőanya"}
+{"fq": 1, "ACC": "gyerek", "NOM": "férfi", "SUB": "maga"}
+{"fq": 1, "ACC": "gyerek", "ADE": "szomszédasszony"}
+{"fq": 1, "ACC": "gyakorlat", "kívül": "figyelem", "NOM": "hív"}
+{"fq": 1, "ACC": "grafika", "DEL": "kép", "NOM": "darab", "SUB": "Szombathely"}
+{"fq": 1, "ACC": "gond", "NOM": "otthon"}
+{"fq": 1, "ACC": "gond", "kívül": "figyelem"}
+{"fq": 1, "ACC": "gitár", "INE": "garázs"}
+{"fq": 1, "ACC": "géppisztoly", "INE": "teherautó"}
+{"fq": 1, "ACC": "gép", "NOM": "kenyér", "SUP": "futószalag"}
+{"fq": 1, "ACC": "gép", "nélkül": "világítás", "NOM": "talp", "SUP": "közterület"}
+{"fq": 1, "ACC": "gépkocsi", "SUB": "idő"}
+{"fq": 1, "ACC": "gépkocsi", "INE": "terminál"}
+{"fq": 1, "ACC": "gép", "INE": "út", "SUP": "vég"}
+{"fq": 1, "ACC": "gépfegyver", "SUP": "út"}
+{"fq": 1, "ACC": "generátor"}
+{"fq": 1, "ACC": "gazság", "INE": "annyi", "NOM": "főkormányszék"}
+{"fq": 1, "ACC": "gazdaság"}
+{"fq": 1, "ACC": "gaz", "alatt": "fa"}
+{"fq": 1, "ACC": "gárda", "NOM": "szakember", "SUB": "ok"}
+{"fq": 1, "ACC": "galagonya", "NOM": "festék", "SUP": "béke"}
+{"fq": 1, "ACC": "fúzió", "FAC": "jó", "NOM": "versenyhivatal"}
+{"fq": 1, "ACC": "fúzió", "FAC": "jó", "NOM": "hatalom", "SUP": "unió"}
+{"fq": 1, "ACC": "fürdőszoba"}
+{"fq": 1, "ACC": "fűnyírógép", "INE": "kert", "TER": "ősz"}
+{"fq": 1, "ACC": "füli"}
+{"fq": 1, "ACC": "fül"}
+{"fq": 1, "ACC": "francia", "NOM": "referendum"}
+{"fq": 1, "ACC": "francia", "DEL": "elnökség", "NOM": "népszavazás"}
+{"fq": 1, "ACC": "főtitkár", "FAC": "jó", "NOM": "tanács", "SUP": "eleje"}
+{"fq": 1, "ACC": "Fortuna", "NOM": "tréner"}
+{"fq": 1, "ACC": "forma", "SUP": "föld"}
+{"fq": 1, "ACC": "forma", "NOM": "barát"}
+{"fq": 1, "ACC": "forint", "szerint": "javaslat"}
+{"fq": 1, "ACC": "forint", "NOM": "reklám", "SUB": "propagandacél"}
+{"fq": 1, "ACC": "forint", "NOM": "atya", "SUB": "szükség"}
+{"fq": 1, "ACC": "forint", "INE": "patika", "NOM": "beteg", "szerint": "dokumentum", "TER": "vég"}
+{"fq": 1, "ACC": "forint", "FAC": "jó", "NOM": "Horn--kormány", "SUB": "beruházás", "SUP": "ár"}
+{"fq": 1, "ACC": "forint", "FAC": "jó"}
+{"fq": 1, "ACC": "forint", "ELA": "ez", "FAC": "jó", "NOM": "kormány"}
+{"fq": 1, "ACC": "forint", "DAT": "társaság", "FAC": "jó", "SUB": "pótlás"}
+{"fq": 1, "ACC": "forint", "DAT": "rokon"}
+{"fq": 1, "ACC": "forint", "ALL": "elkészítés", "FAC": "jó", "NOM": "pénzügyminiszter"}
+{"fq": 1, "ACC": "forint", "ADE": "vállalkozás", "NOM": "milliárd", "TER": "ez"}
+{"fq": 1, "ACC": "forint", "ADE": "család"}
+{"fq": 1, "ACC": "fontos", "SUB": "alj"}
+{"fq": 1, "ACC": "fontosság", "DAT": "ez", "kívül": "figyelem", "NOM": "növekedés"}
+{"fq": 1, "ACC": "főnök", "SUP": "hely"}
+{"fq": 1, "ACC": "folyó", "SUP": "béke"}
+{"fq": 1, "ACC": "folyosó", "NOM": "teljes"}
+{"fq": 1, "ACC": "folt", "NOM": "hétfői", "SUP": "hely"}
+{"fq": 1, "ACC": "folt", "NOM": "bűnözés", "SUP": "térkép"}
+{"fq": 1, "ACC": "fólia", "INE": "bolt", "NOM": "jó"}
+{"fq": 1, "ACC": "föld", "SUP": "parlag"}
+{"fq": 1, "ACC": "földrész", "ALL": "fi|fiú", "INE": "kezelés"}
+{"fq": 1, "ACC": "föld", "NOM": "hétszentség", "SUP": "parlag"}
+{"fq": 1, "ACC": "föld", "NOM": "föld", "SUB": "miseszolgáltatás"}
+{"fq": 1, "ACC": "föld", "NOM": "építés", "után": "maga"}
+{"fq": 1, "ACC": "föld", "INS": "kikötés", "NOM": "sziget"}
+{"fq": 1, "ACC": "föld", "felé": "felé|ő", "nélkül": "tőke", "NOM": "tenger", "SUP": "hegyoldal"}
+{"fq": 1, "ACC": "főkirálybíró", "NOM": "aggodalom"}
+{"fq": 1, "ACC": "fokhagyma", "NOM": "gerezd", "SUP": "tűz", "TER": "perc"}
+{"fq": 1, "ACC": "fogyasztó"}
+{"fq": 1, "ACC": "fizetség", "SUP": "udvar"}
+{"fq": 1, "ACC": "fiú", "INE": "váró", "NOM": "anya"}
+{"fq": 1, "ACC": "film", "INE": "1969", "NOM": "díjazatlan", "SUP": "gála"}
+{"fq": 1, "ACC": "figyelőablak", "NOM": "néhány", "SUB": "vonásnyi"}
+{"fq": 1, "ACC": "fi|fiú", "SUP": "árva"}
+{"fq": 1, "ACC": "fi|fiú"}
+{"fq": 1, "ACC": "Fidesz", "NOM": "szabály"}
+{"fq": 1, "ACC": "fiatal", "INE": "kettes"}
+{"fq": 1, "ACC": "fiatalember", "SUB": "maga"}
+{"fq": 1, "ACC": "feszültség", "NOM": "világ", "SUB": "mi", "után": "háború"}
+{"fq": 1, "ACC": "festmény", "NOM": "Monet", "SUB": "utókor"}
+{"fq": 1, "ACC": "férj", "ADE": "ismerős", "INE": "szamár", "INS": "gyerek", "NOM": "két"}
+{"fq": 1, "ACC": "fenyő", "SUP": "veranda"}
+{"fq": 1, "ACC": "fenti", "INS": "teljesség"}
+{"fq": 1, "ACC": "fennmaradó", "SUP": "szint"}
+{"fq": 1, "ACC": "felülvizsgálat", "FAC": "jó", "INS": "kivétel", "NOM": "nevelőtestület"}
+{"fq": 1, "ACC": "felület", "INE": "fametszet"}
+{"fq": 1, "ACC": "felület", "INE": "arcmagasság"}
+{"fq": 1, "ACC": "felszólítás", "nélkül": "válasz"}
+{"fq": 1, "ACC": "felszállóhely", "ADE": "alapméret", "SUB": "nagy"}
+{"fq": 1, "ACC": "fel", "SUP": "föld"}
+{"fq": 1, "ACC": "felsőoktatás", "NOM": "bevezetés"}
+{"fq": 1, "ACC": "felnőtt", "után": "vacsora"}
+{"fq": 1, "ACC": "felmentés", "FAC": "jó", "NOM": "pénzügyminiszter"}
+{"fq": 1, "ACC": "felkoncolt"}
+{"fq": 1, "ACC": "felfogadás", "FAC": "jó", "NOM": "német", "SUB": "hónap"}
+{"fq": 1, "ACC": "félév", "ELA": "szempont", "mögött": "hát", "NOM": "Délhús"}
+{"fq": 1, "ACC": "feleség", "SUP": "falu"}
+{"fq": 1, "ACC": "felelősség", "SUB": "munkáspárt"}
+{"fq": 1, "ACC": "felelősség", "NOM": "bank", "SUB": "állampolgár"}
+{"fq": 1, "ACC": "feladat", "FAC": "jó", "INE": "pont", "NOM": "vásárlás", "részére": "intézmény", "SUB": "keret", "SUP": "ágazat"}
+{"fq": 1, "ACC": "fej", "NOM": "gyapjú"}
+{"fq": 1, "ACC": "fej", "NOM": "födetlen"}
+{"fq": 1, "ACC": "fej", "INE": "lakás"}
+{"fq": 1, "ACC": "fegyver", "INE": "autó", "NOM": "főtörzsőrmester"}
+{"fq": 1, "ACC": "fáradtság", "TER": "ez"}
+{"fq": 1, "ACC": "fanatizmus", "ALL": "hatalom", "DAT": "nép", "kívül": "figyelem", "NOM": "vezető"}
+{"fq": 1, "ACC": "falu", "mögött": "maga"}
+{"fq": 1, "ACC": "fakanál"}
+{"fq": 1, "ACC": "fa"}
+{"fq": 1, "ACC": "ez", "NOM": "vezető"}
+{"fq": 1, "ACC": "ez", "NOM": "gumi"}
+{"fq": 1, "ACC": "ez", "NOM": "december"}
+{"fq": 1, "ACC": "ez", "nélkül": "válasz", "NOM": "arisztokrácia"}
+{"fq": 1, "ACC": "ez", "nélkül": "szó", "NOM": "elnök"}
+{"fq": 1, "ACC": "ez", "nélkül": "szó", "NOM": "barát"}
+{"fq": 1, "ACC": "ez", "nélkül": "szó", "NOM": "Ági"}
+{"fq": 1, "ACC": "ez", "kívül": "figyelem", "NOM": "étterem", "TER": "az"}
+{"fq": 1, "ACC": "ez", "INS": "aranypróba", "SUB": "mi"}
+{"fq": 1, "ACC": "ez", "INE": "hely", "NOM": "Ágnes"}
+{"fq": 1, "ACC": "ez", "INE": "annyi", "NOM": "természetű"}
+{"fq": 1, "ACC": "ez", "INE": "annyi"}
+{"fq": 1, "ACC": "ez", "ILL": "az"}
+{"fq": 1, "ACC": "ez", "FAC": "jó"}
+{"fq": 1, "ACC": "étel", "NOM": "217.", "SUP": "tányér"}
+{"fq": 1, "ACC": "eszmény", "DAT": "utókor", "NOM": "esztendő"}
+{"fq": 1, "ACC": "eset", "nélkül": "szó", "NOM": "Fidesz"}
+{"fq": 1, "ACC": "eset", "kívül": "figyelem", "NOM": "hatóság"}
+{"fq": 1, "ACC": "esély", "DAT": "rivális", "NOM": "francia"}
+{"fq": 1, "ACC": "esély", "DAT": "ellenfél", "NOM": "félidő", "TER": "az", "után": "7-1"}
+{"fq": 1, "ACC": "esély", "ADE": "vezetés", "INE": "játék", "NOM": "új"}
+{"fq": 1, "ACC": "érzés", "után": "maga"}
+{"fq": 1, "ACC": "erőszak", "ellen": "ők", "NOM": "személy"}
+{"fq": 1, "ACC": "erő", "NOM": "vasfüggöny", "SUB": "maga"}
+{"fq": 1, "ACC": "erő", "INE": "térség", "NOM": "Szeged"}
+{"fq": 1, "ACC": "eredmény", "kívül": "figyelem", "szerint": "demokrata"}
+{"fq": 1, "ACC": "érdeklődő", "INE": "cser", "NOM": "munkaközösség"}
+{"fq": 1, "ACC": "épület", "NOM": "háború", "SUB": "sors"}
+{"fq": 1, "ACC": "epigon", "ESS": "örökség", "NOM": "Jenő", "SUB": "mi"}
+{"fq": 1, "ACC": "én", "NOM": "gnóm"}
+{"fq": 1, "ACC": "én", "NOM": "es"}
+{"fq": 1, "ACC": "én", "INS": "adósság", "NOM": "férj"}
+{"fq": 1, "ACC": "én", "ILL": "megírás", "NOM": "tiltakozás"}
+{"fq": 1, "ACC": "engesztelés", "ILL": "az"}
+{"fq": 1, "ACC": "engedélyokirat", "FAC": "jó", "INE": "június", "NOM": "dél--budai"}
+{"fq": 1, "ACC": "engedély", "FAC": "jó", "INE": "május", "NOM": "bizottság", "számára": "szak"}
+{"fq": 1, "ACC": "emlék", "NOM": "turkáló"}
+{"fq": 1, "ACC": "emlék", "NOM": "táj"}
+{"fq": 1, "ACC": "emlék", "NOM": "költő", "SUP": "arculat"}
+{"fq": 1, "ACC": "emlék", "INE": "szobrászat", "NOM": "mester"}
+{"fq": 1, "ACC": "emlék", "FOR": "előfutár", "INE": "emlékezet"}
+{"fq": 1, "ACC": "emlék"}
+{"fq": 1, "ACC": "ember", "NOM": "tábornok", "után": "maga"}
+{"fq": 1, "ACC": "emberelőny", "NOM": "legénység"}
+{"fq": 1, "ACC": "elv", "kívül": "figyelem", "NOM": "áttetszőség", "SUP": "kapocs"}
+{"fq": 1, "ACC": "elszámolás", "FAC": "jó", "NOM": "Fővárosi"}
+{"fq": 1, "ACC": "elszámolás", "FAC": "jó", "NOM": "állami", "szerint": "melléklet"}
+{"fq": 1, "ACC": "elszámolás", "ALL": "elszámolás", "FAC": "jó", "NOM": "1998.", "szerint": "melléklet"}
+{"fq": 1, "ACC": "elosztás", "FAC": "jó", "NOM": "magas|magas", "SUP": "hely"}
+{"fq": 1, "ACC": "előrejelzés", "NOM": "iroda"}
+{"fq": 1, "ACC": "előny", "kívül": "figyelem", "TEM": "meghozatal"}
+{"fq": 1, "ACC": "előítélet", "CAU": "kedv", "INE": "ruhatár", "NOM": "ajánlatos"}
+{"fq": 1, "ACC": "előírás", "kívül": "figyelem", "NOM": "megfigyelés", "SUP": "sor"}
+{"fq": 1, "ACC": "előírás", "INE": "ügy", "kívül": "figyelem", "NOM": "kormány"}
+{"fq": 1, "ACC": "előirányzat", "FAC": "jó", "INS": "döntés", "NOM": "módosító", "SUP": "ülés"}
+{"fq": 1, "ACC": "előfizető", "NOM": "telefontársaság"}
+{"fq": 1, "ACC": "elnökjelöltség", "FAC": "jó", "INS": "támogatottság", "NOM": "előlépett", "SUP": "népszavazás"}
+{"fq": 1, "ACC": "ellenlábas", "INE": "félidő", "NOM": "házigazda"}
+{"fq": 1, "ACC": "ellenfél", "ADE": "nő", "mögött": "maga", "NOM": "Krisztina"}
+{"fq": 1, "ACC": "ellátás", "ADE": "számítás", "kívül": "figyelem", "NOM": "jövedelempótló", "részére": "munkanélküli", "SUP": "alap"}
+{"fq": 1, "ACC": "elképzelés", "kívül": "figyelem", "NOM": "megtehető"}
+{"fq": 1, "ACC": "eljárás", "FAC": "jó", "NOM": "határozat"}
+{"fq": 1, "ACC": "életmű", "képest": "életút", "után": "maga"}
+{"fq": 1, "ACC": "elem", "ALL": "hely", "INE": "eset", "SUB": "jóváhagyás"}
+{"fq": 1, "ACC": "élelmiszer--bevásárlás", "NOM": "többség", "SUB": "délelőtt", "SUP": "szombat"}
+{"fq": 1, "ACC": "élelem"}
+{"fq": 1, "ACC": "eldöntés", "DAT": "belügy", "NOM": "film", "SUB": "mi"}
+{"fq": 1, "ACC": "egység", "FAC": "jó", "NOM": "minisztérium", "SUB": "javaslat"}
+{"fq": 1, "ACC": "egymás", "INE": "cser", "NOM": "hangya"}
+{"fq": 1, "ACC": "egyeztetés", "INE": "esztendő", "SUB": "fi|fiú"}
+{"fq": 1, "ACC": "egyezmény", "DAT": "bizottság", "előtt": "állásfoglalás", "FAC": "jó", "NOM": "magas"}
+{"fq": 1, "ACC": "egyetem", "ILL": "az"}
+{"fq": 1, "ACC": "egyetem"}
+{"fq": 1, "ACC": "egy", "ELA": "lap", "SUP": "konyharuha"}
+{"fq": 1, "ACC": "egyed", "NOM": "fajtanemesítés", "SUB": "maga"}
+{"fq": 1, "ACC": "egész", "szerint": "én"}
+{"fq": 1, "ACC": "egészségügy", "NOM": "probléma"}
+{"fq": 1, "ACC": "egészség", "kívül": "figyelem", "NOM": "technika"}
+{"fq": 1, "ACC": "egész", "ILL": "az"}
+{"fq": 1, "ACC": "egérút", "DAT": "elnök--miniszter", "NOM": "bölcs"}
+{"fq": 1, "ACC": "efféle", "INS": "gúnynév", "NOM": "múzsa", "SUB": "mi"}
+{"fq": 1, "ACC": "édesanya", "SUB": "maga", "SUP": "idő"}
+{"fq": 1, "ACC": "ebéd", "ILL": "az"}
+{"fq": 1, "ACC": "drog"}
+{"fq": 1, "ACC": "Dózsa", "SUP": "béke"}
+{"fq": 1, "ACC": "dörmögés", "SUB": "medve"}
+{"fq": 1, "ACC": "döntés", "SUB": "olvasó"}
+{"fq": 1, "ACC": "döntés", "SUB": "család", "szerint": "doktor"}
+{"fq": 1, "ACC": "döntés", "INE": "hely", "SUP": "fórum"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "szenátus"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "INS": "indoklás", "NOM": "bíróság"}
+{"fq": 1, "ACC": "döntés", "NOM": "szem", "SUB": "fültanú"}
+{"fq": 1, "ACC": "döntés", "NOM": "hazai", "SUB": "pillanat"}
+{"fq": 1, "ACC": "döntés", "INE": "hely", "NOM": "HVG", "SUB": "az"}
+{"fq": 1, "ACC": "döntés", "INE": "hely", "NOM": "bíróság"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "választmány"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "országgyűlés"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "kuratórium"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "kormány"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "képviselő--testület|képviselő--testület|képviselő-testület"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "képviselő--testület|képviselő--testület|képviselő-testület"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "képviselőház"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "bizottság", "SUP": "ülés"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "NOM": "bizottság"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "INS": "ez", "nélkül": "vita", "NOM": "megszületett", "SUP": "tanácsülés"}
+{"fq": 1, "ACC": "döntés", "FAC": "jó", "INE": "kérdés", "NOM": "április", "TER": "30"}
+{"fq": 1, "ACC": "döntés", "DAT": "kancelláriaminiszter", "FAC": "jó", "NOM": "István"}
+{"fq": 1, "ACC": "döntés", "DAT": "belügyminiszter", "FAC": "jó", "NOM": "Jack"}
+{"fq": 1, "ACC": "dolog", "NOM": "jó", "SUP": "béke", "TER": "az"}
+{"fq": 1, "ACC": "dolog", "nélkül": "szó"}
+{"fq": 1, "ACC": "dolog", "INE": "ennyi", "szerint": "hír"}
+{"fq": 1, "ACC": "dolog", "INE": "ennyi", "NOM": "olvasótábor"}
+{"fq": 1, "ACC": "dolog", "INE": "december"}
+{"fq": 1, "ACC": "dolog", "INE": "annyi", "NOM": "frakció"}
+{"fq": 1, "ACC": "dolog", "ILL": "ennyi", "NOM": "férj"}
+{"fq": 1, "ACC": "dolog", "DAT": "ember", "SUB": "feleség"}
+{"fq": 1, "ACC": "dolog"}
+{"fq": 1, "ACC": "dollár", "FAC": "jó"}
+{"fq": 1, "ACC": "dollár", "CAU": "medicina", "INE": "patika", "NOM": "amerikai", "SUB": "recept"}
+{"fq": 1, "ACC": "dollár"}
+{"fq": 1, "ACC": "dokumentum", "FAC": "jó", "SUP": "ülés"}
+{"fq": 1, "ACC": "dohányszita"}
+{"fq": 1, "ACC": "dögtest", "DAT": "holló", "SUP": "az"}
+{"fq": 1, "ACC": "doboz"}
+{"fq": 1, "ACC": "dobás", "nélkül": "kommentár", "NOM": "csapattárs"}
+{"fq": 1, "ACC": "divat"}
+{"fq": 1, "ACC": "disznó", "INE": "ól", "NOM": "hatósági"}
+{"fq": 1, "ACC": "dinnyehús", "SUP": "héj"}
+{"fq": 1, "ACC": "díjemelés", "FAC": "jó", "NOM": "kormányzat"}
+{"fq": 1, "ACC": "detektívtörténet", "ILL": "az"}
+{"fq": 1, "ACC": "deszka", "SUP": "csupasz"}
+{"fq": 1, "ACC": "delegáció", "NOM": "bolgár", "SUB": "maga"}
+{"fq": 1, "ACC": "csütörtök"}
+{"fq": 1, "ACC": "csónak", "SUP": "víz"}
+{"fq": 1, "ACC": "csomag"}
+{"fq": 1, "ACC": "csomagolás", "SUB": "perc"}
+{"fq": 1, "ACC": "csókos", "NOM": "otthon"}
+{"fq": 1, "ACC": "csődtömeg", "NOM": "építmény", "után": "maga"}
+{"fq": 1, "ACC": "cseresznye"}
+{"fq": 1, "ACC": "cseléd", "INS": "halott"}
+{"fq": 1, "ACC": "cseh", "NOM": "dátum"}
+{"fq": 1, "ACC": "csecsemő", "ADE": "házaspár", "INE": "hotel", "NOM": "férfi"}
+{"fq": 1, "ACC": "csapat", "INE": "cser", "INS": "pont", "NOM": "taposó"}
+{"fq": 1, "ACC": "csapat", "ELA": "felnőtt", "NOM": "határőr", "SUB": "sors"}
+{"fq": 1, "ACC": "csap"}
+{"fq": 1, "ACC": "család", "NOM": "otthon"}
+{"fq": 1, "ACC": "család", "INE": "cser"}
+{"fq": 1, "ACC": "család"}
+{"fq": 1, "ACC": "család"}
+{"fq": 1, "ACC": "cipő", "ADE": "gyomlálás", "SUP": "szél"}
+{"fq": 1, "ACC": "cilinder"}
+{"fq": 1, "ACC": "cigánykodás", "nélkül": "szó"}
+{"fq": 1, "ACC": "cél", "FAC": "jó", "ILL": "törvényjavaslat", "INS": "előirányzat", "NOM": "miniszter", "SUB": "felterjesztés", "után": "beépítés"}
+{"fq": 1, "ACC": "bútor", "INE": "elmenő", "NOM": "ember"}
+{"fq": 1, "ACC": "büntetés", "belül": "nap", "INE": "hely", "NOM": "döntőbíróság"}
+{"fq": 1, "ACC": "buli", "ILL": "az", "INE": "világ", "miatt": "csendrendelet", "TEM": "óra"}
+{"fq": 1, "ACC": "bükkfa", "DAT": "rovarbölcső", "INE": "erdő"}
+{"fq": 1, "ACC": "búcsúlevél", "NOM": "gyermek"}
+{"fq": 1, "ACC": "búcsúlevél", "NOM": "fiú"}
+{"fq": 1, "ACC": "búcsúlevél", "NOM": "férfi"}
+{"fq": 1, "ACC": "búcsúirat", "NOM": "haldokló", "SUB": "barát"}
+{"fq": 1, "ACC": "botrány", "NOM": "Fidesz"}
+{"fq": 1, "ACC": "bot", "SUP": "karfa"}
+{"fq": 1, "ACC": "bot"}
+{"fq": 1, "ACC": "boszorkány", "SUB": "vég"}
+{"fq": 1, "ACC": "boszorka", "DAT": "apuci"}
+{"fq": 1, "ACC": "börtön"}
+{"fq": 1, "ACC": "bőrönd"}
+{"fq": 1, "ACC": "boríték", "SUP": "íróasztal"}
+{"fq": 1, "ACC": "bolt"}
+{"fq": 1, "ACC": "bölcsészkar", "NOM": "harmad"}
+{"fq": 1, "ACC": "bokros--csomag"}
+{"fq": 1, "ACC": "boa", "INE": "hall"}
+{"fq": 1, "ACC": "birtok"}
+{"fq": 1, "ACC": "bicaj", "ADE": "strand", "ALL": "kilátó", "NOM": "gyalogtúra", "SUB": "megőrzés"}
+{"fq": 1, "ACC": "bevétel", "NOM": "önkormányzat"}
+{"fq": 1, "ACC": "betiltás", "NOM": "francia"}
+{"fq": 1, "ACC": "beteg", "SUB": "sors"}
+{"fq": 1, "ACC": "beteg", "INE": "cser"}
+{"fq": 1, "ACC": "beszólás", "NOM": "karakterszámú", "TER": "idő"}
+{"fq": 1, "ACC": "beszéd", "FAC": "jó", "NOM": "bizottság"}
+{"fq": 1, "ACC": "beszéd"}
+{"fq": 1, "ACC": "beszámoló", "FAC": "jó", "NOM": "miniszter", "SUB": "felterjesztés"}
+{"fq": 1, "ACC": "bérbeadás", "FAC": "jó", "NOM": "további"}
+{"fq": 1, "ACC": "benzin"}
+{"fq": 1, "ACC": "belső", "DAT": "méhes"}
+{"fq": 1, "ACC": "belga", "NOM": "ilyesmi"}
+{"fq": 1, "ACC": "béke", "DAT": "évjárat", "NOM": "oldali"}
+{"fq": 1, "ACC": "béke", "DAT": "én"}
+{"fq": 1, "ACC": "béke", "DAT": "ember", "TER": "az"}
+{"fq": 1, "ACC": "bekecs"}
+{"fq": 1, "ACC": "béke"}
+{"fq": 1, "ACC": "befektetői", "INS": "százalékpont", "miatt": "veszteség", "NOM": "alap", "SUB": "osztalék", "SUP": "hopp"}
+{"fq": 1, "ACC": "bátya|báty", "ADE": "fakép", "INE": "Kanada"}
+{"fq": 1, "ACC": "barát", "DAT": "király"}
+{"fq": 1, "ACC": "barát"}
+{"fq": 1, "ACC": "baj", "SUP": "part"}
+{"fq": 1, "ACC": "bajnokság", "INE": "sport", "NOM": "izgalmas", "SUB": "vég"}
+{"fq": 1, "ACC": "bácsi", "SUP": "béke"}
+{"fq": 1, "ACC": "bácsi", "ADE": "fakép", "NOM": "egész"}
+{"fq": 1, "ACC": "báb", "SUB": "maga"}
+{"fq": 1, "ACC": "az", "számára": "televízió"}
+{"fq": 1, "ACC": "az", "NOM": "meseszám"}
+{"fq": 1, "ACC": "az", "NOM": "főkormányszék"}
+{"fq": 1, "ACC": "az", "nélkül": "szó", "NOM": "hivatal"}
+{"fq": 1, "ACC": "az", "kívül": "figyelem", "szerint": "vezető"}
+{"fq": 1, "ACC": "az", "kívül": "figyelem", "SUP": "sor"}
+{"fq": 1, "ACC": "az", "kívül": "figyelem", "SUB": "évad"}
+{"fq": 1, "ACC": "az", "kívül": "figyelem", "NOM": "szabad"}
+{"fq": 1, "ACC": "az", "INS": "mennyi"}
+{"fq": 1, "ACC": "az", "FAC": "jó", "NOM": "elnök", "szerint": "Javnosti"}
+{"fq": 1, "ACC": "az", "előtt": "nyilvánítás", "FAC": "jó"}
+{"fq": 1, "ACC": "az", "DEL": "változás", "nélkül": "szó", "NOM": "2."}
+{"fq": 1, "ACC": "az", "DAT": "maga"}
+{"fq": 1, "ACC": "az", "ADE": "döntés", "kívül": "figyelem", "NOM": "testület"}
+{"fq": 1, "ACC": "autó", "NOM": "vidéki"}
+{"fq": 1, "ACC": "autó", "ellenére": "felhívás", "INS": "nap", "NOM": "otthon"}
+{"fq": 1, "ACC": "autó", "INS": "motor"}
+{"fq": 1, "ACC": "ÁTOKszállás", "NOM": "egzotikus", "SUB": "sors"}
+{"fq": 1, "ACC": "átlaglétszám", "ADE": "szervezés", "kívül": "figyelem", "NOM": "csoport"}
+{"fq": 1, "ACC": "asszony", "ALL": "maga", "INS": "ajtó", "mögött": "maga", "NOM": "fiú"}
+{"fq": 1, "ACC": "áruló", "szerint": "szabály"}
+{"fq": 1, "ACC": "ár", "SUB": "pengő"}
+{"fq": 1, "ACC": "áremelés", "nélkül": "szó", "NOM": "Versenyhivatal"}
+{"fq": 1, "ACC": "arc", "INE": "árnyék"}
+{"fq": 1, "ACC": "anyag", "SUB": "utókor"}
+{"fq": 1, "ACC": "anyag", "NOM": "kártevő", "SUP": "béke"}
+{"fq": 1, "ACC": "antibiotikum", "INE": "India", "között": "egyéb", "NOM": "csoport"}
+{"fq": 1, "ACC": "Anna"}
+{"fq": 1, "ACC": "általánosítás"}
+{"fq": 1, "ACC": "állítás", "kívül": "figyelem", "NOM": "bíróság"}
+{"fq": 1, "ACC": "állás", "NOM": "év", "SUP": "osztály"}
+{"fq": 1, "ACC": "állás", "INE": "január", "következtében": "döntés", "NOM": "ön"}
+{"fq": 1, "ACC": "államtanács", "NOM": "királynő"}
+{"fq": 1, "ACC": "állam", "nélkül": "szó", "NOM": "királyság", "TEM": "elemzés"}
+{"fq": 1, "ACC": "alkotó", "INE": "cser", "NOM": "humorérzék", "TEM": "az"}
+{"fq": 1, "ACC": "alkotás", "DEL": "munkabírás", "ellenére": "rákbetegség", "NOM": "zeneszerző"}
+{"fq": 1, "ACC": "alapszabályzat", "FAC": "jó", "NOM": "június"}
+{"fq": 1, "ACC": "alapkérdés", "NOM": "eladható"}
+{"fq": 1, "ACC": "alap", "FAC": "jó", "NOM": "két", "SUP": "csúcsértekezlet"}
+{"fq": 1, "ACC": "aláírás", "FAC": "jó", "NOM": "frakció"}
+{"fq": 1, "ACC": "aknavető", "ILL": "irány", "NOM": "kukoricaföld", "SUP": "oldal"}
+{"fq": 1, "ACC": "akkora"}
+{"fq": 1, "ACC": "aki", "NOM": "filozófia"}
+{"fq": 1, "ACC": "ajtó", "NOM": "szalon"}
+{"fq": 1, "ACC": "ajtó", "NOM": "geci"}
+{"fq": 1, "ACC": "ajtó", "NOM": "fiatalember"}
+{"fq": 1, "ACC": "ajtó", "NOM": "döntés"}
+{"fq": 1, "ACC": "ajtó--ablak"}
+{"fq": 1, "ACC": "ágy", "NOM": "Hárfás", "SUP": "vasárnap"}
+{"fq": 1, "ACC": "ágy", "NOM": "öngyilkosság"}
+{"fq": 1, "ACC": "ágy", "NOM": "háromajtós", "SUP": "hely"}
+{"fq": 1, "ACC": "agyag", "SUB": "maga"}
+{"fq": 1, "ACC": "aggodalom", "kívül": "figyelem", "NOM": "főnök"}
+{"fq": 1, "ACC": "aggodalom", "INS": "ez", "kívül": "figyelem", "NOM": "hatóság"}
+{"fq": 1, "ACC": "adósság"}
+{"fq": 1, "ACC": "Adorján", "ADE": "fakép", "INS": "ez", "NOM": "fiatalember"}
+{"fq": 1, "ACC": "adat", "ADE": "számadás", "kívül": "figyelem"}
+{"fq": 1, "ACC": "adatgyűjtés", "NOM": "képviselő"}
+{"fq": 1, "ACC": "ablak", "INE": "remény"}
+{"fq": 1, "ACC": "ablakláda", "SUB": "tél"}
+{"fq": 1, "ABL": "óra", "FAC": "jó", "INS": "módosítás", "NOM": "április", "SUP": "ülés"}
+{"fq": 1, "ABL": "mennyiség", "ACC": "nyilvántartás", "DAT": "parancsnokság", "FAC": "jó", "INE": "eset", "NOM": "számlakibocsátás"}
+{"fq": 1, "ABL": "január", "ACC": "több", "ADE": "eddigi", "INS": "sok", "NOM": "szabály"}
+{"fq": 1, "ABL": "igény", "ACC": "szám", "FAC": "jó", "NOM": "helyi"}
+{"fq": 1, "ABL": "időpont", "ACC": "összeg", "ADE": "meghatározás", "kívül": "figyelem", "NOM": "folyósítás"}
+{"fq": 1, "ABL": "húzás", "ACC": "mese"}
+{"fq": 1, "ABL": "gőg", "DEL": "isten", "INE": "jézus", "SUB": "ikon", "SUP": "föld"}
+{"fq": 1, "ABL": "érzelmesség", "ACC": "jel", "DAT": "humor", "INE": "film", "NOM": "kifejezés"}
+{"fq": 1, "ABL": "ember", "ACC": "NULL", "alatt": "felügyelet", "NOM": "távol"}
+{"fq": 1, "ABL": "derék", "ACC": "bunkersor", "DAT": "martalék"}
+{"fq": 1, "ABL": "betörő", "ACC": "villany", "NOM": "fél"}
+{"fq": 1, "ABL": "az", "FAC": "jó", "NOM": "havi"}
+{"fq": 1, "ABL": "ajtó", "ACC": "járda", "DAT": "szenesvödör", "NOM": "mester", "TER": "kályha"}
+{"fq": 1, "ABL": "aggodalom", "ACC": "férj", "INE": "York", "NOM": "sápadt"}
+{"fq": 1, "ABL": "1", "INE": "mely", "NOM": "érték"}
