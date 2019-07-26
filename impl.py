@@ -164,7 +164,7 @@ for i in sorted(cl_vertices_f, key=lambda x: (cl_vertices_l[x],-cl_vertices_f[x]
   print_full( i )
 
   if i not in cl_edges_fwrd:
-    print_msg( "No in-edge, skip." )
+    print_msg( "No out-edge, skip." )
   elif ( cl_vertices_f[i] < 3 ):
     print_msg( "Too rare (<3), skip." )
   elif ( cl_vertices_l[i] > 8 ):
