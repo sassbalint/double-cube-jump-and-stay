@@ -3,7 +3,7 @@
 ## What is this all about?
 
 The “jump and stay” method is described here:
-[The “jump and stay” method to discover proper verb centered constructions in corpus lattices](RANLP 2019...)
+[The “jump and stay” method to discover proper verb centered constructions in corpus lattices](http://www.nytud.hu/oszt/korpusz/resources/sb_jump_and_stay.pdf)
 
 The foundation, the double cube model is described here:
 [A lattice based algebraic model for verb centered constructions](http://www.nytud.hu/oszt/korpusz/resources/sb_lattice_foundation.pdf)
