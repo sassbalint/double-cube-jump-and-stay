@@ -1,3 +1,4 @@
+import sys
 import fileinput
 import json
 
@@ -10,7 +11,13 @@ def sorted_keys( d ):
   return sorted(d.keys())
 
 def json2dict( x ):
-  return json.loads(x, encoding="utf-8")
+  j = None
+  try:
+    j = json.loads(x, encoding="utf-8")
+  except ValueError as err:
+    sys.stderr.write( "ValueError: {}".format( err ) + "{" + x + "}\n" )
+    exit( 1 )
+  return j
 
 def dict2jsonarray( x ):
   z = []
