@@ -178,8 +178,8 @@ for i in sorted(cl_vertices_f, key=lambda x: (cl_vertices_l[x],-cl_vertices_f[x]
     path = []
 
     while True:
-      stay = True
-      jump = True
+      stay_found = True
+      jump_found = True
 
       max_out = None
       d = cl_edges_fwrd.get( act, {} )
@@ -196,7 +196,7 @@ for i in sorted(cl_vertices_f, key=lambda x: (cl_vertices_l[x],-cl_vertices_f[x]
       else:
         print_msg( "No stay (ratio={0:2.2f} > {1}), we stop.".format(
           ratio( max_out, act ) if max_out else 0, STAY ) )
-        stay = False
+        stay_found = False
 
         max_inn = None
         d = cl_edges_back.get( act, {} )
@@ -233,9 +233,13 @@ for i in sorted(cl_vertices_f, key=lambda x: (cl_vertices_l[x],-cl_vertices_f[x]
             act = max_inn
           else:
             print_msg( "No appropriate jump ({0}, {1:2.2f} < {2}), we stop.".format( info_msg, r, jump ) )
-            jump = False
+            jump_found = False
 
-      if not stay and not jump: break
+        else:
+          print_msg( "No backward edge -- no jump, we stop." )
+          jump_found = False
+
+      if not stay_found and not jump_found: break
 
     if ( is_top_of_cl( act ) ):
       print_msg( "Concrete sentence skeleton." )
