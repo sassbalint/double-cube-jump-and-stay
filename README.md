@@ -29,8 +29,13 @@ python 3
 make
 uni2ascii (if not available: sudo apt-get install uni2ascii)
 
+## Language independency
+
+This method is considered language independent.
+See: sassbalint/double-cube-jump-and-stay-multilingual
+
 ## License
 
-If you want to use it, please cite the above papers and contact me. :)
+If you want to use this, please cite the above papers and contact me. :)
 No warranty, sorry.
 
