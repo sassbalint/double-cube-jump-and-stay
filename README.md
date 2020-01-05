@@ -32,7 +32,7 @@ uni2ascii (if not available: sudo apt-get install uni2ascii)
 ## Language independency
 
 This method is considered language independent.
-See: sassbalint/double-cube-jump-and-stay-multilingual
+See: https://github.com/sassbalint/double-cube-jump-and-stay-multilingual
 
 ## License
 
